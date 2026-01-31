@@ -2,88 +2,231 @@
   "news": [
     {
       "id": 1,
-      "title": "Anthropic סוגרת סבב גיוס ענק של $15 מיליארד בשווי $350 מיליארד",
-      "headline": "יוצרת Claude הופכת לסטארטאפ ה-AI היקר בעולם עם השקעות מ-Microsoft ו-NVIDIA",
-      "summary": "Anthropic סגרה את סבב הגיוס האחרון שלה מעל יעד של $10 מיליארד, ועשויה להגיע ל-$15 מיליארד עם תרומות מ-Microsoft ו-NVIDIA. שווי החברה זינק ל-$350 מיליארד, בזכות הפופולריות המטאורית של Claude Code.",
+      "title": "🌐 Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "originalTitle": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
       "summaryBullets": [
-        "סבב הגיוס הגדול בהיסטוריה של סטארטאפ AI - עד $15 מיליארד",
-        "Microsoft ו-NVIDIA מובילות את ההשקעה עם מיליארדים נוספים",
-        "Claude Code הפך לכלי הקידוד הפופולרי ביותר בקרב מפתחים"
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
       ],
-      "category": "מימון",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/01/27/anthropic-fundraising-microsoft-nvidia.html",
-      "image": "anthropic",
-      "timeAgo": "לפני שעתיים",
-      "isBreaking": true
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
     },
     {
       "id": 2,
-      "title": "NVIDIA חושפת את Vera Rubin: העתיד של מחשוב AI",
-      "headline": "שישה שבבים חדשים, סופר-מחשב AI אחד — החזון של Jensen Huang ל-2026",
-      "summary": "ב-CES 2026, NVIDIA חשפה את פלטפורמת Vera Rubin פורצת הדרך למרכזי נתונים של AI. מעבדות AI מובילות כולל OpenAI, Anthropic, Meta ו-xAI צפויות לאמץ את הארכיטקטורה החדשה שתגיע במחצית השנייה של 2026.",
+      "title": "🌐 Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+      "originalTitle": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
       "summaryBullets": [
-        "פלטפורמת Vera Rubin מציעה קפיצת מדרגה בביצועי AI",
-        "כל מעבדות ה-AI הגדולות צפויות לאמץ את הטכנולוגיה",
-        "המוצרים הראשונים יגיעו לשוק במחצית השנייה של 2026"
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
       ],
-      "category": "חומרה",
+      "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
-      "image": "nvidia",
-      "timeAgo": "לפני 5 שעות",
-      "isBreaking": false
+      "sourceUrl": "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
     },
     {
       "id": 3,
-      "title": "Claude Cowork: AI שעובד לצידך",
-      "headline": "הפיצ'ר החדש של Anthropic מעניק ל-Claude גישה לקבצים המקומיים שלך",
-      "summary": "Anthropic משיקה את Claude Cowork, והופכת את הצ'אטבוט לעמית דיגיטלי אמיתי. הפיצ'ר זמין למשתמשי Claude Max ב-macOS ומאפשר ל-Claude לגשת לתיקיות מקומיות ולהשלים משימות באופן עצמאי.",
+      "title": "🌐 GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+      "originalTitle": "GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
       "summaryBullets": [
-        "Claude יכול כעת לעבוד ישירות עם קבצים במחשב שלך",
-        "זמין כרגע רק למנויי Claude Max על macOS",
-        "מסמן את המעבר מצ'אטבוט לעוזר עבודה אמיתי"
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
       ],
       "category": "מוצר",
-      "source": "TechRadar",
-      "sourceUrl": "https://www.techradar.com/ai-platforms-assistants/claudes-latest-upgrade-is-the-ai-breakthrough-ive-been-waiting-for-5-ways-cowork-could-be-the-biggest-ai-innovation-of-2026",
-      "image": "cowork",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": false
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
     },
     {
       "id": 4,
-      "title": "מירוץ ה-IPO: OpenAI נגד Anthropic",
-      "headline": "שני ענקיות ה-AI צפויות להנפיק ב-2026 — אבל באיזה מחיר?",
-      "summary": "המירוץ לוול סטריט החל. OpenAI (שווי $750 מיליארד) ו-Anthropic ($350 מיליארד) שתיהן מכינות תיקי הנפקה. המשקיעים תוהים האם השוק יהיה מוכן לשלם תגי מחיר כה גבוהים למרות צמיחת ההכנסות המרשימה.",
+      "title": "🌐 Inside OpenAI’s in-house data agent",
+      "originalTitle": "Inside OpenAI’s in-house data agent",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
       "summaryBullets": [
-        "שתי החברות צפויות להנפיק במהלך 2026",
-        "OpenAI בשווי $750B, Anthropic ב-$350B",
-        "השאלה הגדולה: האם המשקיעים ישלמו את המחיר?"
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
       ],
-      "category": "שווקים",
-      "source": "Financial Times",
-      "sourceUrl": "https://www.cnbc.com/2026/01/06/space-x-openai-and-anthropic-could-ipo-this-year-but-is-it-willing-to-pay.html",
-      "image": "ipo",
-      "timeAgo": "לפני 12 שעות",
-      "isBreaking": false
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/inside-our-in-house-data-agent",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
     },
     {
       "id": 5,
-      "title": "GPT-5.2 משיג ציוני שיא בבנצ'מרק החשיבה",
-      "headline": "המודל החדש של OpenAI מגיע ל-70.9% ב-GDPval — הציון הגבוה ביותר שנרשם אי פעם",
-      "summary": "GPT-5.2 עם חשיבה מורחבת השיג את הציון הגבוה ביותר אי פעם במבחן GDPval. העדכון הופך את GPT-5 לחמים יותר, שיחתי יותר ומשמעותית טוב יותר במשימות חשיבה מורכבות.",
+      "title": "🌐 Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "originalTitle": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
       "summaryBullets": [
-        "70.9% ב-GDPval — שיא כל הזמנים",
-        "שיפורים משמעותיים ביכולות השיחה והחשיבה",
-        "מתחרה ישירות עם Claude Opus 4.5 על הכתר"
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
       ],
       "category": "מחקר",
-      "source": "LLM Stats",
-      "sourceUrl": "https://llm-stats.com/llm-updates",
-      "image": "openai",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/taisei",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
+      "title": "🌐 Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "originalTitle": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "summaryBullets": [
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 7,
+      "title": "הסוף של גוגל טרנסלייט? הייתי מחכה עם ההצהרות... חברת OpenAI השיקה הבוקר כלי תרגום שמופעל ע״י ChatGPT, הממשק מאוד דומה לזה של גוגל טרנסלייט ואמור לספק ...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "הסוף של גוגל טרנסלייט? הייתי מחכה עם ההצהרות... חברת OpenAI השיקה הבוקר כלי תרגום שמופעל ע״י ChatGPT, הממשק מאוד דומה לזה של גוגל טרנסלייט ואמור לספק ...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
+      "id": 8,
+      "title": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
+      "id": 9,
+      "title": "🌐 AI use surges at Travelers as call centre roles reduce",
+      "originalTitle": "AI use surges at Travelers as call centre roles reduce",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "summaryBullets": [
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
       "timeAgo": "לפני יום",
-      "isBreaking": false
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
+      "title": "🌐 PepsiCo is using AI to rethink how factories are designed and updated",
+      "originalTitle": "PepsiCo is using AI to rethink how factories are designed and updated",
+      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
+      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "summaryBullets": [
+        "עדכון חשוב מעולם הבינה המלאכותית",
+        "השפעה צפויה על תעשיית הטכנולוגיה",
+        "פרטים נוספים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
     }
   ],
   "aiTools": [
@@ -123,5 +266,27 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-01-31T08:00:00.000Z"
+  "lastUpdated": "2026-01-31T14:03:08.088Z",
+  "sources": {
+    "official": [
+      "OpenAI Blog",
+      "Anthropic News",
+      "NVIDIA Newsroom"
+    ],
+    "hebrew": [
+      "AI Israel Telegram",
+      "il.chat"
+    ],
+    "tech": [
+      "TechCrunch AI",
+      "AI News"
+    ],
+    "research": [
+      "Hugging Face Blog",
+      "arXiv AI"
+    ],
+    "community": [
+      "Hacker News"
+    ]
+  }
 }

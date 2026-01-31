@@ -1,17 +1,22 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0a0a12;
-  --foreground: #e8e8f0;
-  --primary: #7c3aed;
-  --primary-light: #a78bfa;
-  --secondary: #3b82f6;
-  --accent: #06b6d4;
-  --card-bg: rgba(20, 20, 35, 0.7);
-  --card-border: rgba(124, 58, 237, 0.3);
-  --glass-bg: rgba(15, 15, 30, 0.6);
-  --glow-primary: rgba(124, 58, 237, 0.5);
-  --glow-secondary: rgba(59, 130, 246, 0.5);
+  --background: #0a0a0f;
+  --foreground: #f0f0f5;
+
+  /* LetsAI Brand Colors - Premium Deep Purple */
+  --primary: #85268A;
+  --primary-light: #a855f7;
+  --primary-dark: #6b1f6e;
+  --secondary: #2563eb;
+  --accent: #0891b2;
+
+  /* Refined Glass Effects */
+  --card-bg: rgba(15, 15, 25, 0.75);
+  --card-border: rgba(133, 38, 138, 0.25);
+  --glass-bg: rgba(10, 10, 20, 0.7);
+  --glow-primary: rgba(133, 38, 138, 0.35);
+  --glow-secondary: rgba(37, 99, 235, 0.25);
 }
 
 @theme inline {
@@ -25,13 +30,9 @@
   --font-mono: var(--font-geist-mono);
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
-html {
-  direction: rtl;
-}
+html { direction: rtl; }
 
 body {
   background: var(--background);
@@ -40,145 +41,138 @@ body {
   min-height: 100vh;
 }
 
-/* RTL Support Utilities */
-[dir="rtl"] .flip-rtl {
-  transform: scaleX(-1);
-}
+/* RTL Support */
+[dir="rtl"] .flip-rtl { transform: scaleX(-1); }
 
-[dir="rtl"] .space-x-reverse > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-x-reverse: 1;
-}
-
-/* RTL Gradient Fixes */
-[dir="rtl"] .bg-gradient-to-r {
-  background: linear-gradient(to left, var(--tw-gradient-stops));
-}
-
-[dir="rtl"] .bg-gradient-to-l {
-  background: linear-gradient(to right, var(--tw-gradient-stops));
-}
-
-/* Animated gradient background */
+/* Premium Gradient Background */
 .bg-cyber-gradient {
   background:
-    radial-gradient(ellipse at 80% 20%, rgba(124, 58, 237, 0.15) 0%, transparent 50%),
-    radial-gradient(ellipse at 20% 80%, rgba(59, 130, 246, 0.1) 0%, transparent 50%),
-    radial-gradient(ellipse at 50% 50%, rgba(6, 182, 212, 0.05) 0%, transparent 70%),
-    linear-gradient(180deg, #0a0a12 0%, #0f0f1a 50%, #0a0a12 100%);
+    radial-gradient(ellipse at 80% 15%, rgba(133, 38, 138, 0.12) 0%, transparent 45%),
+    radial-gradient(ellipse at 20% 85%, rgba(37, 99, 235, 0.08) 0%, transparent 45%),
+    radial-gradient(ellipse at 50% 50%, rgba(8, 145, 178, 0.04) 0%, transparent 60%),
+    linear-gradient(180deg, #0a0a0f 0%, #0d0d15 50%, #0a0a0f 100%);
   background-attachment: fixed;
 }
 
-/* Glassmorphism card */
+/* Premium Glassmorphism */
 .glass-card {
   background: var(--glass-bg);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--card-border);
   border-radius: 16px;
-  transition: all 0.3s ease;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .glass-card:hover {
-  border-color: rgba(124, 58, 237, 0.6);
+  border-color: rgba(133, 38, 138, 0.5);
   box-shadow:
-    0 0 30px rgba(124, 58, 237, 0.2),
-    0 0 60px rgba(59, 130, 246, 0.1);
-  transform: translateY(-2px);
+    0 4px 30px rgba(133, 38, 138, 0.15),
+    0 0 40px rgba(37, 99, 235, 0.08);
+  transform: translateY(-3px);
 }
 
-/* Glowing text */
+/* Refined Glow Text */
 .glow-text {
   text-shadow:
-    0 0 10px var(--glow-primary),
-    0 0 20px var(--glow-primary),
-    0 0 40px var(--glow-secondary);
+    0 0 20px rgba(133, 38, 138, 0.4),
+    0 0 40px rgba(133, 38, 138, 0.2);
 }
 
-/* Gradient text */
+/* Premium Gradient Text */
 .gradient-text {
-  background: linear-gradient(135deg, #a78bfa 0%, #3b82f6 50%, #06b6d4 100%);
+  background: linear-gradient(135deg, #a855f7 0%, #85268A 40%, #2563eb 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-/* Breaking news pulse */
+/* Breaking News - Subtle Pulse */
 @keyframes pulse-glow {
-  0%, 100% {
-    box-shadow: 0 0 5px rgba(239, 68, 68, 0.5);
-  }
-  50% {
-    box-shadow: 0 0 20px rgba(239, 68, 68, 0.8), 0 0 30px rgba(239, 68, 68, 0.4);
-  }
+  0%, 100% { box-shadow: 0 0 8px rgba(220, 38, 38, 0.4); }
+  50% { box-shadow: 0 0 16px rgba(220, 38, 38, 0.6), 0 0 24px rgba(220, 38, 38, 0.3); }
 }
+.breaking-pulse { animation: pulse-glow 2.5s ease-in-out infinite; }
 
-.breaking-pulse {
-  animation: pulse-glow 2s ease-in-out infinite;
-}
-
-/* Animated border gradient */
+/* Animated Border - More Elegant */
 .animated-border {
   position: relative;
   background: var(--glass-bg);
   border-radius: 16px;
 }
-
 .animated-border::before {
   content: '';
   position: absolute;
-  inset: -2px;
-  border-radius: 18px;
-  background: linear-gradient(45deg, #7c3aed, #3b82f6, #06b6d4, #7c3aed);
+  inset: -1px;
+  border-radius: 17px;
+  background: linear-gradient(45deg, #85268A, #2563eb, #0891b2, #85268A);
   background-size: 300% 300%;
-  animation: gradient-rotate 4s ease infinite;
+  animation: gradient-rotate 6s ease infinite;
   z-index: -1;
-  opacity: 0.5;
+  opacity: 0.4;
 }
-
 @keyframes gradient-rotate {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
 
-/* Grid pattern overlay */
+/* Subtle Grid Pattern */
 .grid-pattern {
   background-image:
-    linear-gradient(rgba(124, 58, 237, 0.03) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(124, 58, 237, 0.03) 1px, transparent 1px);
-  background-size: 50px 50px;
+    linear-gradient(rgba(133, 38, 138, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(133, 38, 138, 0.02) 1px, transparent 1px);
+  background-size: 60px 60px;
 }
 
-/* Category badges */
-.badge-funding, .badge-מימון { background: linear-gradient(135deg, #10b981, #059669); }
-.badge-hardware, .badge-חומרה { background: linear-gradient(135deg, #f59e0b, #d97706); }
-.badge-product, .badge-מוצר { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
-.badge-markets, .badge-שווקים { background: linear-gradient(135deg, #3b82f6, #2563eb); }
-.badge-research, .badge-מחקר { background: linear-gradient(135deg, #06b6d4, #0891b2); }
+/* Category Badges - Refined */
+.badge-מימון { background: linear-gradient(135deg, #059669, #047857); }
+.badge-חומרה { background: linear-gradient(135deg, #d97706, #b45309); }
+.badge-מוצר { background: linear-gradient(135deg, #85268A, #6b1f6e); }
+.badge-שווקים { background: linear-gradient(135deg, #2563eb, #1d4ed8); }
+.badge-מחקר { background: linear-gradient(135deg, #0891b2, #0e7490); }
 
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 8px;
+/* Source Type Badges */
+.source-badge-official {
+  background: linear-gradient(135deg, #059669, #047857);
+  box-shadow: 0 2px 8px rgba(5, 150, 105, 0.3);
+}
+.source-badge-local {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+}
+.source-badge-tech {
+  background: linear-gradient(135deg, #85268A, #6b1f6e);
+  box-shadow: 0 2px 8px rgba(133, 38, 138, 0.3);
+}
+.source-badge-research {
+  background: linear-gradient(135deg, #0891b2, #0e7490);
+  box-shadow: 0 2px 8px rgba(8, 145, 178, 0.3);
+}
+.source-badge-community {
+  background: linear-gradient(135deg, #d97706, #b45309);
+  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.3);
 }
 
-::-webkit-scrollbar-track {
-  background: rgba(15, 15, 30, 0.5);
+/* Verified Badge */
+.verified-badge {
+  background: linear-gradient(135deg, #059669, #047857);
+  box-shadow: 0 0 12px rgba(5, 150, 105, 0.4);
 }
 
+/* Premium Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: rgba(10, 10, 15, 0.5); }
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, #7c3aed, #3b82f6);
-  border-radius: 4px;
+  background: linear-gradient(180deg, #85268A, #2563eb);
+  border-radius: 3px;
 }
-
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, #8b5cf6, #60a5fa);
+  background: linear-gradient(180deg, #a855f7, #3b82f6);
 }
 
-/* Hover underline effect - RTL aware */
-.hover-underline {
-  position: relative;
-}
-
+/* Hover Underline - RTL */
+.hover-underline { position: relative; }
 .hover-underline::after {
   content: '';
   position: absolute;
@@ -186,52 +180,53 @@ body {
   right: 0;
   width: 0;
   height: 2px;
-  background: linear-gradient(90deg, #3b82f6, #7c3aed);
+  background: linear-gradient(90deg, #2563eb, #85268A);
   transition: width 0.3s ease;
 }
+.hover-underline:hover::after { width: 100%; }
 
-.hover-underline:hover::after {
-  width: 100%;
-}
-
-/* Loading shimmer */
-@keyframes shimmer {
-  0% { background-position: 200% 0; }
-  100% { background-position: -200% 0; }
-}
-
-.shimmer {
-  background: linear-gradient(90deg,
-    rgba(124, 58, 237, 0.1) 25%,
-    rgba(124, 58, 237, 0.2) 50%,
-    rgba(124, 58, 237, 0.1) 75%);
-  background-size: 200% 100%;
-  animation: shimmer 2s infinite;
-}
-
-/* Summary panel animation */
+/* Summary Panel Animation */
 @keyframes slideDown {
-  from {
-    opacity: 0;
-    max-height: 0;
-    transform: translateY(-10px);
-  }
-  to {
-    opacity: 1;
-    max-height: 300px;
-    transform: translateY(0);
-  }
+  from { opacity: 0; max-height: 0; transform: translateY(-8px); }
+  to { opacity: 1; max-height: 300px; transform: translateY(0); }
 }
+.summary-panel { animation: slideDown 0.3s ease-out forwards; overflow: hidden; }
 
-.summary-panel {
-  animation: slideDown 0.3s ease-out forwards;
-  overflow: hidden;
-}
-
-/* Hebrew text improvements */
+/* Hebrew Text Optimization */
 .hebrew-text {
   font-feature-settings: "kern" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Favicon Container */
+.favicon-container {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.favicon-container img {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+}
+
+/* Loading Shimmer - Refined */
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+.shimmer {
+  background: linear-gradient(90deg,
+    rgba(133, 38, 138, 0.05) 25%,
+    rgba(133, 38, 138, 0.1) 50%,
+    rgba(133, 38, 138, 0.05) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 2.5s infinite;
 }

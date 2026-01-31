@@ -22,14 +22,16 @@ export default function Home() {
           source={breakingNews.source}
           timeAgo={breakingNews.timeAgo}
           category={breakingNews.category}
+          isVerified={breakingNews.isVerified}
+          sourceType={breakingNews.sourceType}
         />
 
         {/* Main Content Grid */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="flex items-center gap-3 mb-8">
-            <div className="h-px flex-1 bg-gradient-to-l from-transparent via-violet-500/50 to-transparent"></div>
+            <div className="h-px flex-1 bg-gradient-to-l from-transparent via-purple-500/40 to-transparent"></div>
             <h2 className="text-2xl font-bold">חדשות אחרונות</h2>
-            <div className="h-px flex-1 bg-gradient-to-r from-transparent via-violet-500/50 to-transparent"></div>
+            <div className="h-px flex-1 bg-gradient-to-r from-transparent via-purple-500/40 to-transparent"></div>
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -45,8 +47,13 @@ export default function Home() {
                   category={article.category}
                   source={article.source}
                   sourceUrl={article.sourceUrl}
+                  sourceType={article.sourceType}
+                  sourceTypeHebrew={article.sourceTypeHebrew}
+                  favicon={article.favicon}
                   timeAgo={article.timeAgo}
                   isBreaking={article.isBreaking}
+                  isVerified={article.isVerified}
+                  isHebrew={article.isHebrew}
                   featured={index === 0}
                 />
               ))}
@@ -56,6 +63,76 @@ export default function Home() {
             <div className="lg:col-span-1">
               <Sidebar tools={newsData.aiTools} />
             </div>
+          </div>
+        </section>
+
+        {/* Sources Section */}
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <div className="glass-card p-6">
+            <h3 className="text-lg font-bold mb-4 flex items-center gap-2">
+              <span className="w-2 h-2 bg-green-500 rounded-full"></span>
+              מקורות מידע פעילים
+            </h3>
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-4 text-sm">
+              <div>
+                <p className="text-purple-400 font-medium mb-2">רשמי</p>
+                <ul className="space-y-1 text-gray-400">
+                  {newsData.sources?.official?.map((s: string) => (
+                    <li key={s} className="flex items-center gap-1">
+                      <span className="w-1 h-1 bg-green-500 rounded-full"></span>
+                      {s}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="text-blue-400 font-medium mb-2">עברית</p>
+                <ul className="space-y-1 text-gray-400">
+                  {newsData.sources?.hebrew?.map((s: string) => (
+                    <li key={s} className="flex items-center gap-1">
+                      <span className="w-1 h-1 bg-blue-500 rounded-full"></span>
+                      {s}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="text-purple-400 font-medium mb-2">טכנולוגיה</p>
+                <ul className="space-y-1 text-gray-400">
+                  {newsData.sources?.tech?.map((s: string) => (
+                    <li key={s} className="flex items-center gap-1">
+                      <span className="w-1 h-1 bg-purple-500 rounded-full"></span>
+                      {s}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="text-cyan-400 font-medium mb-2">מחקר</p>
+                <ul className="space-y-1 text-gray-400">
+                  {newsData.sources?.research?.map((s: string) => (
+                    <li key={s} className="flex items-center gap-1">
+                      <span className="w-1 h-1 bg-cyan-500 rounded-full"></span>
+                      {s}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="text-orange-400 font-medium mb-2">קהילה</p>
+                <ul className="space-y-1 text-gray-400">
+                  {newsData.sources?.community?.map((s: string) => (
+                    <li key={s} className="flex items-center gap-1">
+                      <span className="w-1 h-1 bg-orange-500 rounded-full"></span>
+                      {s}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+            <p className="text-xs text-gray-500 mt-4">
+              עדכון אחרון: {newsData.lastUpdated ? new Date(newsData.lastUpdated).toLocaleString('he-IL') : 'לא זמין'}
+            </p>
           </div>
         </section>
 
@@ -83,12 +160,12 @@ export default function Home() {
               </div>
 
               {/* Anthropic Card */}
-              <div className="p-6 rounded-2xl bg-gradient-to-br from-violet-500/10 to-purple-500/5 border border-violet-500/20">
+              <div className="p-6 rounded-2xl bg-gradient-to-br from-purple-500/10 to-fuchsia-500/5 border border-purple-500/20">
                 <div className="flex items-center justify-between mb-4">
                   <span className="text-lg font-bold">Anthropic</span>
-                  <span className="text-xs px-2 py-1 rounded-full bg-violet-500/20 text-violet-400">פרטית</span>
+                  <span className="text-xs px-2 py-1 rounded-full bg-purple-500/20 text-purple-400">פרטית</span>
                 </div>
-                <div className="text-3xl font-bold text-violet-400 mb-1">$350B</div>
+                <div className="text-3xl font-bold text-purple-400 mb-1">$350B</div>
                 <div className="text-sm text-gray-400">שווי</div>
                 <div className="mt-4 pt-4 border-t border-white/5">
                   <div className="text-sm text-gray-400">הכנסות 2025</div>

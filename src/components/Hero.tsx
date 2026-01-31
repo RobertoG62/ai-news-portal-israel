@@ -1,6 +1,6 @@
 'use client';
 
-import { TrendingUp, Clock, Sparkles } from 'lucide-react';
+import { TrendingUp, Clock, Sparkles, CheckCircle2 } from 'lucide-react';
 
 interface HeroProps {
   headline: string;
@@ -9,34 +9,51 @@ interface HeroProps {
   source: string;
   timeAgo: string;
   category: string;
+  isVerified?: boolean;
+  sourceType?: string;
 }
 
-export default function Hero({ headline, title, summary, source, timeAgo, category }: HeroProps) {
+export default function Hero({ headline, title, summary, source, timeAgo, category, isVerified, sourceType }: HeroProps) {
   return (
     <section className="relative pt-24 pb-12 px-4 sm:px-6 lg:px-8 overflow-hidden">
-      {/* Background Effects */}
+      {/* Background Effects - More subtle */}
       <div className="absolute inset-0 overflow-hidden">
-        <div className="absolute top-20 right-1/4 w-96 h-96 bg-violet-600/20 rounded-full blur-3xl"></div>
-        <div className="absolute top-40 left-1/4 w-72 h-72 bg-blue-600/15 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-0 right-1/2 w-80 h-80 bg-cyan-600/10 rounded-full blur-3xl"></div>
+        <div className="absolute top-20 right-1/4 w-96 h-96 bg-purple-600/15 rounded-full blur-3xl"></div>
+        <div className="absolute top-40 left-1/4 w-72 h-72 bg-blue-600/10 rounded-full blur-3xl"></div>
+        <div className="absolute bottom-0 right-1/2 w-80 h-80 bg-cyan-600/8 rounded-full blur-3xl"></div>
       </div>
 
       <div className="relative max-w-7xl mx-auto">
-        {/* Breaking Badge */}
-        <div className="flex items-center gap-3 mb-6">
-          <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-red-500/20 border border-red-500/40 breaking-pulse">
+        {/* Top Badges */}
+        <div className="flex flex-wrap items-center gap-3 mb-6">
+          <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-red-500/15 border border-red-500/30 breaking-pulse">
             <span className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></span>
             <span className="text-sm font-medium text-red-400">מבזק</span>
           </span>
-          <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-violet-500/20 border border-violet-500/30 text-sm text-violet-300">
+
+          <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-purple-500/15 border border-purple-500/25 text-sm text-purple-300">
             <TrendingUp className="w-3.5 h-3.5" />
             פופולרי
           </span>
+
+          {isVerified && (
+            <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full verified-badge text-sm text-white font-medium">
+              <CheckCircle2 className="w-3.5 h-3.5" />
+              מקור רשמי מאומת
+            </span>
+          )}
+
+          {sourceType === 'official' && (
+            <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-green-500/15 border border-green-500/25 text-sm text-green-300">
+              <CheckCircle2 className="w-3.5 h-3.5" />
+              מקור רשמי
+            </span>
+          )}
         </div>
 
         {/* Main Content */}
         <div className="max-w-4xl">
-          <p className="text-violet-400 text-lg font-medium mb-3 flex items-center gap-2">
+          <p className="text-purple-400 text-lg font-medium mb-3 flex items-center gap-2">
             <Sparkles className="w-5 h-5" />
             {headline}
           </p>
@@ -58,18 +75,18 @@ export default function Hero({ headline, title, summary, source, timeAgo, catego
               <Clock className="w-4 h-4" />
               {timeAgo}
             </span>
-            <span>מקור: <span className="text-violet-400">{source}</span></span>
+            <span>מקור: <span className="text-purple-400 font-medium">{source}</span></span>
           </div>
         </div>
 
-        {/* Decorative Elements */}
+        {/* Decorative Elements - More subtle */}
         <div className="absolute top-1/2 left-0 hidden xl:block">
           <div className="relative">
-            <div className="w-64 h-64 rounded-3xl animated-border p-6 opacity-60">
-              <div className="w-full h-full rounded-2xl bg-gradient-to-br from-violet-500/20 to-blue-500/20"></div>
+            <div className="w-64 h-64 rounded-3xl animated-border p-6 opacity-50">
+              <div className="w-full h-full rounded-2xl bg-gradient-to-br from-purple-500/15 to-blue-500/15"></div>
             </div>
-            <div className="absolute -top-4 -right-4 w-48 h-48 rounded-3xl animated-border p-4 opacity-40">
-              <div className="w-full h-full rounded-2xl bg-gradient-to-br from-cyan-500/20 to-violet-500/20"></div>
+            <div className="absolute -top-4 -right-4 w-48 h-48 rounded-3xl animated-border p-4 opacity-30">
+              <div className="w-full h-full rounded-2xl bg-gradient-to-br from-cyan-500/15 to-purple-500/15"></div>
             </div>
           </div>
         </div>
