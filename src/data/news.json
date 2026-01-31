@@ -1,0 +1,127 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Anthropic סוגרת סבב גיוס ענק של $15 מיליארד בשווי $350 מיליארד",
+      "headline": "יוצרת Claude הופכת לסטארטאפ ה-AI היקר בעולם עם השקעות מ-Microsoft ו-NVIDIA",
+      "summary": "Anthropic סגרה את סבב הגיוס האחרון שלה מעל יעד של $10 מיליארד, ועשויה להגיע ל-$15 מיליארד עם תרומות מ-Microsoft ו-NVIDIA. שווי החברה זינק ל-$350 מיליארד, בזכות הפופולריות המטאורית של Claude Code.",
+      "summaryBullets": [
+        "סבב הגיוס הגדול בהיסטוריה של סטארטאפ AI - עד $15 מיליארד",
+        "Microsoft ו-NVIDIA מובילות את ההשקעה עם מיליארדים נוספים",
+        "Claude Code הפך לכלי הקידוד הפופולרי ביותר בקרב מפתחים"
+      ],
+      "category": "מימון",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/01/27/anthropic-fundraising-microsoft-nvidia.html",
+      "image": "anthropic",
+      "timeAgo": "לפני שעתיים",
+      "isBreaking": true
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA חושפת את Vera Rubin: העתיד של מחשוב AI",
+      "headline": "שישה שבבים חדשים, סופר-מחשב AI אחד — החזון של Jensen Huang ל-2026",
+      "summary": "ב-CES 2026, NVIDIA חשפה את פלטפורמת Vera Rubin פורצת הדרך למרכזי נתונים של AI. מעבדות AI מובילות כולל OpenAI, Anthropic, Meta ו-xAI צפויות לאמץ את הארכיטקטורה החדשה שתגיע במחצית השנייה של 2026.",
+      "summaryBullets": [
+        "פלטפורמת Vera Rubin מציעה קפיצת מדרגה בביצועי AI",
+        "כל מעבדות ה-AI הגדולות צפויות לאמץ את הטכנולוגיה",
+        "המוצרים הראשונים יגיעו לשוק במחצית השנייה של 2026"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+      "image": "nvidia",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": false
+    },
+    {
+      "id": 3,
+      "title": "Claude Cowork: AI שעובד לצידך",
+      "headline": "הפיצ'ר החדש של Anthropic מעניק ל-Claude גישה לקבצים המקומיים שלך",
+      "summary": "Anthropic משיקה את Claude Cowork, והופכת את הצ'אטבוט לעמית דיגיטלי אמיתי. הפיצ'ר זמין למשתמשי Claude Max ב-macOS ומאפשר ל-Claude לגשת לתיקיות מקומיות ולהשלים משימות באופן עצמאי.",
+      "summaryBullets": [
+        "Claude יכול כעת לעבוד ישירות עם קבצים במחשב שלך",
+        "זמין כרגע רק למנויי Claude Max על macOS",
+        "מסמן את המעבר מצ'אטבוט לעוזר עבודה אמיתי"
+      ],
+      "category": "מוצר",
+      "source": "TechRadar",
+      "sourceUrl": "https://www.techradar.com/ai-platforms-assistants/claudes-latest-upgrade-is-the-ai-breakthrough-ive-been-waiting-for-5-ways-cowork-could-be-the-biggest-ai-innovation-of-2026",
+      "image": "cowork",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": false
+    },
+    {
+      "id": 4,
+      "title": "מירוץ ה-IPO: OpenAI נגד Anthropic",
+      "headline": "שני ענקיות ה-AI צפויות להנפיק ב-2026 — אבל באיזה מחיר?",
+      "summary": "המירוץ לוול סטריט החל. OpenAI (שווי $750 מיליארד) ו-Anthropic ($350 מיליארד) שתיהן מכינות תיקי הנפקה. המשקיעים תוהים האם השוק יהיה מוכן לשלם תגי מחיר כה גבוהים למרות צמיחת ההכנסות המרשימה.",
+      "summaryBullets": [
+        "שתי החברות צפויות להנפיק במהלך 2026",
+        "OpenAI בשווי $750B, Anthropic ב-$350B",
+        "השאלה הגדולה: האם המשקיעים ישלמו את המחיר?"
+      ],
+      "category": "שווקים",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.cnbc.com/2026/01/06/space-x-openai-and-anthropic-could-ipo-this-year-but-is-it-willing-to-pay.html",
+      "image": "ipo",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": false
+    },
+    {
+      "id": 5,
+      "title": "GPT-5.2 משיג ציוני שיא בבנצ'מרק החשיבה",
+      "headline": "המודל החדש של OpenAI מגיע ל-70.9% ב-GDPval — הציון הגבוה ביותר שנרשם אי פעם",
+      "summary": "GPT-5.2 עם חשיבה מורחבת השיג את הציון הגבוה ביותר אי פעם במבחן GDPval. העדכון הופך את GPT-5 לחמים יותר, שיחתי יותר ומשמעותית טוב יותר במשימות חשיבה מורכבות.",
+      "summaryBullets": [
+        "70.9% ב-GDPval — שיא כל הזמנים",
+        "שיפורים משמעותיים ביכולות השיחה והחשיבה",
+        "מתחרה ישירות עם Claude Opus 4.5 על הכתר"
+      ],
+      "category": "מחקר",
+      "source": "LLM Stats",
+      "sourceUrl": "https://llm-stats.com/llm-updates",
+      "image": "openai",
+      "timeAgo": "לפני יום",
+      "isBreaking": false
+    }
+  ],
+  "aiTools": [
+    {
+      "name": "Claude Code",
+      "company": "Anthropic",
+      "description": "סוכן קידוד AI מבוסס טרמינל",
+      "trending": true,
+      "category": "קידוד"
+    },
+    {
+      "name": "GPT-5.2",
+      "company": "OpenAI",
+      "description": "מודל חשיבה מתקדם",
+      "trending": true,
+      "category": "LLM"
+    },
+    {
+      "name": "Gemini 3 Pro",
+      "company": "Google",
+      "description": "מוביל בדירוג העדפות משתמשים",
+      "trending": true,
+      "category": "LLM"
+    },
+    {
+      "name": "Vera Rubin",
+      "company": "NVIDIA",
+      "description": "פלטפורמת מחשוב AI מהדור הבא",
+      "trending": false,
+      "category": "חומרה"
+    },
+    {
+      "name": "Synthesia",
+      "company": "Synthesia",
+      "description": "פלטפורמת יצירת וידאו AI",
+      "trending": false,
+      "category": "וידאו"
+    }
+  ],
+  "lastUpdated": "2026-01-31T08:00:00.000Z"
+}
