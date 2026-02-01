@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "הסוף של גוגל טרנסלייט? הייתי מחכה עם ההצהרות... חברת OpenAI השיקה הבוקר כלי תרגום שמופעל ע״י ChatGPT, הממשק מאוד דומה לזה של גוגל טרנסלייט ואמור לספק ...",
+      "title": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הסוף של גוגל טרנסלייט? הייתי מחכה עם ההצהרות... חברת OpenAI השיקה הבוקר כלי תרגום שמופעל ע״י ChatGPT, הממשק מאוד דומה לזה של גוגל טרנסלייט ואמור לספק ...",
+      "summary": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "title": "דיווח שהתפספס לי בתוך כל השבוע המטורף הזה… חברת OpenAI רכשה את חברת החומרה של ג’וני אייב - המעצב המיתולוגי של אפל, בעסקה בשווי של כ-6.5 מיליארד דולר, ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "summary": "דיווח שהתפספס לי בתוך כל השבוע המטורף הזה… חברת OpenAI רכשה את חברת החומרה של ג’וני אייב - המעצב המיתולוגי של אפל, בעסקה בשווי של כ-6.5 מיליארד דולר, ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-01-31T14:12:56.186Z",
+  "lastUpdated": "2026-02-01T08:21:34.191Z",
   "sources": {
     "official": [
       "OpenAI Blog",
