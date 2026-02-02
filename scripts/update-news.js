@@ -415,54 +415,141 @@ async function scrapeWebsite(source, sourceConfig) {
 }
 
 // ============================================================================
-// OPENAI TRANSLATION
+// FREE TRANSLATION (MyMemory API - no key required)
 // ============================================================================
 
-async function translateWithOpenAI(text, type = 'title') {
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) return null;
+// Brand names to preserve in English during translation
+const BRAND_NAMES = [
+  'OpenAI', 'Anthropic', 'NVIDIA', 'Google', 'Microsoft', 'Meta', 'Apple',
+  'Claude', 'GPT', 'ChatGPT', 'Gemini', 'Copilot', 'Llama', 'Mistral',
+  'DeepMind', 'Hugging Face', 'TensorFlow', 'PyTorch', 'CUDA',
+  'GeForce', 'RTX', 'DGX', 'Omniverse', 'DALL-E', 'Sora', 'Midjourney',
+  'Perplexity', 'Groq', 'xAI', 'Grok', 'AWS', 'Azure', 'Stability AI'
+];
 
-  const prompts = {
-    title: 'Translate this tech news headline to Hebrew. Keep brand names (OpenAI, Anthropic, NVIDIA, Claude, GPT, etc.) in English. Return ONLY the Hebrew translation.',
-    headline: 'Create a catchy Hebrew sub-headline (15-20 words) for this news. Be engaging but professional. Return ONLY the Hebrew text.',
-    summary: 'Write a 2-3 sentence Hebrew summary for this AI news. Be informative. Return ONLY the Hebrew text.',
-    bullets: 'Create exactly 3 bullet points in Hebrew summarizing key points. Each 10-15 words. Return as JSON array of 3 strings.'
-  };
+/**
+ * Translate text to Hebrew using MyMemory API (FREE, no key needed)
+ * Limit: 5000 chars/day for anonymous, 50000/day with email
+ */
+async function translateToHebrew(text) {
+  if (!text || text.length < 3) return null;
+
+  // Preserve brand names by replacing them with placeholders
+  let processedText = text;
+  const replacements = [];
+
+  BRAND_NAMES.forEach((brand, index) => {
+    const regex = new RegExp(`\\b${brand}\\b`, 'gi');
+    if (processedText.match(regex)) {
+      const placeholder = `XBRAND${index}X`;
+      processedText = processedText.replace(regex, placeholder);
+      replacements.push({ placeholder, brand });
+    }
+  });
 
   try {
-    const res = await fetch('https://api.openai.com/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`
-      },
-      body: JSON.stringify({
-        model: 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: prompts[type] },
-          { role: 'user', content: text }
-        ],
-        max_tokens: 300,
-        temperature: 0.7
-      })
-    });
-
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(processedText)}&langpair=en|he`;
+    const res = await fetch(url);
     const data = await res.json();
 
-    if (data.error) {
-      console.error(`    OpenAI error: ${data.error.message}`);
+    if (data.responseStatus !== 200 || !data.responseData?.translatedText) {
       return null;
     }
 
-    return data.choices[0].message.content.trim();
+    let translated = data.responseData.translatedText;
+
+    // Restore brand names - handle various spacing/formatting the API might add
+    replacements.forEach(({ placeholder, brand }) => {
+      // Match placeholder with possible spaces around it
+      const placeholderRegex = new RegExp(`\\s*${placeholder}\\s*`, 'gi');
+      translated = translated.replace(placeholderRegex, ` ${brand} `);
+    });
+
+    // Clean up double spaces
+    translated = translated.replace(/\s+/g, ' ').trim();
+
+    return translated;
   } catch (error) {
     console.error(`    Translation error: ${error.message}`);
     return null;
   }
 }
 
+/**
+ * Generate Hebrew headline based on category
+ */
+function generateHebrewHeadline(title, category) {
+  const headlines = {
+    'מוצר': [
+      'השקה חדשה שתשנה את התעשייה',
+      'מוצר חדש מבטיח לחולל מהפכה',
+      'עדכון משמעותי שכדאי להכיר'
+    ],
+    'מימון': [
+      'השקעה ענקית מעידה על פוטנציאל',
+      'גיוס הון משמעותי בתעשיית ה-AI',
+      'משקיעים מאמינים בטכנולוגיה'
+    ],
+    'חומרה': [
+      'חומרה חדשה תאיץ את עולם ה-AI',
+      'שבב חדש מבטיח ביצועים מרשימים',
+      'פריצת דרך בתחום החומרה'
+    ],
+    'מחקר': [
+      'מחקר חדש חושף תובנות מרתקות',
+      'התקדמות משמעותית בתחום',
+      'פיתוח חדש פותח אפשרויות'
+    ],
+    'שווקים': [
+      'תזוזות בשוק ה-AI',
+      'השפעה על שוק ההון',
+      'מגמות חדשות בשוק'
+    ]
+  };
+
+  const categoryHeadlines = headlines[category] || headlines['מחקר'];
+  return categoryHeadlines[Math.floor(Math.random() * categoryHeadlines.length)];
+}
+
+/**
+ * Generate summary bullets based on source type
+ */
+function generateSummaryBullets(sourceType, category) {
+  const bullets = {
+    official: [
+      'הודעה רשמית מחברת הטכנולוגיה המובילה',
+      'צפי להשפעה משמעותית על השוק',
+      'פרטים מלאים בקישור המקורי'
+    ],
+    tech: [
+      'סיקור מקיף מאתר טכנולוגיה מוביל',
+      'ניתוח השלכות על התעשייה',
+      'המשך מעקב אחר ההתפתחויות'
+    ],
+    research: [
+      'מחקר חדש בתחום הבינה המלאכותית',
+      'תרומה לקידום הידע בתחום',
+      'פוטנציאל ליישומים עתידיים'
+    ],
+    community: [
+      'נושא שמסעיר את קהילת הטכנולוגיה',
+      'דיון ער בקרב מפתחים ומומחים',
+      'שווה לעקוב אחר התגובות'
+    ],
+    local: [
+      'עדכון חדש מקהילת ה-AI הישראלית',
+      'מידע רלוונטי לשוק המקומי',
+      'לפרטים נוספים בקישור המקורי'
+    ]
+  };
+
+  return bullets[sourceType] || bullets.tech;
+}
+
 async function processStory(story, index) {
   console.log(`  [${index + 1}] ${story.title.substring(0, 50)}...`);
+
+  const category = detectCategory(story.title, story.description || '');
 
   // If already Hebrew, keep original
   if (story.isHebrew) {
@@ -470,44 +557,34 @@ async function processStory(story, index) {
       ...story,
       headline: 'עדכון מקומי מקהילת AI בישראל',
       summary: story.title,
-      summaryBullets: [
-        'עדכון חדש מקהילת ה-AI הישראלית',
-        'מידע רלוונטי לשוק המקומי',
-        'לפרטים נוספים בקישור המקורי'
-      ],
-      category: detectCategory(story.title)
+      summaryBullets: generateSummaryBullets('local', category),
+      category
     };
   }
 
-  // Translate English content
-  const hasOpenAI = !!process.env.OPENAI_API_KEY;
+  // Translate title to Hebrew using FREE MyMemory API
+  const hebrewTitle = await translateToHebrew(story.title);
 
-  const [hebrewTitle, headline, summary, bulletsRaw] = await Promise.all([
-    hasOpenAI ? translateWithOpenAI(story.title, 'title') : null,
-    hasOpenAI ? translateWithOpenAI(story.title, 'headline') : null,
-    hasOpenAI ? translateWithOpenAI(story.title + (story.description || ''), 'summary') : null,
-    hasOpenAI ? translateWithOpenAI(story.title, 'bullets') : null
-  ]);
+  // Generate contextual Hebrew content
+  const headline = generateHebrewHeadline(story.title, category);
+  const summaryBullets = generateSummaryBullets(story.sourceType, category);
 
-  let bullets;
-  try {
-    bullets = bulletsRaw ? JSON.parse(bulletsRaw) : null;
-  } catch {
-    bullets = bulletsRaw ? bulletsRaw.split('\n').filter(l => l.trim()).slice(0, 3) : null;
+  // Create Hebrew summary from translated title or generate one
+  let summary;
+  if (hebrewTitle) {
+    summary = `${hebrewTitle}. ${headline}`;
+  } else {
+    summary = 'חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.';
   }
 
   return {
     ...story,
-    title: hebrewTitle || `🌐 ${story.title}`,
+    title: hebrewTitle || story.title,
     originalTitle: story.title,
-    headline: headline || 'קראו את הפרטים המלאים בכתבה המקורית',
-    summary: summary || 'חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.',
-    summaryBullets: bullets || [
-      'עדכון חשוב מעולם הבינה המלאכותית',
-      'השפעה צפויה על תעשיית הטכנולוגיה',
-      'פרטים נוספים בקישור המקורי'
-    ],
-    category: detectCategory(story.title, story.description || '')
+    headline,
+    summary,
+    summaryBullets,
+    category
   };
 }
 

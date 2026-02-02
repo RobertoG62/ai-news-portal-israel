@@ -2,14 +2,14 @@
   "news": [
     {
       "id": 1,
-      "title": "🌐 Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "title": "מרצדס - בנץ חושפת S - Class חדש שנבנה על כונן NVIDIA AV, המאפשר ארכיטקטורת L4 - Ready",
       "originalTitle": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מרצדס - בנץ חושפת S - Class חדש שנבנה על כונן NVIDIA AV, המאפשר ארכיטקטורת L4 - Ready. התקדמות משמעותית בתחום",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
@@ -18,21 +18,21 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "🌐 Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+      "title": "לתוך ה - Omniverse : מודלים ומסגרות פתוחים פיזיים של בינה מלאכותית מקדמים רובוטים ומערכות אוטונומיות",
       "originalTitle": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "לתוך ה - Omniverse : מודלים ומסגרות פתוחים פיזיים של בינה מלאכותית מקדמים רובוטים ומערכות אוטונומיות. התקדמות משמעותית בתחום",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
@@ -41,21 +41,21 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 3,
-      "title": "🌐 GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+      "title": "GeForce מביא עכשיו GeForce RTX משחקים למחשבי לינוקס",
       "originalTitle": "GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "GeForce מביא עכשיו GeForce RTX משחקים למחשבי לינוקס. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
       ],
       "category": "מוצר",
       "source": "NVIDIA Newsroom",
@@ -64,21 +64,21 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 4,
-      "title": "🌐 Inside OpenAI’s in-house data agent",
+      "title": "בתוך סוכן הנתונים הפנימי של OpenAI",
       "originalTitle": "Inside OpenAI’s in-house data agent",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בתוך סוכן הנתונים הפנימי של OpenAI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
@@ -87,21 +87,21 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 5,
-      "title": "🌐 Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "title": "תאגיד טאיסיי מעצב את הדור הבא של הכישרונות עם ChatGPT",
       "originalTitle": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תאגיד טאיסיי מעצב את הדור הבא של הכישרונות עם ChatGPT. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
@@ -110,21 +110,21 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 6,
-      "title": "🌐 Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "title": "פורש מ - GPT -4o, GPT -4.1, GPT -4.1 mini ו - OpenAI o4 - mini ב - ChatGPT",
       "originalTitle": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "פורש מ - GPT -4o, GPT -4.1, GPT -4.1 mini ו - OpenAI o4 - mini ב - ChatGPT. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
       ],
       "category": "מוצר",
       "source": "OpenAI Blog",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,14 +184,14 @@
     },
     {
       "id": 9,
-      "title": "🌐 AI use surges at Travelers as call centre roles reduce",
+      "title": "שימוש בבינה מלאכותית ב - Travelers עם צמצום התפקידים במוקד הטלפוני",
       "originalTitle": "AI use surges at Travelers as call centre roles reduce",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "שימוש בבינה מלאכותית ב - Travelers עם צמצום התפקידים במוקד הטלפוני. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
       ],
       "category": "מוצר",
       "source": "AI News",
@@ -200,21 +200,21 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "🌐 PepsiCo is using AI to rethink how factories are designed and updated",
+      "title": "פפסיקו משתמשת בבינה מלאכותית כדי לחשוב מחדש על האופן שבו מפעלים מתוכננים ומתעדכנים",
       "originalTitle": "PepsiCo is using AI to rethink how factories are designed and updated",
-      "headline": "קראו את הפרטים המלאים בכתבה המקורית",
-      "summary": "חדשות חמות מעולם הבינה המלאכותית. לפרטים המלאים, בקרו בקישור המקורי.",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "פפסיקו משתמשת בבינה מלאכותית כדי לחשוב מחדש על האופן שבו מפעלים מתוכננים ומתעדכנים. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
-        "עדכון חשוב מעולם הבינה המלאכותית",
-        "השפעה צפויה על תעשיית הטכנולוגיה",
-        "פרטים נוספים בקישור המקורי"
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
       ],
       "category": "מוצר",
       "source": "AI News",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-01T08:21:34.191Z",
+  "lastUpdated": "2026-02-02T01:39:58.177Z",
   "sources": {
     "official": [
       "OpenAI Blog",
