@@ -3,9 +3,29 @@ import Hero from '@/components/Hero';
 import NewsCard from '@/components/NewsCard';
 import Sidebar from '@/components/Sidebar';
 import Footer from '@/components/Footer';
-import newsData from '@/data/news.json';
+import { fetchAllNews, NewsData } from '@/lib/news-fetcher';
 
-export default function Home() {
+// Revalidate every 4 hours (14400 seconds)
+export const revalidate = 14400;
+
+async function getNewsData(): Promise<NewsData> {
+  try {
+    const data = await fetchAllNews();
+    if (data) {
+      return data;
+    }
+  } catch (error) {
+    console.error('Failed to fetch news:', error);
+  }
+
+  // Fallback to static data if fetch fails
+  const fallbackData = await import('@/data/news.json');
+  return fallbackData as unknown as NewsData;
+}
+
+export default async function Home() {
+  const newsData = await getNewsData();
+
   const breakingNews = newsData.news[0];
   const otherNews = newsData.news.slice(1);
 
