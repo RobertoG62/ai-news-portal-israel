@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -27,8 +27,8 @@
       "id": 2,
       "title": "מדיניות הפרטיות של קוריאה",
       "originalTitle": "Korea privacy policy",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מדיניות הפרטיות של קוריאה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מדיניות הפרטיות של קוריאה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "הכל יהיה מיוצג בתאום וירטואלי, מנכ\"ל NVIDIA ג'נסן הואנג אומר ב -3DEXPERIENCE World",
       "originalTitle": "Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "הכל יהיה מיוצג בתאום וירטואלי, מנכ\"ל NVIDIA ג'נסן הואנג אומר ב -3DEXPERIENCE World. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "הכל יהיה מיוצג בתאום וירטואלי, מנכ\"ל NVIDIA ג'נסן הואנג אומר ב -3DEXPERIENCE World. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,35 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "📸 פרומפט שיעזור לכם להפוך תמונות ישנות לחיות ומלאות צבע. העתיקו את הפרומפט ושלחו אותו עם התמונה הישנה לננו בננה פרו: Perform a complete photographic ...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "📸 פרומפט שיעזור לכם להפוך תמונות ישנות לחיות ומלאות צבע. העתיקו את הפרומפט ושלחו אותו עם התמונה הישנה לננו בננה פרו: Perform a complete photographic ...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "נשבע לכם שזה אמיתי מה זה בכלל אומר שכונת AI? תשובות לא נכונות בלבד 👇 הישארו מעודכנים - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "נשבע לכם שזה אמיתי מה זה בכלל אומר שכונת AI? תשובות לא נכונות בלבד 👇 הישארו מעודכנים - https://t.me/AI_tg_il",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "כיצד הפרדת לוגיקה וחיפוש מגבירה את יכולת ההרחבה של סוכן הבינה המלאכותית",
       "originalTitle": "How separating logic and search boosts AI agent scalability",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד הפרדת לוגיקה וחיפוש מגבירה את יכולת ההרחבה של סוכן הבינה המלאכותית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד הפרדת לוגיקה וחיפוש מגבירה את יכולת ההרחבה של סוכן הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "אינטואיט, Uber וסוכני AI ניסיוניים של State Farm בתהליכי עבודה ארגוניים",
       "originalTitle": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "אינטואיט, Uber וסוכני AI ניסיוניים של State Farm בתהליכי עבודה ארגוניים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "אינטואיט, Uber וסוכני AI ניסיוניים של State Farm בתהליכי עבודה ארגוניים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-07T08:20:21.174Z",
+  "lastUpdated": "2026-02-08T08:21:55.796Z",
   "sources": {
     "official": [
       "OpenAI Blog",
