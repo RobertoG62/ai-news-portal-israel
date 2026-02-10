@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "בדיקת מודעות ב - ChatGPT",
+      "originalTitle": "Testing ads in ChatGPT",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "בדיקת מודעות ב - ChatGPT. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/testing-ads-in-chatgpt",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "הבאת ChatGPT ל - GenAI.mil",
+      "originalTitle": "Bringing ChatGPT to GenAI.mil",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "הבאת ChatGPT ל - GenAI.mil. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "לגרום לבינה המלאכותית לעבוד עבור כולם, בכל מקום: הגישה שלנו ללוקליזציה",
       "originalTitle": "Making AI work for everyone, everywhere: our approach to localization",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "לגרום לבינה המלאכותית לעבוד עבור כולם, בכל מקום: הגישה שלנו ללוקליזציה. מגמות חדשות בשוק",
+      "headline": "השפעה על שוק ההון",
+      "summary": "לגרום לבינה המלאכותית לעבוד עבור כולם, בכל מקום: הגישה שלנו ללוקליזציה. השפעה על שוק ההון",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,40 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "מדיניות הפרטיות של קוריאה",
-      "originalTitle": "Korea privacy policy",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מדיניות הפרטיות של קוריאה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/policies/kr-privacy-policy",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "GeForce חוגג עכשיו שש שנים של סטרימינג עם 24 משחקים בפברואר",
       "originalTitle": "GeForce NOW Celebrates Six Years of Streaming With 24 Games in February",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "GeForce חוגג עכשיו שש שנים של סטרימינג עם 24 משחקים בפברואר. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "GeForce חוגג עכשיו שש שנים של סטרימינג עם 24 משחקים בפברואר. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,30 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "GPT -5 מוריד את עלות סינתזת החלבון ללא תאים",
-      "originalTitle": "GPT-5 lowers the cost of cell-free protein synthesis",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "GPT -5 מוריד את עלות סינתזת החלבון ללא תאים. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "Nemotron Labs: כיצד סוכני AI הופכים מסמכים לבינה עסקית בזמן אמת",
       "originalTitle": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Nemotron Labs: כיצד סוכני AI הופכים מסמכים לבינה עסקית בזמן אמת. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "Nemotron Labs: כיצד סוכני AI הופכים מסמכים לבינה עסקית בזמן אמת. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "הכל יהיה מיוצג בתאום וירטואלי, מנכ\"ל NVIDIA ג'נסן הואנג אומר ב -3DEXPERIENCE World",
       "originalTitle": "Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "הכל יהיה מיוצג בתאום וירטואלי, מנכ\"ל NVIDIA ג'נסן הואנג אומר ב -3DEXPERIENCE World. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "הכל יהיה מיוצג בתאום וירטואלי, מנכ\"ל NVIDIA ג'נסן הואנג אומר ב -3DEXPERIENCE World. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "title": "נמאס לכם מChatGPT? גוגל משיקה מנוי חדש וזול לג׳מיני - Google AI Plus במחיר של 30 שקל לחודש עם הטבה של 15 שקל לחודש לחודשיים הראשונים. הישארו מעודכנים ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;OpenAI משיקה מנוי מוזל ומתחילה לדחוף פרסומות. מנוי ChatGPT Go שהיה זמין עד עכשיו רק בהודו מתרחב כעת לכל העולם, ונותן לכם פי 10 יותר הודעות ויצירת...",
+      "summary": "נמאס לכם מChatGPT? גוגל משיקה מנוי חדש וזול לג׳מיני - Google AI Plus במחיר של 30 שקל לחודש עם הטבה של 15 שקל לחודש לחודשיים הראשונים. הישארו מעודכנים ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "כמה יעלה למפרסמים לפרסם ב-ChatGPT? לפי דיווחים, OpenAI מתכוונת לגבות כ-60&#036; (&#33;) על כל 1,000 צפיות. זה נחשב יקר מאוד בעולם הפרסום, לשם השוואה ה...",
+      "title": "&rlm;2: Clawdbot - סוכן AI שרץ מקומית על המחשב שלכם 24/7, אתם יכולים לדבר איתו דרך טלגרם/ווצאפ או כמעט כל אפליקציית צ׳אט אחרת, הוא מחובר לכל החשבונות ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כמה יעלה למפרסמים לפרסם ב-ChatGPT? לפי דיווחים, OpenAI מתכוונת לגבות כ-60&#036; (&#33;) על כל 1,000 צפיות. זה נחשב יקר מאוד בעולם הפרסום, לשם השוואה ה...",
+      "summary": "&rlm;2: Clawdbot - סוכן AI שרץ מקומית על המחשב שלכם 24/7, אתם יכולים לדבר איתו דרך טלגרם/ווצאפ או כמעט כל אפליקציית צ׳אט אחרת, הוא מחובר לכל החשבונות ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,33 +184,33 @@
     },
     {
       "id": 9,
-      "title": "כיצד הפרדת לוגיקה וחיפוש מגבירה את יכולת ההרחבה של סוכן הבינה המלאכותית",
-      "originalTitle": "How separating logic and search boosts AI agent scalability",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד הפרדת לוגיקה וחיפוש מגבירה את יכולת ההרחבה של סוכן הבינה המלאכותית. התקדמות משמעותית בתחום",
+      "title": "מה הבינה המלאכותית יכולה (ולא יכולה) לספר לנו על XRP בשווקים המונעים על ידי קרנות סל",
+      "originalTitle": "What AI can (and can&#8217;t) tell us about XRP in ETF-driven markets",
+      "headline": "תזוזות בשוק ה-AI",
+      "summary": "מה הבינה המלאכותית יכולה (ולא יכולה) לספר לנו על XRP בשווקים המונעים על ידי קרנות סל. תזוזות בשוק ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מחקר",
+      "category": "שווקים",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 21 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "אינטואיט, Uber וסוכני AI ניסיוניים של State Farm בתהליכי עבודה ארגוניים",
-      "originalTitle": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "אינטואיט, Uber וסוכני AI ניסיוניים של State Farm בתהליכי עבודה ארגוניים. מחקר חדש חושף תובנות מרתקות",
+      "title": "בלעדי: מדוע דגמי הבינה המלאכותית הסינית שולטים בקוד פתוח כאשר מעבדות מערביות נסוגות לאחור?",
+      "originalTitle": "Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "בלעדי: מדוע דגמי הבינה המלאכותית הסינית שולטים בקוד פתוח כאשר מעבדות מערביות נסוגות לאחור?. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +218,12 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 21 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-09T08:39:19.032Z",
+  "lastUpdated": "2026-02-10T08:39:48.219Z",
   "sources": {
     "official": [
       "OpenAI Blog",
