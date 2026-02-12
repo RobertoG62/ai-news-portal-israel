@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "הנדסת רתמה: מינוף קודקס בעולם הסוכן הראשון",
+      "originalTitle": "Harness engineering: leveraging Codex in an agent-first world",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הנדסת רתמה: מינוף קודקס בעולם הסוכן הראשון. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/harness-engineering",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "הבאת ChatGPT ל - GenAI.mil",
       "originalTitle": "Bringing ChatGPT to GenAI.mil",
       "headline": "עדכון משמעותי שכדאי להכיר",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "בדיקת מודעות ב - ChatGPT",
       "originalTitle": "Testing ads in ChatGPT",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "בדיקת מודעות ב - ChatGPT. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "בדיקת מודעות ב - ChatGPT. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,30 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "לגרום לבינה המלאכותית לעבוד עבור כולם, בכל מקום: הגישה שלנו ללוקליזציה",
-      "originalTitle": "Making AI work for everyone, everywhere: our approach to localization",
-      "headline": "השפעה על שוק ההון",
-      "summary": "לגרום לבינה המלאכותית לעבוד עבור כולם, בכל מקום: הגישה שלנו ללוקליזציה. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/our-approach-to-localization",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "GeForce חוגג עכשיו שש שנים של סטרימינג עם 24 משחקים בפברואר",
       "originalTitle": "GeForce NOW Celebrates Six Years of Streaming With 24 Games in February",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "GeForce חוגג עכשיו שש שנים של סטרימינג עם 24 משחקים בפברואר. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "GeForce חוגג עכשיו שש שנים של סטרימינג עם 24 משחקים בפברואר. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "Nemotron Labs: כיצד סוכני AI הופכים מסמכים לבינה עסקית בזמן אמת",
       "originalTitle": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Nemotron Labs: כיצד סוכני AI הופכים מסמכים לבינה עסקית בזמן אמת. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Nemotron Labs: כיצד סוכני AI הופכים מסמכים לבינה עסקית בזמן אמת. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
+      "timeAgo": "לפני 7 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 7 ימים",
+      "timeAgo": "לפני 8 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
-      "title": "היפרסקלרים סיניים ובינה מלאכותית סוכנית ספציפית לתעשייה",
-      "originalTitle": "Chinese hyperscalers and industry-specific agentic AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "היפרסקלרים סיניים ובינה מלאכותית סוכנית ספציפית לתעשייה. פיתוח חדש פותח אפשרויות",
+      "title": "ברקליס מהמר על בינה מלאכותית כדי לקצץ בעלויות ולהגדיל את ההחזרים",
+      "originalTitle": "Barclays bets on AI to cut costs and boost returns",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "ברקליס מהמר על בינה מלאכותית כדי לקצץ בעלויות ולהגדיל את ההחזרים. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מימון",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/barclays-bets-on-ai-to-cut-costs-and-boost-returns/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
+      "title": "כיצד מובילי ביטוח משתמשים בבינה מלאכותית סוכנית כדי לקצץ בעלויות הת",
+      "originalTitle": "How insurance leaders use agentic AI to cut operational costs",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד מובילי ביטוח משתמשים בבינה מלאכותית סוכנית כדי לקצץ בעלויות הת. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -195,35 +218,12 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-insurance-leaders-use-agentic-ai-to-cut-operational-costs/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "הבינה המלאכותית הסוכנת בתחום הבריאות: איך שיווק מדעי החיים יכול להשיג שווי של 450 מיליארד $ עד 2028",
-      "originalTitle": "Agentic AI in healthcare: How Life Sciences marketing could achieve $450B in value by 2028",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "הבינה המלאכותית הסוכנת בתחום הבריאות: איך שיווק מדעי החיים יכול להשיג שווי של 450 מיליארד $ עד 2028. מגמות חדשות בשוק",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "שווקים",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני 23 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-11T08:37:10.972Z",
+  "lastUpdated": "2026-02-12T08:34:52.977Z",
   "sources": {
     "official": [
       "OpenAI Blog",
