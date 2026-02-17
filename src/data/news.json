@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "נתונים חדשים מראים כי NVIDIA Blackwell Ultra מספק עד פי 50 ביצועים טובים יותר ועלויות נמוכות יותר פי 35 עבור AI סוכן",
+      "originalTitle": "New Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "נתונים חדשים מראים כי NVIDIA Blackwell Ultra מספק עד פי 50 ביצועים טובים יותר ועלויות נמוכות יותר פי 35 עבור AI סוכן. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית",
       "originalTitle": "GPT-5.2 derives a new result in theoretical physics",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "חדש: תוויות מצב נעילה וסיכון מוגבר ב - ChatGPT",
       "originalTitle": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
       "headline": "התקדמות משמעותית בתחום",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "מעבר למגבלות התעריף: הגדלת הגישה ל - Codex ול - Sora",
       "originalTitle": "Beyond rate limits: scaling access to Codex and Sora",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מעבר למגבלות התעריף: הגדלת הגישה ל - Codex ול - Sora. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מעבר למגבלות התעריף: הגדלת הגישה ל - Codex ול - Sora. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "קוד, חישוב וחיבור: בתוך יום ההשקה NVIDIA AI סאו פאולו",
       "originalTitle": "Code, Compute and Connection: Inside the Inaugural NVIDIA AI Day São Paulo",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "ספקי היסק מובילים חותכים את עלויות הבינה המלאכותית עד פי 10 עם מודלים של קוד פתוח ב - NVIDIA Blackwell",
       "originalTitle": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ספקי היסק מובילים חותכים את עלויות הבינה המלאכותית עד פי 10 עם מודלים של קוד פתוח ב - NVIDIA Blackwell. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ספקי היסק מובילים חותכים את עלויות הבינה המלאכותית עד פי 10 עם מודלים של קוד פתוח ב - NVIDIA Blackwell. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,58 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA DGX ניצוץ סמכויות פרויקטים גדולים בהשכלה הגבוהה",
-      "originalTitle": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA DGX ניצוץ סמכויות פרויקטים גדולים בהשכלה הגבוהה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/dgx-spark-higher-education/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "ימים לא פשוטים למניות התוכנה בבורסה עם ירידות של כמעט 18% במדד ה-IGV. ההשקה של סוכני ה-AI החדשים של אנתרופיק (Cowork) והשילוב שלהם עם פלאגינים שונים ג...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "ימים לא פשוטים למניות התוכנה בבורסה עם ירידות של כמעט 18% במדד ה-IGV. ההשקה של סוכני ה-AI החדשים של אנתרופיק (Cowork) והשילוב שלהם עם פלאגינים שונים ג...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "״קלוד ישאר נקי מפרסומות״ אנתרופיק מודיעה שבניגוד לChatGPT הם לא מתכוונים לדחוף לנו פרסומות בצאט. ### זוכרים את ה פרסומת של OpenAI בסופרבול לפני שנה? ע...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "״קלוד ישאר נקי מפרסומות״ אנתרופיק מודיעה שבניגוד לChatGPT הם לא מתכוונים לדחוף לנו פרסומות בצאט. ### זוכרים את ה פרסומת של OpenAI בסופרבול לפני שנה? ע...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "״קלוד ישאר נקי מפרסומות״ אנתרופיק מודיעה שבניגוד לChatGPT הם לא מתכוונים לדחוף לנו פרסומות בצאט. ### זוכרים את הפרסומת של OpenAI בסופרבול לפני שנה? עכ...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "״קלוד ישאר נקי מפרסומות״ אנתרופיק מודיעה שבניגוד לChatGPT הם לא מתכוונים לדחוף לנו פרסומות בצאט. ### זוכרים את הפרסומת של OpenAI בסופרבול לפני שנה? עכ...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
-      "title": "מודל חיזוי הבינה המלאכותית מתמקד ביעילות משאבי הבריאות",
-      "originalTitle": "AI forecasting model targets healthcare resource efficiency",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מודל חיזוי הבינה המלאכותית מתמקד ביעילות משאבי הבריאות. מחקר חדש חושף תובנות מרתקות",
+      "title": "AI בנקאות בפונקציות עסקיות מרובות ב - NatWest",
+      "originalTitle": "Banking AI in multiple business functions at NatWest",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "AI בנקאות בפונקציות עסקיות מרובות ב - NatWest. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -195,22 +195,22 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 20 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "מה תעלומת רצח 2 מגלה על התנהגות מתהווה במשחקים מקוונים",
-      "originalTitle": "What Murder Mystery 2 reveals about emergent behaviour in online games",
+      "title": "טייסי Debenhams - מסחר ב - AI באמצעות אינטגרציה ב - PayPal",
+      "originalTitle": "Debenhams pilots agentic AI commerce via PayPal integration",
       "headline": "התקדמות משמעותית בתחום",
-      "summary": "מה תעלומת רצח 2 מגלה על התנהגות מתהווה במשחקים מקוונים. התקדמות משמעותית בתחום",
+      "summary": "טייסי Debenhams - מסחר ב - AI באמצעות אינטגרציה ב - PayPal. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +218,12 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 20 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-16T08:36:02.520Z",
+  "lastUpdated": "2026-02-17T08:34:10.064Z",
   "sources": {
     "official": [
       "OpenAI Blog",
