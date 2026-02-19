@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "הכירו את OpenAI להודו",
+      "originalTitle": "Introducing OpenAI for India",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את OpenAI להודו. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-for-india",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 11 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA",
       "originalTitle": "India Fuels Its AI Mission With NVIDIA",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "משלבי המערכות הגלובליות של הודו בונים את הגל הבא של סוכנים ארגוניים עם NVIDIA AI, והופכים את המשרד האחורי לתמיכת לקוחות",
       "originalTitle": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "משלבי המערכות הגלובליות של הודו בונים את הגל הבא של סוכנים ארגוניים עם NVIDIA AI, והופכים את המשרד האחורי לתמיכת לקוחות. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "משלבי המערכות הגלובליות של הודו בונים את הגל הבא של סוכנים ארגוניים עם NVIDIA AI, והופכים את המשרד האחורי לתמיכת לקוחות. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "NVIDIA ומובילי תוכנה תעשייתיים גלובליים משתפים פעולה עם היצרנים הגדולים ביותר בהודו כדי להניע את AI Boom",
       "originalTitle": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
       "headline": "גיוס הון משמעותי בתעשיית ה-AI",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית",
       "originalTitle": "GPT-5.2 derives a new result in theoretical physics",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "חדש: תוויות מצב נעילה וסיכון מוגבר ב - ChatGPT",
       "originalTitle": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חדש: תוויות מצב נעילה וסיכון מוגבר ב - ChatGPT. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חדש: תוויות מצב נעילה וסיכון מוגבר ב - ChatGPT. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מעבר למגבלות התעריף: הגדלת הגישה ל - Codex ול - Sora",
-      "originalTitle": "Beyond rate limits: scaling access to Codex and Sora",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מעבר למגבלות התעריף: הגדלת הגישה ל - Codex ול - Sora. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/beyond-rate-limits",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "״קלוד ישאר נקי מפרסומות״ אנתרופיק מודיעה שבניגוד לChatGPT הם לא מתכוונים לדחוף לנו פרסומות בצאט. ### זוכרים את הפרסומת של OpenAI בסופרבול לפני שנה? עכ...",
+      "title": "הדומיין AI.com נרכש ב70 מליון דולר(&#33;) הפרויקט יושק בשבוע הבא במהלך הסופרבול. בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "״קלוד ישאר נקי מפרסומות״ אנתרופיק מודיעה שבניגוד לChatGPT הם לא מתכוונים לדחוף לנו פרסומות בצאט. ### זוכרים את הפרסומת של OpenAI בסופרבול לפני שנה? עכ...",
+      "summary": "הדומיין AI.com נרכש ב70 מליון דולר(&#33;) הפרויקט יושק בשבוע הבא במהלך הסופרבול. בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "סם אלטמן מגיב לסרטונים של אנתרופיק: ״אנחנו לא מתכוונים להכניס פרסומות בתוך התשובות של הצאט. אנתרופיק מציגה את זה בצורה מטעה״ ״קלוד הוא מוצר יקר שנועד ...",
+      "title": "אם כבר AI אז רק בשביל סרטונים כאלה 😅 קרדיט: אודי כגן הישארו מעודכנים - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "סם אלטמן מגיב לסרטונים של אנתרופיק: ״אנחנו לא מתכוונים להכניס פרסומות בתוך התשובות של הצאט. אנתרופיק מציגה את זה בצורה מטעה״ ״קלוד הוא מוצר יקר שנועד ...",
+      "summary": "אם כבר AI אז רק בשביל סרטונים כאלה 😅 קרדיט: אודי כגן הישארו מעודכנים - https://t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,10 @@
     },
     {
       "id": 9,
-      "title": "SS&C Blue Prism: במסע מ - RPA לאוטומציה של סוכנים",
-      "originalTitle": "SS&#038;C Blue Prism: On the journey from RPA to agentic automation",
+      "title": "כיצד מוסדות פיננסיים מטמיעים קבלת החלטות בתחום הבינה המלאכותית",
+      "originalTitle": "How financial institutions are embedding AI decision-making",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "SS&C Blue Prism: במסע מ - RPA לאוטומציה של סוכנים. מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד מוסדות פיננסיים מטמיעים קבלת החלטות בתחום הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -195,7 +195,7 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
@@ -207,10 +207,10 @@
     },
     {
       "id": 10,
-      "title": "ענקית הביטוח AIG פורסת בינה מלאכותית סוכנית עם שכבת תזמור",
-      "originalTitle": "Insurance giant AIG deploys agentic AI with orchestration layer",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "ענקית הביטוח AIG פורסת בינה מלאכותית סוכנית עם שכבת תזמור. מחקר חדש חושף תובנות מרתקות",
+      "title": "מסגרת יישום הבינה המלאכותית של Infosys מציעה הדרכה למנהיגים עסקיים",
+      "originalTitle": "Infosys AI implementation framework offers business leaders guidance",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מסגרת יישום הבינה המלאכותית של Infosys מציעה הדרכה למנהיגים עסקיים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +218,12 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני 21 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-18T08:34:45.719Z",
+  "lastUpdated": "2026-02-19T08:33:31.115Z",
   "sources": {
     "official": [
       "OpenAI Blog",
