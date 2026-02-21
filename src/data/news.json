@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "ההגשות הראשונות שלנו להוכחות",
+      "originalTitle": "Our First Proof submissions",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "ההגשות הראשונות שלנו להוכחות. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/first-proof-submissions",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "סקר מגלה התקדמות הבינה המלאכותית בטלקום: רשתות ואוטומציה במושב הנהג כהחזר על מטפס השקעות",
       "originalTitle": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "סקר מגלה התקדמות הבינה המלאכותית בטלקום: רשתות ואוטומציה במושב הנהג כהחזר על מטפס השקעות. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "סקר מגלה התקדמות הבינה המלאכותית בטלקום: רשתות ואוטומציה במושב הנהג כהחזר על מטפס השקעות. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "הכל אודות המשחקים: שחקו יותר מ -4,500 כותרים עם GeForce עכשיו",
       "originalTitle": "All About the Games: Play Over 4,500 Titles With GeForce NOW",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכל אודות המשחקים: שחקו יותר מ -4,500 כותרים עם GeForce עכשיו. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הכל אודות המשחקים: שחקו יותר מ -4,500 כותרים עם GeForce עכשיו. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "קידום מחקר עצמאי על יישור בינה מלאכותית",
       "originalTitle": "Advancing independent research on AI alignment",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "הכירו את OpenAI להודו",
       "originalTitle": "Introducing OpenAI for India",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA",
       "originalTitle": "India Fuels Its AI Mission With NVIDIA",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,30 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית",
-      "originalTitle": "GPT-5.2 derives a new result in theoretical physics",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "GPT -5.2 מפיק תוצאה חדשה בפיזיקה התיאורטית. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/new-result-theoretical-physics",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,33 +184,10 @@
     },
     {
       "id": 9,
-      "title": "כיצד הבינה המלאכותית משדרגת את ניהול האוצר הארגוני",
-      "originalTitle": "How AI upgrades enterprise treasury management",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "כיצד הבינה המלאכותית משדרגת את ניהול האוצר הארגוני. מגמות חדשות בשוק",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "שווקים",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "מערכת טייסי DBS המאפשרת לסוכני בינה מלאכותית לבצע תשלומים עבור לקוחות",
-      "originalTitle": "DBS pilots system that lets AI agents make payments for customers",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מערכת טייסי DBS המאפשרת לסוכני בינה מלאכותית לבצע תשלומים עבור לקוחות. מחקר חדש חושף תובנות מרתקות",
+      "title": "חקר בינה מלאכותית במגזר הקמעונאי APAC",
+      "originalTitle": "Exploring AI in the APAC retail sector",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חקר בינה מלאכותית במגזר הקמעונאי APAC. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +195,35 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
+      "title": "AI: אופטימיות של מנהלים לגבי העתיד",
+      "originalTitle": "AI: Executives&#8217; optimism about the future",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "AI: אופטימיות של מנהלים לגבי העתיד. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-20T08:31:16.072Z",
+  "lastUpdated": "2026-02-21T08:20:14.799Z",
   "sources": {
     "official": [
       "OpenAI Blog",
