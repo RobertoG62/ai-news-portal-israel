@@ -4,8 +4,8 @@
       "id": 1,
       "title": "ההגשות הראשונות שלנו להוכחות",
       "originalTitle": "Our First Proof submissions",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ההגשות הראשונות שלנו להוכחות. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ההגשות הראשונות שלנו להוכחות. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA",
       "originalTitle": "India Fuels Its AI Mission With NVIDIA",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הודו מתדלקת את משימת הבינה המלאכותית שלה עם NVIDIA. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "היטאצ'י מהמרת על מומחיות תעשייתית כדי לנצח במרוץ הבינה המלאכותית הפיזית",
+      "originalTitle": "Hitachi bets on industrial expertise to win the physical AI race",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "היטאצ'י מהמרת על מומחיות תעשייתית כדי לנצח במרוץ הבינה המלאכותית הפיזית. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/hitachi-physical-ai-industrial-expertise/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "חקר בינה מלאכותית במגזר הקמעונאי APAC",
       "originalTitle": "Exploring AI in the APAC retail sector",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "חקר בינה מלאכותית במגזר הקמעונאי APAC. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "חקר בינה מלאכותית במגזר הקמעונאי APAC. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "AI: אופטימיות של מנהלים לגבי העתיד",
-      "originalTitle": "AI: Executives&#8217; optimism about the future",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "AI: אופטימיות של מנהלים לגבי העתיד. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-22T08:21:32.128Z",
+  "lastUpdated": "2026-02-23T08:38:22.322Z",
   "sources": {
     "official": [
       "OpenAI Blog",
