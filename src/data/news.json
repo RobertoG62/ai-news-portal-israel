@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "מרדיולוגיה לגילוי תרופות, סקר מגלה כי AI מספקת תשואה ברורה על ההשקעה בתחום הבריאות",
+      "originalTitle": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "מרדיולוגיה לגילוי תרופות, סקר מגלה כי AI מספקת תשואה ברורה על ההשקעה בתחום הבריאות. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "ארווינד KC מונתה לסמנכ\"לית כוח אדם",
+      "originalTitle": "Arvind KC appointed Chief People Officer",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ארווינד KC מונתה לסמנכ\"לית כוח אדם. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "NVIDIA מביא אבטחת סייבר מבוססת בינה מלאכותית לתשתית הקריטית בעולם",
       "originalTitle": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA מביא אבטחת סייבר מבוססת בינה מלאכותית לתשתית הקריטית בעולם. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA מביא אבטחת סייבר מבוססת בינה מלאכותית לתשתית הקריטית בעולם. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "למה אנחנו כבר לא מעריכים אימות של ספסל SWE",
       "originalTitle": "Why we no longer evaluate SWE-bench Verified",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "OpenAI מכריזה על שותפות Frontier Alliance",
       "originalTitle": "OpenAI announces Frontier Alliance Partners",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "OpenAI מכריזה על שותפות Frontier Alliance. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "OpenAI מכריזה על שותפות Frontier Alliance. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,36 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "ההגשות הראשונות שלנו להוכחות",
-      "originalTitle": "Our First Proof submissions",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ההגשות הראשונות שלנו להוכחות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/first-proof-submissions",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "סקר מגלה התקדמות הבינה המלאכותית בטלקום: רשתות ואוטומציה במושב הנהג כהחזר על מטפס השקעות",
       "originalTitle": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
       "headline": "גיוס הון משמעותי בתעשיית ה-AI",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "הכל אודות המשחקים: שחקו יותר מ -4,500 כותרים עם GeForce עכשיו",
-      "originalTitle": "All About the Games: Play Over 4,500 Titles With GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הכל אודות המשחקים: שחקו יותר מ -4,500 כותרים עם GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מטורף&#33; 🤯 את הסרטון הזה יצרו האחים דור תוך יום אחד בלבד. 100% בינה מלאכותית. האם הוליווד תסיים כמו מצלמות הפילם? מה זה יעשה לתעשיית הקולנוע? בינה ...",
+      "title": "טריילר לסרט ״THE AI DOC״ שעומד לצאת ב-27 במרץ ויתמקד בסכנות של ה-AI ובעתיד הצפוי לנו. נראה מעניין, ומלחיץ... צפו 👆 (כולל כתוביות) בינה מלאכותית בטלגר...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מטורף&#33; 🤯 את הסרטון הזה יצרו האחים דור תוך יום אחד בלבד. 100% בינה מלאכותית. האם הוליווד תסיים כמו מצלמות הפילם? מה זה יעשה לתעשיית הקולנוע? בינה ...",
+      "summary": "טריילר לסרט ״THE AI DOC״ שעומד לצאת ב-27 במרץ ויתמקד בסכנות של ה-AI ובעתיד הצפוי לנו. נראה מעניין, ומלחיץ... צפו 👆 (כולל כתוביות) בינה מלאכותית בטלגר...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אלון מאסק: גרוק 4.20 יושק בשבוע הבא. בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "title": "טריילר לסרט ״THE AI DOC״ שעומד לצאת ב-27 במרץ ויתמקד בסכנות של ה-AI ובעתיד הצפוי לנו. נראה מעניין, ומלחיץ... צפו 👆 (כולל כתוביות) בינה מלאכותית בטלגר...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אלון מאסק: גרוק 4.20 יושק בשבוע הבא. בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "summary": "טריילר לסרט ״THE AI DOC״ שעומד לצאת ב-27 במרץ ויתמקד בסכנות של ה-AI ובעתיד הצפוי לנו. נראה מעניין, ומלחיץ... צפו 👆 (כולל כתוביות) בינה מלאכותית בטלגר...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,33 +184,10 @@
     },
     {
       "id": 9,
-      "title": "הדגמת תשלום הבינה המלאכותית של Mastercard מצביעה על מסחר בהובלת סוכנים",
-      "originalTitle": "Mastercard’s AI payment demo points to agent-led commerce",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הדגמת תשלום הבינה המלאכותית של Mastercard מצביעה על מסחר בהובלת סוכנים. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "כיצד AMUL משתמשת בחקלאות חלב AI כדי להציב 36 מיליון חקלאים בראש סדר העדיפויות",
-      "originalTitle": "How Amul is using AI dairy farming to put 36 million farmers first",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "כיצד AMUL משתמשת בחקלאות חלב AI כדי להציב 36 מיליון חקלאים בראש סדר העדיפויות. גיוס הון משמעותי בתעשיית ה-AI",
+      "title": "Anthropic : תזקיק מודל AI בקנה מידה תעשייתישל Claude",
+      "originalTitle": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Anthropic : תזקיק מודל AI בקנה מידה תעשייתישל Claude. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +195,35 @@
       ],
       "category": "מימון",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/amul-ai-dairy-farming-platform-india/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני 16 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
+      "title": "כיצד עננים מנותקים משפרים את ניהול נתוני הבינה המלאכותית",
+      "originalTitle": "How disconnected clouds improve AI data governance",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד עננים מנותקים משפרים את ניהול נתוני הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-02-24T08:36:04.039Z",
+  "lastUpdated": "2026-02-25T08:37:23.681Z",
   "sources": {
     "official": [
       "OpenAI Blog",
