@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "אבטחת קודקס: עכשיו בתצוגה מקדימה של המחקר",
+      "originalTitle": "Codex Security: now in research preview",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "אבטחת קודקס: עכשיו בתצוגה מקדימה של המחקר. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/codex-security-now-in-research-preview",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול",
+      "originalTitle": "How Descript enables multilingual video dubbing at scale",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/descript",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "כיצד Balyasny Asset Management בנתה מנוע מחקר בינה מלאכותית להשקעה",
+      "originalTitle": "How Balyasny Asset Management built an AI research engine for investing",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "כיצד Balyasny Asset Management בנתה מנוע מחקר בינה מלאכותית להשקעה. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/balyasny-asset-management",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו",
       "originalTitle": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,76 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "כרטיס מערכת חשיבה GPT -5.4",
-      "originalTitle": "GPT-5.4 Thinking System Card",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כרטיס מערכת חשיבה GPT -5.4. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "הכירו את GPT -5.4",
-      "originalTitle": "Introducing GPT-5.4",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את GPT -5.4. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-5-4",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "מודלים של חשיבה מתקשים לשלוט בשרשראות המחשבה שלהם, וזה טוב",
-      "originalTitle": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מודלים של חשיבה מתקשים לשלוט בשרשראות המחשבה שלהם, וזה טוב. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "חוב מחמישי: &rlm;מעכשיו גם משתמשים חינמיים יכולים לחבר את קלוד לג׳ימייל ליומן ולגיטאהב ולעוד שלל אפליקציות. בינה מלאכותית בטלגרם - https://t.me/AI_tg_...",
+      "title": "כמו שבטח הבנתם, עם המודל הזה ניתן ליצור פייק ניוז שנראה אמיתי לכל דבר. זה לא צחוק. ולכן - גוגל משיקה ביחד עם המודל את היכולת לבדוק על כל תמונה שתרצו א...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "חוב מחמישי: &rlm;מעכשיו גם משתמשים חינמיים יכולים לחבר את קלוד לג׳ימייל ליומן ולגיטאהב ולעוד שלל אפליקציות. בינה מלאכותית בטלגרם - https://t.me/AI_tg_...",
+      "summary": "כמו שבטח הבנתם, עם המודל הזה ניתן ליצור פייק ניוז שנראה אמיתי לכל דבר. זה לא צחוק. ולכן - גוגל משיקה ביחד עם המודל את היכולת לבדוק על כל תמונה שתרצו א...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "&rlm;שימו לב התמונה שמתפרסמת ברשת כביכול של הגופה של חמינאי - מדובר בבינה מלאכותית. תודה לBil Dof מהקבוצה ששלח. בינה מלאכותית בטלגרם - https://t.me/AI...",
+      "title": "מקפיץ שוב 👆 נתקלתם בתמונה ואתם חושדים שהיא לא אמיתית? תעלו את התמונה לג׳מיני, תקלידו @ ותבחרו באופציה SynthID. ג׳מיני ינתח את התמונה ויגיד לכם אם היא...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;שימו לב התמונה שמתפרסמת ברשת כביכול של הגופה של חמינאי - מדובר בבינה מלאכותית. תודה לBil Dof מהקבוצה ששלח. בינה מלאכותית בטלגרם - https://t.me/AI...",
+      "summary": "מקפיץ שוב 👆 נתקלתם בתמונה ואתם חושדים שהיא לא אמיתית? תעלו את התמונה לג׳מיני, תקלידו @ ותבחרו באופציה SynthID. ג׳מיני ינתח את התמונה ויגיד לכם אם היא...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,18 +184,18 @@
     },
     {
       "id": 9,
-      "title": "ג'יי .פי מורגן מרחיב את ההשקעה בבינה מלאכותית ככל שההוצאה הטכנולוגית מתקרבת ל -20 מיליארד $",
-      "originalTitle": "JPMorgan expands AI investment as tech spending nears $20B",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "ג'יי .פי מורגן מרחיב את ההשקעה בבינה מלאכותית ככל שההוצאה הטכנולוגית מתקרבת ל -20 מיליארד $. משקיעים מאמינים בטכנולוגיה",
+      "title": "החברה שלעולם לא שוכחת: Rowspace משיקה עם 50 מיליון $ כדי לגרום ל - AI עבור הון פרטי לעבוד בפועל",
+      "originalTitle": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "החברה שלעולם לא שוכחת: Rowspace משיקה עם 50 מיליון $ כדי לגרום ל - AI עבור הון פרטי לעבוד בפועל. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מימון",
+      "category": "מוצר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
@@ -207,10 +207,10 @@
     },
     {
       "id": 10,
-      "title": "מעבר לפיילוט: Dyna.Ai מגייסת סדרה א' של שמונה ספרות כדי לשים את הבינה המלאכותית הסוכנת בשירותים פיננסיים לעבודה",
-      "originalTitle": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "מעבר לפיילוט: Dyna.Ai מגייסת סדרה א' של שמונה ספרות כדי לשים את הבינה המלאכותית הסוכנת בשירותים פיננסיים לעבודה. גיוס הון משמעותי בתעשיית ה-AI",
+      "title": "ג'יי .פי מורגן מרחיב את ההשקעה בבינה מלאכותית ככל שההוצאה הטכנולוגית מתקרבת ל -20 מיליארד $",
+      "originalTitle": "JPMorgan expands AI investment as tech spending nears $20B",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "ג'יי .פי מורגן מרחיב את ההשקעה בבינה מלאכותית ככל שההוצאה הטכנולוגית מתקרבת ל -20 מיליארד $. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,7 +218,7 @@
       ],
       "category": "מימון",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-06T08:27:18.949Z",
+  "lastUpdated": "2026-03-07T08:19:12.771Z",
   "sources": {
     "official": [
       "OpenAI Blog",
