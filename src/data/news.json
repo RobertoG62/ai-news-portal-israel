@@ -4,8 +4,8 @@
       "id": 1,
       "title": "אבטחת קודקס: עכשיו בתצוגה מקדימה של המחקר",
       "originalTitle": "Codex Security: now in research preview",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "אבטחת קודקס: עכשיו בתצוגה מקדימה של המחקר. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "אבטחת קודקס: עכשיו בתצוגה מקדימה של המחקר. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -27,8 +27,8 @@
       "id": 2,
       "title": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול",
       "originalTitle": "How Descript enables multilingual video dubbing at scale",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "כיצד Balyasny Asset Management בנתה מנוע מחקר בינה מלאכותית להשקעה",
       "originalTitle": "How Balyasny Asset Management built an AI research engine for investing",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "כיצד Balyasny Asset Management בנתה מנוע מחקר בינה מלאכותית להשקעה. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "כיצד Balyasny Asset Management בנתה מנוע מחקר בינה מלאכותית להשקעה. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו",
       "originalTitle": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "NVIDIA מודיעה על שותפות אסטרטגית עם Lumentum לפיתוח טכנולוגיית אופטיקה חדשנית",
       "originalTitle": "NVIDIA Announces Strategic Partnership With Lumentum to Develop State-of-the-Art Optics Technology",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA מודיעה על שותפות אסטרטגית עם Lumentum לפיתוח טכנולוגיית אופטיקה חדשנית. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA מודיעה על שותפות אסטרטגית עם Lumentum לפיתוח טכנולוגיית אופטיקה חדשנית. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "כמו שבטח הבנתם, עם המודל הזה ניתן ליצור פייק ניוז שנראה אמיתי לכל דבר. זה לא צחוק. ולכן - גוגל משיקה ביחד עם המודל את היכולת לבדוק על כל תמונה שתרצו א...",
+      "title": "איזה שימוש יפה בAI&#33; עד כמה שידוע לי ביבי לא דובר פרסית, ובכל זאת הנה ראש הממשלה בפנייה בפרסית לעם האיראני. בינה מלאכותית בטלגרם - https://t.me/AI_...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כמו שבטח הבנתם, עם המודל הזה ניתן ליצור פייק ניוז שנראה אמיתי לכל דבר. זה לא צחוק. ולכן - גוגל משיקה ביחד עם המודל את היכולת לבדוק על כל תמונה שתרצו א...",
+      "summary": "איזה שימוש יפה בAI&#33; עד כמה שידוע לי ביבי לא דובר פרסית, ובכל זאת הנה ראש הממשלה בפנייה בפרסית לעם האיראני. בינה מלאכותית בטלגרם - https://t.me/AI_...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "מקפיץ שוב 👆 נתקלתם בתמונה ואתם חושדים שהיא לא אמיתית? תעלו את התמונה לג׳מיני, תקלידו @ ותבחרו באופציה SynthID. ג׳מיני ינתח את התמונה ויגיד לכם אם היא...",
+      "title": "שמועות על שחרור DeepSeek v4 בימים הקרובים. ### האם שוב הבורסה בארה״ב תיפול בפח של הסינים? בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מקפיץ שוב 👆 נתקלתם בתמונה ואתם חושדים שהיא לא אמיתית? תעלו את התמונה לג׳מיני, תקלידו @ ותבחרו באופציה SynthID. ג׳מיני ינתח את התמונה ויגיד לכם אם היא...",
+      "summary": "שמועות על שחרור DeepSeek v4 בימים הקרובים. ### האם שוב הבורסה בארה״ב תיפול בפח של הסינים? בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-07T08:19:12.771Z",
+  "lastUpdated": "2026-03-08T08:20:11.437Z",
   "sources": {
     "official": [
       "OpenAI Blog",
