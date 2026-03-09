@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול",
+      "originalTitle": "How Descript enables multilingual video dubbing at scale",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/descript",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "אבטחת קודקס: עכשיו בתצוגה מקדימה של המחקר",
       "originalTitle": "Codex Security: now in research preview",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,30 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול",
-      "originalTitle": "How Descript enables multilingual video dubbing at scale",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד תיאור מאפשר דיבוב וידאו רב - לשוני בקנה מידה גדול. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/descript",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו",
       "originalTitle": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "צעדו לתוך הענן עם 15 משחקים חדשים שמגיעים ל - GeForce עכשיו. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "NVIDIA מודיעה על שותפות אסטרטגית עם Lumentum לפיתוח טכנולוגיית אופטיקה חדשנית",
       "originalTitle": "NVIDIA Announces Strategic Partnership With Lumentum to Develop State-of-the-Art Optics Technology",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA מודיעה על שותפות אסטרטגית עם Lumentum לפיתוח טכנולוגיית אופטיקה חדשנית. עדכון משמעותי שכדאי להכיר",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA מודיעה על שותפות אסטרטגית עם Lumentum לפיתוח טכנולוגיית אופטיקה חדשנית. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "איזה שימוש יפה בAI&#33; עד כמה שידוע לי ביבי לא דובר פרסית, ובכל זאת הנה ראש הממשלה בפנייה בפרסית לעם האיראני. בינה מלאכותית בטלגרם - https://t.me/AI_...",
+      "title": "שמועות על שחרור DeepSeek v4 בימים הקרובים. ### האם שוב הבורסה בארה״ב תיפול בפח של הסינים? בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איזה שימוש יפה בAI&#33; עד כמה שידוע לי ביבי לא דובר פרסית, ובכל זאת הנה ראש הממשלה בפנייה בפרסית לעם האיראני. בינה מלאכותית בטלגרם - https://t.me/AI_...",
+      "summary": "שמועות על שחרור DeepSeek v4 בימים הקרובים. ### האם שוב הבורסה בארה״ב תיפול בפח של הסינים? בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "שמועות על שחרור DeepSeek v4 בימים הקרובים. ### האם שוב הבורסה בארה״ב תיפול בפח של הסינים? בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "title": "דיווחים על כך שxAI עובדת על פיצ&#39;ר שכפול קול ב-Grok. תוכלו להקליט את עצמכם למשך מספר שניות וליצור כפיל קולי, שישמש אתכם במצב שיחה (Voice Mode). *עד...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "שמועות על שחרור DeepSeek v4 בימים הקרובים. ### האם שוב הבורסה בארה״ב תיפול בפח של הסינים? בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "summary": "דיווחים על כך שxAI עובדת על פיצ&#39;ר שכפול קול ב-Grok. תוכלו להקליט את עצמכם למשך מספר שניות וליצור כפיל קולי, שישמש אתכם במצב שיחה (Voice Mode). *עד...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-08T08:20:11.437Z",
+  "lastUpdated": "2026-03-09T08:33:47.448Z",
   "sources": {
     "official": [
       "OpenAI Blog",
