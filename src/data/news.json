@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "לתוך ה - Omniverse : כיצד בינה מלאכותית תעשייתית ותאומים דיגיטליים מאיצים תכנון, הנדסה וייצור ברחבי התעשיות",
+      "originalTitle": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "לתוך ה - Omniverse : כיצד בינה מלאכותית תעשייתית ותאומים דיגיטליים מאיצים תכנון, הנדסה וייצור ברחבי התעשיות. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "GeForce מעלה כעת את רמת המשחק בכנס מפתחי המשחקים",
+      "originalTitle": "GeForce NOW Raises the Game at the Game Developers Conference",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "GeForce מעלה כעת את רמת המשחק בכנס מפתחי המשחקים. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "NVIDIA Nemotron 3 סופר מספק תפוקה גבוהה פי 5 עבור AI סוכן",
       "originalTitle": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "NVIDIA Nemotron 3 סופר מספק תפוקה גבוהה פי 5 עבור AI סוכן. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "NVIDIA Nemotron 3 סופר מספק תפוקה גבוהה פי 5 עבור AI סוכן. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,40 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "NVIDIA GTC 2026: עדכונים בזמן אמת על מה חדש ב - AI",
-      "originalTitle": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA GTC 2026: עדכונים בזמן אמת על מה חדש ב - AI. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/gtc-2026-news/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Rakuten פותרת בעיות במהירות כפולה עם Codex",
       "originalTitle": "Rakuten fixes issues twice as fast with Codex",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Rakuten פותרת בעיות במהירות כפולה עם Codex. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "Rakuten פותרת בעיות במהירות כפולה עם Codex. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,30 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "NVIDIA ו - Nebius פרטנר כדי להגדיל את ענן הבינה המלא",
-      "originalTitle": "NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA ו - Nebius פרטנר כדי להגדיל את ענן הבינה המלא. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "http://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "תכנון סוכני AI להתנגד להזרקה מיידית",
       "originalTitle": "Designing AI agents to resist prompt injection",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "תכנון סוכני AI להתנגד להזרקה מיידית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תכנון סוכני AI להתנגד להזרקה מיידית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,30 +110,30 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 6,
-      "title": "Wayfair מגביר את דיוק הקטלוג ואת מהירות התמיכה עם OpenAI",
-      "originalTitle": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Wayfair מגביר את דיוק הקטלוג ואת מהירות התמיכה עם OpenAI. גיוס הון משמעותי בתעשיית ה-AI",
+      "title": "מדגם לסוכן: לצייד את ה - API של התגובות בסביבת מחשב",
+      "originalTitle": "From model to agent: Equipping the Responses API with a computer environment",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מדגם לסוכן: לצייד את ה - API של התגובות בסביבת מחשב. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "מימון",
+      "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/wayfair",
+      "sourceUrl": "https://openai.com/index/equip-responses-api-computer-environment",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "כיצד כלכלת בינה מלאכותית מרובת סוכנים משפיעה על אוטומציה עסקית",
+      "originalTitle": "How multi-agent AI economics influence business automation",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד כלכלת בינה מלאכותית מרובת סוכנים משפיעה על אוטומציה עסקית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "פיפ\"א בונה מחדש את פעילות הכדורגל העולמי באמצעות בינה מלאכותית. המונדיאל הוא רק המבחן הראשון",
       "originalTitle": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "פיפ\"א בונה מחדש את פעילות הכדורגל העולמי באמצעות בינה מלאכותית. המונדיאל הוא רק המבחן הראשון. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "פיפ\"א בונה מחדש את פעילות הכדורגל העולמי באמצעות בינה מלאכותית. המונדיאל הוא רק המבחן הראשון. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "Ai2: בניית בינה מלאכותית פיזית עם נתוני סימולציה וירטואליים",
-      "originalTitle": "Ai2: Building physical AI with virtual simulation data",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "Ai2: בניית בינה מלאכותית פיזית עם נתוני סימולציה וירטואליים. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "חומרה",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-12T08:31:31.913Z",
+  "lastUpdated": "2026-03-13T08:29:27.469Z",
   "sources": {
     "official": [
       "OpenAI Blog",
