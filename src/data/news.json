@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "מסימולציה לייצור: איך לבנות רובוטים עם בינה מלאכותית",
+      "originalTitle": "From Simulation to Production: How to Build Robots With AI",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מסימולציה לייצור: איך לבנות רובוטים עם בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "יותר מאשר פוגש את העין: מחשבים מואצים NVIDIA RTX מתחברים כעת ישירות ל - Apple Vision Pro",
       "originalTitle": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "יותר מאשר פוגש את העין: מחשבים מואצים NVIDIA RTX מתחברים כעת ישירות ל - Apple Vision Pro. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "יותר מאשר פוגש את העין: מחשבים מואצים NVIDIA RTX מתחברים כעת ישירות ל - Apple Vision Pro. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "NVIDIA , מנהיגי טלקום בונים רשתות בינה מלאכותית כדי לייעל את ההיסק ברשתות מבוזרות",
       "originalTitle": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA , מנהיגי טלקום בונים רשתות בינה מלאכותית כדי לייעל את ההיסק ברשתות מבוזרות. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA , מנהיגי טלקום בונים רשתות בינה מלאכותית כדי לייעל את ההיסק ברשתות מבוזרות. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,30 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "GTC זרקורים NVIDIA RTX מחשבים אישיים ו - DGX ניצוצות רצים הדגמים הפתוחים האחרונים וסוכני AI מקומיים",
-      "originalTitle": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "GTC זרקורים NVIDIA RTX מחשבים אישיים ו - DGX ניצוצות רצים הדגמים הפתוחים האחרונים וסוכני AI מקומיים. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "הכירו את ה - GPT -5.4 MINI וה - NANO",
       "originalTitle": "Introducing GPT-5.4 mini and nano",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את ה - GPT -5.4 MINI וה - NANO. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את ה - GPT -5.4 MINI וה - NANO. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,17 +87,40 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 5,
+      "title": "OpenAI יפן מכריזה על תוכנית הבטיחות לנוער ביפן כדי לשים את בטיחות הנוער בראש סדר העדיפויות",
+      "originalTitle": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "OpenAI יפן מכריזה על תוכנית הבטיחות לנוער ביפן כדי לשים את בטיחות הנוער בראש סדר העדיפויות. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/japan-teen-safety-blueprint",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "לצייד את העובדים בתובנות לגבי פיצויים",
       "originalTitle": "Equipping workers with insights about compensation",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "לצייד את העובדים בתובנות לגבי פיצויים. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "לצייד את העובדים בתובנות לגבי פיצויים. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מדוע קודקס אבטחה אינו כולל דוח SAST",
-      "originalTitle": "Why Codex Security Doesn’t Include a SAST Report",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מדוע קודקס אבטחה אינו כולל דוח SAST. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "בואו לעקוב גם ב 📱 https://x.com/AI_x_il",
+      "title": "אפל הכריזה על מקבוק (neo) חדש וזול עם מעבד של אייפון. החל מ599&#036; ### אם יש משהו יותר יפה מהמקבוקים של אפל (ספציפית זה פחות..) זה סרטוני ההשקה שלהם...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בואו לעקוב גם ב 📱 https://x.com/AI_x_il",
+      "summary": "אפל הכריזה על מקבוק (neo) חדש וזול עם מעבד של אייפון. החל מ599&#036; ### אם יש משהו יותר יפה מהמקבוקים של אפל (ספציפית זה פחות..) זה סרטוני ההשקה שלהם...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "סטארט אפ ישראלי 🇮🇱 המפחית את כאבי המחזור בעזרת טכנולוגיה לבישה ונוחה- תוך 60 שניות&#33; 🔥 חברת Livia פיתחה טכנולוגיה המוגנת ב-8 פטנטים ומאושרת FDA,...",
+      "title": "קודקס מגיע בקרוב לווינדוס&#33; פורים שמח 🤡 בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "סטארט אפ ישראלי 🇮🇱 המפחית את כאבי המחזור בעזרת טכנולוגיה לבישה ונוחה- תוך 60 שניות&#33; 🔥 חברת Livia פיתחה טכנולוגיה המוגנת ב-8 פטנטים ומאושרת FDA,...",
+      "summary": "קודקס מגיע בקרוב לווינדוס&#33; פורים שמח 🤡 בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,10 @@
     },
     {
       "id": 9,
-      "title": "Trustpilot משתפת פעולה עם חברות בינה מלאכותית כשהחיפוש המסורתי יורד",
-      "originalTitle": "Trustpilot partners with AI companies as traditional search declines",
+      "title": "NVIDIA רוצה להפוך סוכני בינה מלאכותית ארגוניים לבטוחים מספיק כדי לפרוס אותם בפועל",
+      "originalTitle": "NVIDIA wants to make enterprise AI agents safe enough to actually deploy",
       "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Trustpilot משתפת פעולה עם חברות בינה מלאכותית כשהחיפוש המסורתי יורד. פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA רוצה להפוך סוכני בינה מלאכותית ארגוניים לבטוחים מספיק כדי לפרוס אותם בפועל. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -195,35 +195,35 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני פחות משעה",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "גולדמן סאקס רואה את ההשקעה בבינה מלאכותית עוברת למרכזי נתונים",
-      "originalTitle": "Goldman Sachs sees AI investment shift to data centres",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "גולדמן סאקס רואה את ההשקעה בבינה מלאכותית עוברת למרכזי נתונים. השקעה ענקית מעידה על פוטנציאל",
+      "title": "Mastercard עוקבת אחר הונאות באמצעות מודל יסוד חדש",
+      "originalTitle": "Mastercard keeps tabs on fraud with new foundation model",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "Mastercard עוקבת אחר הונאות באמצעות מודל יסוד חדש. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מימון",
+      "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני 17 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-18T08:37:15.312Z",
+  "lastUpdated": "2026-03-19T08:31:44.271Z",
   "sources": {
     "official": [
       "OpenAI Blog",
