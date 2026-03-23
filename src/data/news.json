@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "ראיון עם מנכ\"ל NVIDIA ג'נסן הואנג על מחשוב מואץ",
       "originalTitle": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "ראיון עם מנכ\"ל NVIDIA ג'נסן הואנג על מחשוב מואץ. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ראיון עם מנכ\"ל NVIDIA ג'נסן הואנג על מחשוב מואץ. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "הכירו את ה - GPT -5.4 MINI וה - NANO",
       "originalTitle": "Introducing GPT-5.4 mini and nano",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את ה - GPT -5.4 MINI וה - NANO. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הכירו את ה - GPT -5.4 MINI וה - NANO. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,35 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מחכה לנו שבוע של השקות מגוגל… ניחושים? 👀 בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מחכה לנו שבוע של השקות מגוגל… ניחושים? 👀 בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "מטא רוכשת את Moltbook - הרשת החברתית לבוטים שיצרה באזז על כלום ושום דבר. ### למה? מה יש בזה שמטא צריכה ולא יכולה לעשות לבד? אין לי תשובות… בינה מלאכות...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "מטא רוכשת את Moltbook - הרשת החברתית לבוטים שיצרה באזז על כלום ושום דבר. ### למה? מה יש בזה שמטא צריכה ולא יכולה לעשות לבד? אין לי תשובות… בינה מלאכות...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "גם קלוד קוד וגם קודקס מפנקים זמנית עם x2 קרדיטים לשימוש. מתי זה בשעון ישראל? קודקס: לא תלוי בשעות. קלוד קוד: בשעות בהם אין עומסים - ימים א׳ - ה׳ בין ה...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "גם קלוד קוד וגם קודקס מפנקים זמנית עם x2 קרדיטים לשימוש. מתי זה בשעון ישראל? קודקס: לא תלוי בשעות. קלוד קוד: בשעות בהם אין עומסים - ימים א׳ - ה׳ בין ה...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "Visa מכינה מערכות תשלום לעסקאות ביוזמת סוכן בינה מלאכותית",
       "originalTitle": "Visa prepares payment systems for AI agent-initiated transactions",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Visa מכינה מערכות תשלום לעסקאות ביוזמת סוכן בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Visa מכינה מערכות תשלום לעסקאות ביוזמת סוכן בינה מלאכותית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "NVIDIA רוצה שסוכני בינה מלאכותית ארגוניים יהיו בטוחים יותר לפריסה",
       "originalTitle": "NVIDIA wants enterprise AI agents safer to deploy",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA רוצה שסוכני בינה מלאכותית ארגוניים יהיו בטוחים יותר לפריסה. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA רוצה שסוכני בינה מלאכותית ארגוניים יהיו בטוחים יותר לפריסה. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-22T08:23:03.760Z",
+  "lastUpdated": "2026-03-23T08:44:16.938Z",
   "sources": {
     "official": [
       "OpenAI Blog",
