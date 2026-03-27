@@ -2,6 +2,52 @@
   "news": [
     {
       "id": 1,
+      "title": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית",
+      "originalTitle": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו",
+      "originalTitle": "Game On: Five New Titles Now Streaming on GeForce NOW",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "העתיד של הבינה המלאכותית הוא פתוח וקנייני",
       "originalTitle": "The Future of AI Is Open and Proprietary",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,40 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "כיבוי קיטור: כיצד מפעלי AI גמישים יכולים לייצב את רשת האנרגיה הגלובלית",
-      "originalTitle": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "כיבוי קיטור: כיצד מפעלי AI גמישים יכולים לייצב את רשת האנרגיה הגלובלית. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "בתוך הגישה שלנו למפרט המודל",
       "originalTitle": "Inside our approach to the Model Spec",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "בתוך הגישה שלנו למפרט המודל. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "בתוך הגישה שלנו למפרט המודל. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "אנחנו שמחים להציג את תוכנית OpenAI Safety Bug Bounty",
       "originalTitle": "Introducing the OpenAI Safety Bug Bounty program",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "עוזרים למפתחים ליצור חוויות AI בטוחות יותר לבני נוער",
       "originalTitle": "Helping developers build safer AI experiences for teens",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "עוזרים למפתחים ליצור חוויות AI בטוחות יותר לבני נוער. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "עוזרים למפתחים ליצור חוויות AI בטוחות יותר לבני נוער. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "קידום קוד פתוח AI, NVIDIA תורם נהג הקצאת משאבים דינמיים עבור GPUs לקהילת Kubernetes",
-      "originalTitle": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "קידום קוד פתוח AI, NVIDIA תורם נהג הקצאת משאבים דינמיים עבור GPUs לקהילת Kubernetes. פריצת דרך בתחום החומרה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "גוגל עם שדרוג ענק ל-AI Studio שמעכשיו בונה לכם אפליקציות פול סטאק מקצה לקצה. הם הטמיעו מאחורי הקלעים את הסוכן של אנטי-גרביטי וזה הופך את הכלי להרבה יו...",
+      "title": "דיווח של wsj: חברת OpenAI מתכננת להשיק תוכנה למחשב שתכלול בתוכה את ChatGPT, Codex ו- Atlas, הכל במקום אחד. בינה מלאכותית בטלגרם - https://t.me/AI_tg_i...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גוגל עם שדרוג ענק ל-AI Studio שמעכשיו בונה לכם אפליקציות פול סטאק מקצה לקצה. הם הטמיעו מאחורי הקלעים את הסוכן של אנטי-גרביטי וזה הופך את הכלי להרבה יו...",
+      "summary": "דיווח של wsj: חברת OpenAI מתכננת להשיק תוכנה למחשב שתכלול בתוכה את ChatGPT, Codex ו- Atlas, הכל במקום אחד. בינה מלאכותית בטלגרם - https://t.me/AI_tg_i...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "📱 מגניב&#33; עכשיו אתם יכולים לשלוט על סשנים בקלוד קוד גם דרך טלגרם או דיסקורד. הוראות איך להתקין: https://code.claude.com/docs/en/channels בינה מלאכ...",
+      "title": "הדרמה שמתחוללת סביב קרסר: הם הכריזו על מודל חדש, Composer 2, רק שמשתמש ששיחק בקוד חשף שזה סך הכל מודל סיני קיים בשם Kimi 2.5, כך שהם לכאורה נתפסו בשקר...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "📱 מגניב&#33; עכשיו אתם יכולים לשלוט על סשנים בקלוד קוד גם דרך טלגרם או דיסקורד. הוראות איך להתקין: https://code.claude.com/docs/en/channels בינה מלאכ...",
+      "summary": "הדרמה שמתחוללת סביב קרסר: הם הכריזו על מודל חדש, Composer 2, רק שמשתמש ששיחק בקוד חשף שזה סך הכל מודל סיני קיים בשם Kimi 2.5, כך שהם לכאורה נתפסו בשקר...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,6 +184,29 @@
     },
     {
       "id": 9,
+      "title": "RPA חשוב, אבל בינה מלאכותית משנה את אופן פעולת האוטומציה",
+      "originalTitle": "RPA matters, but AI changes how automation works",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "RPA חשוב, אבל בינה מלאכותית משנה את אופן פעולת האוטומציה. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "Ocorian: משרדי המשפחה פונים ל - AI לקבלת תובנות על נתונים פיננסיים",
       "originalTitle": "Ocorian: Family offices turn to AI for financial data insights",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "סוכני AI נכנסים לתפקידי בנקאות בבנק אוף אמריקה",
-      "originalTitle": "AI agents enter banking roles at Bank of America",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "סוכני AI נכנסים לתפקידי בנקאות בבנק אוף אמריקה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-26T08:43:25.856Z",
+  "lastUpdated": "2026-03-27T08:40:24.129Z",
   "sources": {
     "official": [
       "OpenAI Blog",
