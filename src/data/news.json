@@ -4,8 +4,8 @@
       "id": 1,
       "title": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה",
       "originalTitle": "STADLER reshapes knowledge work at a 230-year-old company",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 10 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -27,8 +27,8 @@
       "id": 2,
       "title": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית",
       "originalTitle": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו",
       "originalTitle": "Game On: Five New Titles Now Streaming on GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "בתוך הגישה שלנו למפרט המודל",
       "originalTitle": "Inside our approach to the Model Spec",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "בתוך הגישה שלנו למפרט המודל. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "בתוך הגישה שלנו למפרט המודל. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,46 +184,46 @@
     },
     {
       "id": 9,
-      "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
-      "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מימון",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 73 ימים",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
-      "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "title": "RPA חשוב, אבל בינה מלאכותית משנה את אופן פעולת האוטומציה",
+      "originalTitle": "RPA matters, but AI changes how automation works",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "RPA חשוב, אבל בינה מלאכותית משנה את אופן פעולת האוטומציה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
       "category": "מחקר",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
-      "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 213 ימים",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
+      "title": "Ocorian: משרדי המשפחה פונים ל - AI לקבלת תובנות על נתונים פיננסיים",
+      "originalTitle": "Ocorian: Family offices turn to AI for financial data insights",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Ocorian: משרדי המשפחה פונים ל - AI לקבלת תובנות על נתונים פיננסיים. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-28T08:28:39.331Z",
+  "lastUpdated": "2026-03-29T08:30:07.398Z",
   "sources": {
     "official": [
       "OpenAI Blog",
