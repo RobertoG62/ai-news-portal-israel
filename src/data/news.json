@@ -2,10 +2,79 @@
   "news": [
     {
       "id": 1,
+      "title": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת",
+      "originalTitle": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "האצת השלב הבא של הבינה המלאכותית",
+      "originalTitle": "Accelerating the next phase of AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "האצת השלב הבא של הבינה המלאכותית. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "המערכת האקולוגית של NVIDIA AI מתרחבת כאשר מארוול מצטרפת לכוחות באמצעות היתוך NVLink",
+      "originalTitle": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "המערכת האקולוגית של NVIDIA AI מתרחבת כאשר מארוול מצטרפת לכוחות באמצעות היתוך NVLink. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "סיוע לצוותי סיוע לנפגעי אסונות להפוך את הבינה המלאכותית לפעולה ברחבי",
       "originalTitle": "Helping disaster response teams turn AI into action across Asia",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "סיוע לצוותי סיוע לנפגעי אסונות להפוך את הבינה המלאכותית לפעולה ברחבי. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "סיוע לצוותי סיוע לנפגעי אסונות להפוך את הבינה המלאכותית לפעולה ברחבי. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה",
       "originalTitle": "STADLER reshapes knowledge work at a 230-year-old company",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית",
       "originalTitle": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
       "headline": "התקדמות משמעותית בתחום",
@@ -64,75 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו",
-      "originalTitle": "Game On: Five New Titles Now Streaming on GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "המשחק מתחיל: חמישה כותרים חדשים זורמים עכשיו ב - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "העתיד של הבינה המלאכותית הוא פתוח וקנייני",
-      "originalTitle": "The Future of AI Is Open and Proprietary",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "העתיד של הבינה המלאכותית הוא פתוח וקנייני. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "בתוך הגישה שלנו למפרט המודל",
-      "originalTitle": "Inside our approach to the Model Spec",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "בתוך הגישה שלנו למפרט המודל. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/our-approach-to-the-model-spec",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "הדרמה שמתחוללת סביב קרסר: הם הכריזו על מודל חדש, Composer 2, רק שמשתמש ששיחק בקוד חשף שזה סך הכל מודל סיני קיים בשם Kimi 2.5, כך שהם לכאורה נתפסו בשקר...",
+      "title": "ה-AI של המגייסים כבר פסל אתכם. עכשיו הגיע הזמן להשתמש ב-AI כדי לנצח אותם. 🤖 ⚔️ שוק העבודה של 2026 הוא כבר מזמן לא &quot;אדם מול אדם&quot;. זו מלחמה ש...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הדרמה שמתחוללת סביב קרסר: הם הכריזו על מודל חדש, Composer 2, רק שמשתמש ששיחק בקוד חשף שזה סך הכל מודל סיני קיים בשם Kimi 2.5, כך שהם לכאורה נתפסו בשקר...",
+      "summary": "ה-AI של המגייסים כבר פסל אתכם. עכשיו הגיע הזמן להשתמש ב-AI כדי לנצח אותם. 🤖 ⚔️ שוק העבודה של 2026 הוא כבר מזמן לא &quot;אדם מול אדם&quot;. זו מלחמה ש...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "קימי מאשרים שהבסיס של המודל החדש של קורסור הוא קימי 2.5 בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "title": "&rlm;תוכן שיווקי: &rlm;פרסומת אחת ומיד סיפור מטורף מהקהילה",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "קימי מאשרים שהבסיס של המודל החדש של קורסור הוא קימי 2.5 בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "summary": "&rlm;תוכן שיווקי: &rlm;פרסומת אחת ומיד סיפור מטורף מהקהילה",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "SAP ו - ANYbotics מניעות אימוץ תעשייתי של בינה מלאכותית פיזית",
+      "originalTitle": "SAP and ANYbotics drive industrial adoption of physical AI",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "SAP ו - ANYbotics מניעות אימוץ תעשייתי של בינה מלאכותית פיזית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "ממשל מאובטח מאיץ את צמיחת הכנסות הבינה המלאכותית הפיננסית",
       "originalTitle": "Secure governance accelerates financial AI revenue growth",
-      "headline": "תזוזות בשוק ה-AI",
-      "summary": "ממשל מאובטח מאיץ את צמיחת הכנסות הבינה המלאכותית הפיננסית. תזוזות בשוק ה-AI",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "ממשל מאובטח מאיץ את צמיחת הכנסות הבינה המלאכותית הפיננסית. מגמות חדשות בשוק",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "גליה זוכה בפרס המצוינות עבור AI בטוח יותר בבנקאות",
-      "originalTitle": "Glia wins Excellence Award for safer AI in banking",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "גליה זוכה בפרס המצוינות עבור AI בטוח יותר בבנקאות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-03-31T08:45:43.334Z",
+  "lastUpdated": "2026-04-01T08:54:30.739Z",
   "sources": {
     "official": [
       "OpenAI Blog",
