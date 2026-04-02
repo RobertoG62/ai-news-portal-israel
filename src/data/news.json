@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית",
+      "originalTitle": "Gradient Labs gives every bank customer an AI account manager",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gradient-labs",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת",
       "originalTitle": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "האצת השלב הבא של הבינה המלאכותית",
       "originalTitle": "Accelerating the next phase of AI",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "האצת השלב הבא של הבינה המלאכותית. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "האצת השלב הבא של הבינה המלאכותית. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "המערכת האקולוגית של NVIDIA AI מתרחבת כאשר מארוול מצטרפת לכוחות באמצעות היתוך NVLink",
       "originalTitle": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "המערכת האקולוגית של NVIDIA AI מתרחבת כאשר מארוול מצטרפת לכוחות באמצעות היתוך NVLink. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "המערכת האקולוגית של NVIDIA AI מתרחבת כאשר מארוול מצטרפת לכוחות באמצעות היתוך NVLink. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "סיוע לצוותי סיוע לנפגעי אסונות להפוך את הבינה המלאכותית לפעולה ברחבי",
       "originalTitle": "Helping disaster response teams turn AI into action across Asia",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "סיוע לצוותי סיוע לנפגעי אסונות להפוך את הבינה המלאכותית לפעולה ברחבי. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "סיוע לצוותי סיוע לנפגעי אסונות להפוך את הבינה המלאכותית לפעולה ברחבי. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,30 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה",
-      "originalTitle": "STADLER reshapes knowledge work at a 230-year-old company",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שטדלר מעצב מחדש את עבודת הידע בחברה בת 230 שנה. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/stadler",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית",
       "originalTitle": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "לתוך ה - Omniverse : NVIDIA GTC מציגה עולמות וירטואליים המפעילים את עידן הבינה המלאכותית הפיזית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,18 +184,18 @@
     },
     {
       "id": 9,
-      "title": "SAP ו - ANYbotics מניעות אימוץ תעשייתי של בינה מלאכותית פיזית",
-      "originalTitle": "SAP and ANYbotics drive industrial adoption of physical AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "SAP ו - ANYbotics מניעות אימוץ תעשייתי של בינה מלאכותית פיזית. פיתוח חדש פותח אפשרויות",
+      "title": "KPMG: בתוך ספר ההשמעה של סוכן הבינה המלאכותית המניע את רווחי השוליים",
+      "originalTitle": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "KPMG: בתוך ספר ההשמעה של סוכן הבינה המלאכותית המניע את רווחי השוליים. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מחקר",
+      "category": "מימון",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
@@ -207,23 +207,23 @@
     },
     {
       "id": 10,
-      "title": "ממשל מאובטח מאיץ את צמיחת הכנסות הבינה המלאכותית הפיננסית",
-      "originalTitle": "Secure governance accelerates financial AI revenue growth",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "ממשל מאובטח מאיץ את צמיחת הכנסות הבינה המלאכותית הפיננסית. מגמות חדשות בשוק",
+      "title": "דוח Borderless Business של DeepL מגלה ש -83% מהארגונים עדיין מפגרים בשפת הבינה המלאכותית",
+      "originalTitle": "DeepL&#8217;s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "דוח Borderless Business של DeepL מגלה ש -83% מהארגונים עדיין מפגרים בשפת הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "שווקים",
+      "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 20 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-01T08:54:30.739Z",
+  "lastUpdated": "2026-04-02T08:44:38.633Z",
   "sources": {
     "official": [
       "OpenAI Blog",
