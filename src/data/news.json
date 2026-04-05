@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים",
+      "originalTitle": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן",
       "originalTitle": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן. עדכון משמעותי שכדאי להכיר",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "OpenAI רוכשת את TBPN",
       "originalTitle": "OpenAI acquires TBPN",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI רוכשת את TBPN. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI רוכשת את TBPN. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים",
       "originalTitle": "Codex now offers more flexible pricing for teams",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית",
       "originalTitle": "Gradient Labs gives every bank customer an AI account manager",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת",
-      "originalTitle": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "יעילות בקנה מידה: NVIDIA , מובילי אנרגיה מאיצים מפעלי AI גמישים כדי לבצר את הרשת. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "זוכרים את מודל הווידאו הפסיכי seedance 2.0 שיצא לפני תקופה? אז הנה הסיפור המטורף שקרה שם וממחיש את מה שדיברנו עליו בפוסט הקודם. החברה שדרכה היה אפשר ל...",
+      "title": "דיווח מהיום של בלומברג טוען שאפל תאפשר לכל צ&#39;אטבוט AI שתתקינו מהחנות להתחבר ישירות לסירי דרך מערכת &quot;הרחבות&quot;. זה אומר שסירי תוכל להעביר א...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זוכרים את מודל הווידאו הפסיכי seedance 2.0 שיצא לפני תקופה? אז הנה הסיפור המטורף שקרה שם וממחיש את מה שדיברנו עליו בפוסט הקודם. החברה שדרכה היה אפשר ל...",
+      "summary": "דיווח מהיום של בלומברג טוען שאפל תאפשר לכל צ&#39;אטבוט AI שתתקינו מהחנות להתחבר ישירות לסירי דרך מערכת &quot;הרחבות&quot;. זה אומר שסירי תוכל להעביר א...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "נפרדים מסורה. חברת OpenAI מודיעה על סגירת מודל הוידאו Sora. ### יתכן שהם הבינו שזה כבר לא שווה את הכסף וכוח המחשוב שזה תופס, אולי נראה מודל וידאו חדש ...",
+      "title": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "נפרדים מסורה. חברת OpenAI מודיעה על סגירת מודל הוידאו Sora. ### יתכן שהם הבינו שזה כבר לא שווה את הכסף וכוח המחשוב שזה תופס, אולי נראה מודל וידאו חדש ...",
+      "summary": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי",
       "originalTitle": "KiloClaw targets shadow AI with autonomous agent governance",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית",
       "originalTitle": "5 best practices to secure AI systems",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-04T08:30:37.619Z",
+  "lastUpdated": "2026-04-05T08:33:34.063Z",
   "sources": {
     "official": [
       "OpenAI Blog",
