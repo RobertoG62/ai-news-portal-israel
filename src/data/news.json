@@ -4,8 +4,8 @@
       "id": 1,
       "title": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים",
       "originalTitle": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -27,8 +27,8 @@
       "id": 2,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "OpenAI רוכשת את TBPN",
       "originalTitle": "OpenAI acquires TBPN",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "OpenAI רוכשת את TBPN. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI רוכשת את TBPN. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים",
       "originalTitle": "Codex now offers more flexible pricing for teams",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,35 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "דיווח מהיום של בלומברג טוען שאפל תאפשר לכל צ&#39;אטבוט AI שתתקינו מהחנות להתחבר ישירות לסירי דרך מערכת &quot;הרחבות&quot;. זה אומר שסירי תוכל להעביר א...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "דיווח מהיום של בלומברג טוען שאפל תאפשר לכל צ&#39;אטבוט AI שתתקינו מהחנות להתחבר ישירות לסירי דרך מערכת &quot;הרחבות&quot;. זה אומר שסירי תוכל להעביר א...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "בעדכון הקרוב לטלגרם נקבל קצת AI (ממש קצת) ... בעת כתיבת הודעה יופיע כפתור &quot;AI&quot; שם תוכלו לשנות את הסגנון של ההודעה, לתרגם אותה או לתקן שגיאות...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "בעדכון הקרוב לטלגרם נקבל קצת AI (ממש קצת) ... בעת כתיבת הודעה יופיע כפתור &quot;AI&quot; שם תוכלו לשנות את הסגנון של ההודעה, לתרגם אותה או לתקן שגיאות...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי",
       "originalTitle": "KiloClaw targets shadow AI with autonomous agent governance",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית",
       "originalTitle": "5 best practices to secure AI systems",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-05T08:33:34.063Z",
+  "lastUpdated": "2026-04-06T09:00:48.777Z",
   "sources": {
     "official": [
       "OpenAI Blog",
