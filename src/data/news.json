@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "הכרזה על מענק הבטיחות OpenAI",
+      "originalTitle": "Announcing the OpenAI Safety Fellowship",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הכרזה על מענק הבטיחות OpenAI. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מדיניות תעשייתית לעידן המודיעין",
+      "originalTitle": "Industrial policy for the Intelligence Age",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מדיניות תעשייתית לעידן המודיעין. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים",
       "originalTitle": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן",
       "originalTitle": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -64,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "OpenAI רוכשת את TBPN",
       "originalTitle": "OpenAI acquires TBPN",
       "headline": "התקדמות משמעותית בתחום",
@@ -87,62 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים",
-      "originalTitle": "Codex now offers more flexible pricing for teams",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קודקס מציעה עכשיו תמחור גמיש יותר לצוותים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית",
-      "originalTitle": "Gradient Labs gives every bank customer an AI account manager",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מעבדות הדרגתיות מעניקות לכל לקוח בנק מנהל חשבון בינה מלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gradient-labs",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
+      "title": "מתחרה חדש לOpenClaw שצובר תאוצה - Hermes Agent . הוא כמובן בקוד פתוח ויש לו בגדול את כל הפיצרים שיש בOpenClaw והם טוענים שיש לו ״זיכרון יותר טוב״. כלו...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
+      "summary": "מתחרה חדש לOpenClaw שצובר תאוצה - Hermes Agent . הוא כמובן בקוד פתוח ויש לו בגדול את כל הפיצרים שיש בOpenClaw והם טוענים שיש לו ״זיכרון יותר טוב״. כלו...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "בעדכון הקרוב לטלגרם נקבל קצת AI (ממש קצת) ... בעת כתיבת הודעה יופיע כפתור &quot;AI&quot; שם תוכלו לשנות את הסגנון של ההודעה, לתרגם אותה או לתקן שגיאות...",
+      "title": "משתמשים בקלוד קוד? תנו צ׳אנס גם לקודקס אולי תופתעו... אתם יכולים להפעיל אותו ישירות מתוך קלוד קוד . התוסף הרשמי פה: https://github.com/openai/codex-pl...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בעדכון הקרוב לטלגרם נקבל קצת AI (ממש קצת) ... בעת כתיבת הודעה יופיע כפתור &quot;AI&quot; שם תוכלו לשנות את הסגנון של ההודעה, לתרגם אותה או לתקן שגיאות...",
+      "summary": "משתמשים בקלוד קוד? תנו צ׳אנס גם לקודקס אולי תופתעו... אתם יכולים להפעיל אותו ישירות מתוך קלוד קוד . התוסף הרשמי פה: https://github.com/openai/codex-pl...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "כשסוכני בינה מלאכותית לוקחים על עצמם יותר משימות, הממשל הופך לעדיפות",
+      "originalTitle": "As AI agents take on more tasks, governance becomes a priority",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשסוכני בינה מלאכותית לוקחים על עצמם יותר משימות, הממשל הופך לעדיפות. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי",
       "originalTitle": "KiloClaw targets shadow AI with autonomous agent governance",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית",
-      "originalTitle": "5 best practices to secure AI systems",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-06T09:00:48.777Z",
+  "lastUpdated": "2026-04-07T08:52:20.046Z",
   "sources": {
     "official": [
       "OpenAI Blog",
