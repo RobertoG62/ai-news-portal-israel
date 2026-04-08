@@ -4,8 +4,8 @@
       "id": 1,
       "title": "הכרזה על מענק הבטיחות OpenAI",
       "originalTitle": "Announcing the OpenAI Safety Fellowship",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכרזה על מענק הבטיחות OpenAI. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכרזה על מענק הבטיחות OpenAI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן",
       "originalTitle": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "OpenAI רוכשת את TBPN",
       "originalTitle": "OpenAI acquires TBPN",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI רוכשת את TBPN. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "OpenAI רוכשת את TBPN. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,35 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מתחרה חדש לOpenClaw שצובר תאוצה - Hermes Agent . הוא כמובן בקוד פתוח ויש לו בגדול את כל הפיצרים שיש בOpenClaw והם טוענים שיש לו ״זיכרון יותר טוב״. כלו...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מתחרה חדש לOpenClaw שצובר תאוצה - Hermes Agent . הוא כמובן בקוד פתוח ויש לו בגדול את כל הפיצרים שיש בOpenClaw והם טוענים שיש לו ״זיכרון יותר טוב״. כלו...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "משתמשים בקלוד קוד? תנו צ׳אנס גם לקודקס אולי תופתעו... אתם יכולים להפעיל אותו ישירות מתוך קלוד קוד . התוסף הרשמי פה: https://github.com/openai/codex-pl...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "משתמשים בקלוד קוד? תנו צ׳אנס גם לקודקס אולי תופתעו... אתם יכולים להפעיל אותו ישירות מתוך קלוד קוד . התוסף הרשמי פה: https://github.com/openai/codex-pl...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "אגב, קוד המקור של קלוד קוד דלף... https://x.com/Fried_rice/status/2038894956459290963?s=20 *הבהרה: לא דלפו סודות או משקולות של המודל, רק קוד המקור של ...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "אגב, קוד המקור של קלוד קוד דלף... https://x.com/Fried_rice/status/2038894956459290963?s=20 *הבהרה: לא דלפו סודות או משקולות של המודל, רק קוד המקור של ...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
-      "title": "כשסוכני בינה מלאכותית לוקחים על עצמם יותר משימות, הממשל הופך לעדיפות",
-      "originalTitle": "As AI agents take on more tasks, governance becomes a priority",
+      "title": "Asylon ו - Thrive Logic מביאים בינה מלאכותית פיזית לאבטחה היקפית ארגונית",
+      "originalTitle": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשסוכני בינה מלאכותית לוקחים על עצמם יותר משימות, הממשל הופך לעדיפות. מחקר חדש חושף תובנות מרתקות",
+      "summary": "Asylon ו - Thrive Logic מביאים בינה מלאכותית פיזית לאבטחה היקפית ארגונית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -195,35 +195,35 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני 18 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי",
-      "originalTitle": "KiloClaw targets shadow AI with autonomous agent governance",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "KiloClaw מכוון ל - Shadow AI עם ממשל סוכנים אוטונומי. מוצר חדש מבטיח לחולל מהפכה",
+      "title": "Boomi קוראת לזה \"הפעלת נתונים\" ואומרת שזה השלב החסר בכל פריסת בינה מלאכותית",
+      "originalTitle": "Boomi calls it &#8220;data activation&#8221; and says it&#8217;s the missing step in every AI deployment",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Boomi קוראת לזה \"הפעלת נתונים\" ואומרת שזה השלב החסר בכל פריסת בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מוצר",
+      "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 20 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-07T08:52:20.046Z",
+  "lastUpdated": "2026-04-08T08:52:22.688Z",
   "sources": {
     "official": [
       "OpenAI Blog",
