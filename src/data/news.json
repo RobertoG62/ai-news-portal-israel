@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן",
+      "originalTitle": "Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-samson-a-tyndalston-story/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "CyberAgent מתקדם מהר יותר עם ChatGPT Enterprise ו - Codex",
+      "originalTitle": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "CyberAgent מתקדם מהר יותר עם ChatGPT Enterprise ו - Codex. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/cyberagent",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "תחרות מצב מאוורר מלא OpenAI : תנאים והגבלות",
+      "originalTitle": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "תחרות מצב מאוורר מלא OpenAI : תנאים והגבלות. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "השלב הבא של הבינה המלאכותית הארגונית",
       "originalTitle": "The next phase of enterprise AI",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,63 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "הכירו את שרטוט הבטיחות לילדים",
-      "originalTitle": "Introducing the Child Safety Blueprint",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את שרטוט הבטיחות לילדים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-child-safety-blueprint",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "הכרזה על מענק הבטיחות OpenAI",
-      "originalTitle": "Announcing the OpenAI Safety Fellowship",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הכרזה על מענק הבטיחות OpenAI. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 5,
       "title": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים",
       "originalTitle": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן",
-      "originalTitle": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "לחץ על התחל באפריל: GeForce מביא כעת 10 משחקים לענן. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
+      "timeAgo": "לפני 7 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מעניין&#33; OpenAI רוכשת את TBPN. אז ככה, TBPN זו תוכנית שעושה ראיונות עם כל המי ומי בעולם הטק, והם משדרים ב-X וביוטיוב. אז למה לקנות אותם? ב-OpenAI ט...",
+      "title": "מתחרה לננו בננה? נראה שבקרוב נקבל מודל תמונות חדש מOpenAI. בארנה הופיעו כמה מודלים חדשים עם שמות קוד maskingtape, packingtape, ו-gaffertape. הם מביאים...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מעניין&#33; OpenAI רוכשת את TBPN. אז ככה, TBPN זו תוכנית שעושה ראיונות עם כל המי ומי בעולם הטק, והם משדרים ב-X וביוטיוב. אז למה לקנות אותם? ב-OpenAI ט...",
+      "summary": "מתחרה לננו בננה? נראה שבקרוב נקבל מודל תמונות חדש מOpenAI. בארנה הופיעו כמה מודלים חדשים עם שמות קוד maskingtape, packingtape, ו-gaffertape. הם מביאים...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "פיצ׳רי הAI בטלגרם זמינים עכשיו לכולם. תבדקו שהאפליקציה שלכם מעודכנת לגירסה האחרונה. ### מבדיקה קצרה נראה שתיקון שגיאות הכתיב בעברית לא ממש מוצלח, אבל ...",
+      "title": "גוגל שחררה במהלך החג את Gemma 4 הדור הבא של מודלי ה־Open Weights שלה. המודל מגיע ב4 גדלים כשהגדולים מגיעים עם חלון הקשר של 256k טוקנים והקטנים יכולים ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "פיצ׳רי הAI בטלגרם זמינים עכשיו לכולם. תבדקו שהאפליקציה שלכם מעודכנת לגירסה האחרונה. ### מבדיקה קצרה נראה שתיקון שגיאות הכתיב בעברית לא ממש מוצלח, אבל ...",
+      "summary": "גוגל שחררה במהלך החג את Gemma 4 הדור הבא של מודלי ה־Open Weights שלה. המודל מגיע ב4 גדלים כשהגדולים מגיעים עם חלון הקשר של 256k טוקנים והקטנים יכולים ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 85 ימים",
+      "timeAgo": "לפני 86 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 225 ימים",
+      "timeAgo": "לפני 226 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-09T08:59:12.680Z",
+  "lastUpdated": "2026-04-10T08:59:26.253Z",
   "sources": {
     "official": [
       "OpenAI Blog",
