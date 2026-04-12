@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "שימוש ב - GPTs מותאמים אישית",
-      "originalTitle": "Using custom GPTs",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שימוש ב - GPTs מותאמים אישית. התקדמות משמעותית בתחום",
+      "title": "שימוש בפרויקטים ב - ChatGPT",
+      "originalTitle": "Using projects in ChatGPT",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שימוש בפרויקטים ב - ChatGPT. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,45 +13,45 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/custom-gpts",
+      "sourceUrl": "https://openai.com/academy/projects",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "ChatGPT לצוותי הצלחה של לקוחות",
-      "originalTitle": "ChatGPT for customer success teams",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "ChatGPT לצוותי הצלחה של לקוחות. התקדמות משמעותית בתחום",
+      "title": "ChatGPT לצוותי שיווק",
+      "originalTitle": "ChatGPT for marketing teams",
+      "headline": "השפעה על שוק ההון",
+      "summary": "ChatGPT לצוותי שיווק. השפעה על שוק ההון",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "מחקר",
+      "category": "שווקים",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/customer-success",
+      "sourceUrl": "https://openai.com/academy/marketing",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 3,
-      "title": "יישומי AI ב - OpenAI",
-      "originalTitle": "Applications of AI at OpenAI",
+      "title": "התגובה שלנו לפגיעה בכלי הפיתוח של Axios",
+      "originalTitle": "Our response to the Axios developer tool compromise",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "יישומי AI ב - OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "summary": "התגובה שלנו לפגיעה בכלי הפיתוח של Axios. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,12 +59,12 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/applications-of-ai",
+      "sourceUrl": "https://openai.com/index/axios-developer-tool-compromise",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן",
       "originalTitle": "Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים",
       "originalTitle": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
+      "timeAgo": "לפני 7 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 ימים",
+      "timeAgo": "לפני 9 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "IBM: עד כמה משילות AI חזקה מגנה על שולי הרווח הארגוניים",
       "originalTitle": "IBM: How robust AI governance protects enterprise margins",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "IBM: עד כמה משילות AI חזקה מגנה על שולי הרווח הארגוניים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "IBM: עד כמה משילות AI חזקה מגנה על שולי הרווח הארגוניים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-11T08:32:28.428Z",
+  "lastUpdated": "2026-04-12T08:37:35.262Z",
   "sources": {
     "official": [
       "OpenAI Blog",
