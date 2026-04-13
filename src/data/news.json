@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "שימוש בפרויקטים ב - ChatGPT",
-      "originalTitle": "Using projects in ChatGPT",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שימוש בפרויקטים ב - ChatGPT. פיתוח חדש פותח אפשרויות",
+      "title": "מחקר עם ChatGPT",
+      "originalTitle": "Research with ChatGPT",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מחקר עם ChatGPT. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,45 +13,22 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/projects",
+      "sourceUrl": "https://openai.com/academy/search-and-deep-research",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "ChatGPT לצוותי שיווק",
-      "originalTitle": "ChatGPT for marketing teams",
-      "headline": "השפעה על שוק ההון",
-      "summary": "ChatGPT לצוותי שיווק. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/marketing",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "התגובה שלנו לפגיעה בכלי הפיתוח של Axios",
-      "originalTitle": "Our response to the Axios developer tool compromise",
+      "title": "ChatGPT לצוותי מימון",
+      "originalTitle": "ChatGPT for finance teams",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "התגובה שלנו לפגיעה בכלי הפיתוח של Axios. מחקר חדש חושף תובנות מרתקות",
+      "summary": "ChatGPT לצוותי מימון. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,12 +36,35 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/axios-developer-tool-compromise",
+      "sourceUrl": "https://openai.com/academy/finance",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "ChatGPT למחקר",
+      "originalTitle": "ChatGPT for research",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ChatGPT למחקר. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/academy/research",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן",
       "originalTitle": "Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "כוח וגורל מתנגשים: ‘שמשון: סיפור של טינדלסטון’ מגיע לענן. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים",
       "originalTitle": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "שבוע הרובוטיקה הלאומי — מחקר הבינה המלאכותית הפיזי האחרון, פריצות דרך ומשאבים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 7 ימים",
+      "timeAgo": "לפני 8 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית",
       "originalTitle": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מ - RTX ל - SPARK: NVIDIA מאיץ את ג'מה 4 עבור בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 9 ימים",
+      "timeAgo": "לפני 10 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מתחרה לננו בננה? נראה שבקרוב נקבל מודל תמונות חדש מOpenAI. בארנה הופיעו כמה מודלים חדשים עם שמות קוד maskingtape, packingtape, ו-gaffertape. הם מביאים...",
+      "title": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מתחרה לננו בננה? נראה שבקרוב נקבל מודל תמונות חדש מOpenAI. בארנה הופיעו כמה מודלים חדשים עם שמות קוד maskingtape, packingtape, ו-gaffertape. הם מביאים...",
+      "summary": "יתכן שאנתרופיק תשחרר בקרוב סדרת מודלים חדשה לגמרי בשם ׳קפיברה׳. לפי השמועות מדובר בקפיצת מדרגה ביכולות של המודל בתחום הסייבר והוא קיבל ציונים גבוהים ד...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "גוגל שחררה במהלך החג את Gemma 4 הדור הבא של מודלי ה־Open Weights שלה. המודל מגיע ב4 גדלים כשהגדולים מגיעים עם חלון הקשר של 256k טוקנים והקטנים יכולים ...",
+      "title": "אנתרופיק מכריזה על פרויקט Glasswing. פרויקט דחוף שמטרתו לסייע באבטחת סייבר לחברות הגדולות. הפרויקט ישתמש במודל החדש ״מיתוס״ - המודל הכי טוב של אנתרופי...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גוגל שחררה במהלך החג את Gemma 4 הדור הבא של מודלי ה־Open Weights שלה. המודל מגיע ב4 גדלים כשהגדולים מגיעים עם חלון הקשר של 256k טוקנים והקטנים יכולים ...",
+      "summary": "אנתרופיק מכריזה על פרויקט Glasswing. פרויקט דחוף שמטרתו לסייע באבטחת סייבר לחברות הגדולות. הפרויקט ישתמש במודל החדש ״מיתוס״ - המודל הכי טוב של אנתרופי...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "מדוע חברות כמו Apple בונות סוכני AI עם מגבלות",
       "originalTitle": "Why companies like Apple are building AI agents with limits",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "מדוע חברות כמו Apple בונות סוכני AI עם מגבלות. חומרה חדשה תאיץ את עולם ה-AI",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "מדוע חברות כמו Apple בונות סוכני AI עם מגבלות. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-12T08:37:35.262Z",
+  "lastUpdated": "2026-04-13T09:27:20.839Z",
   "sources": {
     "official": [
       "OpenAI Blog",
