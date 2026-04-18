@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "הכירו את GPT - ROSEIND למחקר מדעי החיים",
       "originalTitle": "Introducing GPT-Rosalind for life sciences research",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את GPT - ROSEIND למחקר מדעי החיים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את GPT - ROSEIND למחקר מדעי החיים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "האצת האקוסיסטם של הגנת הסייבר המגן על כולנו",
       "originalTitle": "Accelerating the cyber defense ecosystem that protects us all",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "האצת האקוסיסטם של הגנת הסייבר המגן על כולנו. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "האצת האקוסיסטם של הגנת הסייבר המגן על כולנו. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "חשיבה מחדש על AI TCO: מדוע עלות לכל אסימון היא המדד היחיד שחשוב",
       "originalTitle": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "חשיבה מחדש על AI TCO: מדוע עלות לכל אסימון היא המדד היחיד שחשוב. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "חשיבה מחדש על AI TCO: מדוע עלות לכל אסימון היא המדד היחיד שחשוב. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "מצב חדש של Adobe Premiere לדירוג צבעים הואץ ב - NVIDIA GPUs",
       "originalTitle": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "מצב חדש של Adobe Premiere לדירוג צבעים הואץ ב - NVIDIA GPUs. חומרה חדשה תאיץ את עולם ה-AI",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "מצב חדש של Adobe Premiere לדירוג צבעים הואץ ב - NVIDIA GPUs. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "OpenAI סוכני SDK משפרים את הממשל עם ביצוע ארגז חול",
       "originalTitle": "OpenAI Agents SDK improves governance with sandbox execution",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI סוכני SDK משפרים את הממשל עם ביצוע ארגז חול. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "OpenAI סוכני SDK משפרים את הממשל עם ביצוע ארגז חול. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-17T09:08:25.855Z",
+  "lastUpdated": "2026-04-18T08:38:01.627Z",
   "sources": {
     "official": [
       "OpenAI Blog",
