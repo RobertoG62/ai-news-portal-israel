@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA ושותפים מציגים את העתיד של ייצור מונחה בינה מלאכותית בהנובר מסה 2026",
+      "originalTitle": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA ושותפים מציגים את העתיד של ייצור מונחה בינה מלאכותית בהנובר מסה 2026. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "אין צורך בציוד חלל — ה — ‘PRAGMATA‘ של Capcom מצטרף ל - GeForce עכשיו ביום השיגור",
       "originalTitle": "No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "אין צורך בציוד חלל — ה — ‘PRAGMATA‘ של Capcom מצטרף ל - GeForce עכשיו ביום השיגור. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "אין צורך בציוד חלל — ה — ‘PRAGMATA‘ של Capcom מצטרף ל - GeForce עכשיו ביום השיגור. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "קודקס עבור (כמעט) הכל",
       "originalTitle": "Codex for (almost) everything",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "קודקס עבור (כמעט) הכל. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "קודקס עבור (כמעט) הכל. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "הכירו את GPT - ROSEIND למחקר מדעי החיים",
       "originalTitle": "Introducing GPT-Rosalind for life sciences research",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הכירו את GPT - ROSEIND למחקר מדעי החיים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הכירו את GPT - ROSEIND למחקר מדעי החיים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "האצת האקוסיסטם של הגנת הסייבר המגן על כולנו",
       "originalTitle": "Accelerating the cyber defense ecosystem that protects us all",
       "headline": "התקדמות משמעותית בתחום",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "חשיבה מחדש על AI TCO: מדוע עלות לכל אסימון היא המדד היחיד שחשוב",
       "originalTitle": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חשיבה מחדש על AI TCO: מדוע עלות לכל אסימון היא המדד היחיד שחשוב. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חשיבה מחדש על AI TCO: מדוע עלות לכל אסימון היא המדד היחיד שחשוב. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,58 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מצב חדש של Adobe Premiere לדירוג צבעים הואץ ב - NVIDIA GPUs",
-      "originalTitle": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "מצב חדש של Adobe Premiere לדירוג צבעים הואץ ב - NVIDIA GPUs. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "הרבה תלונות ברשת שאנתרופיק משנמכת בכוונה את רמת החשיבה של קלוד אופוס 4.6 (גם סונט) מפתחים מתלוננים שהמודל קורא פחות קבצים לפני פעולה, עושה שינויים מוז...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הרבה תלונות ברשת שאנתרופיק משנמכת בכוונה את רמת החשיבה של קלוד אופוס 4.6 (גם סונט) מפתחים מתלוננים שהמודל קורא פחות קבצים לפני פעולה, עושה שינויים מוז...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "דליפה חדשה מאנתרופיק. נראה שהם מכינים כלי חדש לבניית אפליקציות full-stack בתוך הממשק של Claude בווב – במיוחד למשתמשים פחות טכניים. אם זה נכון, יש מצב ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "דליפה חדשה מאנתרופיק. נראה שהם מכינים כלי חדש לבניית אפליקציות full-stack בתוך הממשק של Claude בווב – במיוחד למשתמשים פחות טכניים. אם זה נכון, יש מצב ...",
@@ -183,7 +161,52 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "נסיון כושל לברוח מהפומו מתי נגעתם לאחרונה בדשא?",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "נסיון כושל לברוח מהפומו מתי נגעתם לאחרונה בדשא?",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
+      "title": "Anthropic נכנס לבית הלבן ומיתוס הוא הסיבה שוושינגטון הכניסה אותו",
+      "originalTitle": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "Anthropic נכנס לבית הלבן ומיתוס הוא הסיבה שוושינגטון הכניסה אותו. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מוצר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "OpenAI סוכני SDK משפרים את הממשל עם ביצוע ארגז חול",
       "originalTitle": "OpenAI Agents SDK improves governance with sandbox execution",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "Cadence מרחיבה את הבינה המלאכותית ואת השותפויות הרובוטיות עם NVIDIA , Google Cloud",
-      "originalTitle": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "Cadence מרחיבה את הבינה המלאכותית ואת השותפויות הרובוטיות עם NVIDIA , Google Cloud. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מוצר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-19T08:42:43.168Z",
+  "lastUpdated": "2026-04-20T09:48:13.675Z",
   "sources": {
     "official": [
       "OpenAI Blog",
