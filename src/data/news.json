@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "שינוי קנה מידה של Codex לארגונים ברחבי העולם",
+      "originalTitle": "Scaling Codex to enterprises worldwide",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "שינוי קנה מידה של Codex לארגונים ברחבי העולם. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "בינה מלאכותית אוטונומית בקנה מידה: Adobe Agents משיגים אינטליגנציה יצירתית פורצת דרך עם NVIDIA ו - WPP",
       "originalTitle": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "בינה מלאכותית אוטונומית בקנה מידה: Adobe Agents משיגים אינטליגנציה יצירתית פורצת דרך עם NVIDIA ו - WPP. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "בינה מלאכותית אוטונומית בקנה מידה: Adobe Agents משיגים אינטליגנציה יצירתית פורצת דרך עם NVIDIA ו - WPP. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "NVIDIA ושותפים מציגים את העתיד של ייצור מונחה בינה מלאכותית בהנובר מסה 2026",
       "originalTitle": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA ושותפים מציגים את העתיד של ייצור מונחה בינה מלאכותית בהנובר מסה 2026. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA ושותפים מציגים את העתיד של ייצור מונחה בינה מלאכותית בהנובר מסה 2026. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "OpenAI מסייע ל - Hyatt לקדם בינה מלאכותית בקרב עמיתים",
       "originalTitle": "OpenAI helps Hyatt advance AI among colleagues",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "OpenAI מסייע ל - Hyatt לקדם בינה מלאכותית בקרב עמיתים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI מסייע ל - Hyatt לקדם בינה מלאכותית בקרב עמיתים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "אין צורך בציוד חלל — ה — ‘PRAGMATA‘ של Capcom מצטרף ל - GeForce עכשיו ביום השיגור",
       "originalTitle": "No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "קודקס עבור (כמעט) הכל",
       "originalTitle": "Codex for (almost) everything",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "הכירו את GPT - ROSEIND למחקר מדעי החיים",
-      "originalTitle": "Introducing GPT-Rosalind for life sciences research",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את GPT - ROSEIND למחקר מדעי החיים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-rosalind",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "טכנולוגיה ישראלית שמספקת אנרגיה ללא הגבלה&#33; חברת סולצ‘יפ פיתחה מערכת חכמה מוגנת פטנט להספקת אנרגיה בלתי נגמרת למכשירים אלקטרוניים בתעשיות ענק מבוסס...",
+      "title": "גם OpenAI עם עדכון לקודקס: שליטה במחשב (Computer Use), דפדפן מובנה, יצירת תמונות, תזמון משימות ועוד. העדכון מתגלגל לכולם בהדרגה. בינה מלאכותית בטלגרם ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "טכנולוגיה ישראלית שמספקת אנרגיה ללא הגבלה&#33; חברת סולצ‘יפ פיתחה מערכת חכמה מוגנת פטנט להספקת אנרגיה בלתי נגמרת למכשירים אלקטרוניים בתעשיות ענק מבוסס...",
+      "summary": "גם OpenAI עם עדכון לקודקס: שליטה במחשב (Computer Use), דפדפן מובנה, יצירת תמונות, תזמון משימות ועוד. העדכון מתגלגל לכולם בהדרגה. בינה מלאכותית בטלגרם ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "מה צפוי להגיע בקרוב? לפי השמועות, ממש בימים הקרובים אנתרופיק תשחרר את קלוד אופוס 4.7 ביחד עם כלי עיצוב חדש שיתחרה בפיגמה, סטיץ׳ של גוגל, וויקס ועוד ית...",
+      "title": "אנתרופיק שחררה בשישי את כלי העיצוב שלה https://claude.ai/design בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מה צפוי להגיע בקרוב? לפי השמועות, ממש בימים הקרובים אנתרופיק תשחרר את קלוד אופוס 4.7 ביחד עם כלי עיצוב חדש שיתחרה בפיגמה, סטיץ׳ של גוגל, וויקס ועוד ית...",
+      "summary": "אנתרופיק שחררה בשישי את כלי העיצוב שלה https://claude.ai/design בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,33 +184,33 @@
     },
     {
       "id": 9,
-      "title": "Bobyard 2.0 מציע המראות משופרות ובינה מלאכותית אחידה עבור אומדים",
-      "originalTitle": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "Bobyard 2.0 מציע המראות משופרות ובינה מלאכותית אחידה עבור אומדים. עדכון משמעותי שכדאי להכיר",
+      "title": "תפקידה של הבינה המלאכותית בפיתוח בוט מט\"ח מודרני",
+      "originalTitle": "The role of AI in modern forex bot development",
+      "headline": "תזוזות בשוק ה-AI",
+      "summary": "תפקידה של הבינה המלאכותית בפיתוח בוט מט\"ח מודרני. תזוזות בשוק ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מוצר",
+      "category": "שווקים",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני שעה",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "כיצד להתכונן ולתקן תקרית מערכת בינה מלאכותית",
-      "originalTitle": "How to prepare for and remediate an AI system incident",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד להתכונן ולתקן תקרית מערכת בינה מלאכותית. התקדמות משמעותית בתחום",
+      "title": "Snowflake מרחיבה את פלטפורמות הבינה המלאכותית הטכניות והמיינסטרים",
+      "originalTitle": "Snowflake expands its technical and mainstream AI platforms",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "Snowflake מרחיבה את פלטפורמות הבינה המלאכותית הטכניות והמיינסטרים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +218,12 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני 18 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-21T09:17:23.635Z",
+  "lastUpdated": "2026-04-22T09:11:37.147Z",
   "sources": {
     "official": [
       "OpenAI Blog",
