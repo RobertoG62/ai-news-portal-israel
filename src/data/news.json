@@ -4,8 +4,8 @@
       "id": 1,
       "title": "OpenAI החדש של GPT -5.5 Powers Codex על תשתית NVIDIA — ו — NVIDIA כבר מפעיל אותו",
       "originalTitle": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI החדש של GPT -5.5 Powers Codex על תשתית NVIDIA — ו — NVIDIA כבר מפעיל אותו. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI החדש של GPT -5.5 Powers Codex על תשתית NVIDIA — ו — NVIDIA כבר מפעיל אותו. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 14 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "להבין את היקום המוקדם",
       "originalTitle": "Making Sense of the Early Universe",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "להבין את היקום המוקדם. חומרה חדשה תאיץ את עולם ה-AI",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "להבין את היקום המוקדם. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "אוטומציות",
       "originalTitle": "Automations",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "אוטומציות. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "אוטומציות. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "מדוע סוכני AI זקוקים לתשתית אינטראקציה",
+      "originalTitle": "Why AI agents need interaction infrastructure",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מדוע סוכני AI זקוקים לתשתית אינטראקציה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 16 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "כיצד מודלים של בינה מלאכותית משתמשים בנתוני מטבעות קריפטוגרפיים בזמן אמת כדי לפרש את התנהגות השוק",
       "originalTitle": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-      "headline": "השפעה על שוק ההון",
-      "summary": "כיצד מודלים של בינה מלאכותית משתמשים בנתוני מטבעות קריפטוגרפיים בזמן אמת כדי לפרש את התנהגות השוק. השפעה על שוק ההון",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "כיצד מודלים של בינה מלאכותית משתמשים בנתוני מטבעות קריפטוגרפיים בזמן אמת כדי לפרש את התנהגות השוק. מגמות חדשות בשוק",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני שעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "הסטארט - אפ של מיליארד דולר עם רעיון אחר לבינה מלאכותית",
-      "originalTitle": "The billion-dollar startup with a different idea for AI",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "הסטארט - אפ של מיליארד דולר עם רעיון אחר לבינה מלאכותית. השקעה ענקית מעידה על פוטנציאל",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מימון",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-24T09:22:38.037Z",
+  "lastUpdated": "2026-04-25T08:41:24.207Z",
   "sources": {
     "official": [
       "OpenAI Blog",
