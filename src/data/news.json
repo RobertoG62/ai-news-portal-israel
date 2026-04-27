@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "העקרונות שלנו",
+      "originalTitle": "Our principles",
+      "headline": "השפעה על שוק ההון",
+      "summary": "העקרונות שלנו. השפעה על שוק ההון",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/our-principles",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "OpenAI החדש של GPT -5.5 Powers Codex על תשתית NVIDIA — ו — NVIDIA כבר מפעיל אותו",
       "originalTitle": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI החדש של GPT -5.5 Powers Codex על תשתית NVIDIA — ו — NVIDIA כבר מפעיל אותו. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI החדש של GPT -5.5 Powers Codex על תשתית NVIDIA — ו — NVIDIA כבר מפעיל אותו. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tag, You're It: GeForce עכשיו מעלה את רמת הגילוי של המשחק עם Xbox Game Pass ו - Ubisoft+ Labels",
       "originalTitle": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "להבין את היקום המוקדם",
       "originalTitle": "Making Sense of the Early Universe",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "להבין את היקום המוקדם. פריצת דרך בתחום החומרה",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "להבין את היקום המוקדם. חומרה חדשה תאיץ את עולם ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "הכירו את GPT -5.5",
       "originalTitle": "Introducing GPT-5.5",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את GPT -5.5. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הכירו את GPT -5.5. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "כרטיס מערכת GPT -5.5",
       "originalTitle": "GPT-5.5 System Card",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כרטיס מערכת GPT -5.5. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כרטיס מערכת GPT -5.5. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "אוטומציות",
-      "originalTitle": "Automations",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "אוטומציות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/codex-automations",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "שיחקו אותה עם המודל החדש&#33; בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "title": "יססס&#33; שידור חי מ-OpenAI היום ב22:00 שעון ישראל. קישור לשידור החי: https://www.youtube.com/watch?v=sWkGomJ3TLI בינה מלאכותית בטלגרם - https://t.me/...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "שיחקו אותה עם המודל החדש&#33; בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "summary": "יססס&#33; שידור חי מ-OpenAI היום ב22:00 שעון ישראל. קישור לשידור החי: https://www.youtube.com/watch?v=sWkGomJ3TLI בינה מלאכותית בטלגרם - https://t.me/...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "שיחקו אותה עם המודל החדש&#33; בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "title": "יססס&#33; שידור חי מ-OpenAI היום ב22:00 שעון ישראל. קישור לשידור החי: https://www.youtube.com/watch?v=sWkGomJ3TLI בינה מלאכותית בטלגרם - https://t.me/...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "שיחקו אותה עם המודל החדש&#33; בינה מלאכותית בטלגרם - https://t.me/AI_tg_il",
+      "summary": "יססס&#33; שידור חי מ-OpenAI היום ב22:00 שעון ישראל. קישור לשידור החי: https://www.youtube.com/watch?v=sWkGomJ3TLI בינה מלאכותית בטלגרם - https://t.me/...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "כיצד מודלים של בינה מלאכותית משתמשים בנתוני מטבעות קריפטוגרפיים בזמן אמת כדי לפרש את התנהגות השוק",
       "originalTitle": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-      "headline": "השפעה על שוק ההון",
-      "summary": "כיצד מודלים של בינה מלאכותית משתמשים בנתוני מטבעות קריפטוגרפיים בזמן אמת כדי לפרש את התנהגות השוק. השפעה על שוק ההון",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "כיצד מודלים של בינה מלאכותית משתמשים בנתוני מטבעות קריפטוגרפיים בזמן אמת כדי לפרש את התנהגות השוק. מגמות חדשות בשוק",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-26T08:49:54.502Z",
+  "lastUpdated": "2026-04-27T10:06:35.966Z",
   "sources": {
     "official": [
       "OpenAI Blog",
