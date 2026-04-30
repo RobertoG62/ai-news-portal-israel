@@ -2,6 +2,98 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון הראשון",
+      "originalTitle": "NVIDIA Sets Conference Call for First-Quarter Financial Results",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון הראשון. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-first-quarter-financial-results-6919947",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מהיכן הגיעו הגובלינים",
+      "originalTitle": "Where the goblins came from",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מהיכן הגיעו הגובלינים. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/where-the-goblins-came-from",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "בניית תשתית המחשוב לעידן המודיעין",
+      "originalTitle": "Building the compute infrastructure for the Intelligence Age",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בניית תשתית המחשוב לעידן המודיעין. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "אבטחת סייבר בעידן המודיעין",
+      "originalTitle": "Cybersecurity in the Intelligence Age",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "אבטחת סייבר בעידן המודיעין. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "זוכה מדליית הכבוד של IEEE הוא מנכ\"ל NVIDIA ג'נסן הואנג",
       "originalTitle": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 12 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "NVIDIA משיקה את Nemotron 3 דגם Nano Omni, חזון מאחד, אודיו ושפה עבור עד פי 9 סוכני AI יעילים יותר",
       "originalTitle": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA משיקה את Nemotron 3 דגם Nano Omni, חזון מאחד, אודיו ושפה עבור עד פי 9 סוכני AI יעילים יותר. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA משיקה את Nemotron 3 דגם Nano Omni, חזון מאחד, אודיו ושפה עבור עד פי 9 סוכני AI יעילים יותר. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,98 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "לתוך ה - Omniverse : עידן הסימולציה הראשון של הייצור הגיע",
-      "originalTitle": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "לתוך ה - Omniverse : עידן הסימולציה הראשון של הייצור הגיע. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "דגמי OpenAI , קודקס וסוכנים מנוהלים מגיעים ל - AWS",
-      "originalTitle": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "דגמי OpenAI , קודקס וסוכנים מנוהלים מגיעים ל - AWS. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-on-aws",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "המחויבות שלנו לבטיחות הקהילה",
-      "originalTitle": "Our commitment to community safety",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "המחויבות שלנו לבטיחות הקהילה. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/our-commitment-to-community-safety",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "OpenAI זמין ב - FedRAMP Moderate",
-      "originalTitle": "OpenAI available at FedRAMP Moderate",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "OpenAI זמין ב - FedRAMP Moderate. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "אנתרופיק מודה: הנמכנו את רמת החשיבה של המודלים בקלוד קוד. אחרי הרבה תלונות בתקופה האחרונה על ירידה בביצועים בקלוד קוד, אנתרופיק בהתייחסות רשמית אומרת ...",
+      "title": "אספתי לכם כמה ערוצי יוטיוב שאני נהנה לצפות בהם, מקווה שתהנו גם. מו ביטאר, מבט ביקורתי וציני על כל ההייפ סביב הAI. youtube.com/@atmoio מתיו ברמן, סקירו...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אנתרופיק מודה: הנמכנו את רמת החשיבה של המודלים בקלוד קוד. אחרי הרבה תלונות בתקופה האחרונה על ירידה בביצועים בקלוד קוד, אנתרופיק בהתייחסות רשמית אומרת ...",
+      "summary": "אספתי לכם כמה ערוצי יוטיוב שאני נהנה לצפות בהם, מקווה שתהנו גם. מו ביטאר, מבט ביקורתי וציני על כל ההייפ סביב הAI. youtube.com/@atmoio מתיו ברמן, סקירו...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "גיפיטי 5.5 בחוץ&#33; &rlm;זמין עכשיו למנויים בChatGPT ובקודקס. למה כל ההכרזות הגדולות קורות כשאני בנהיגה? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "נראה שOpenAI מנסה לעשות מיתוס… אם קודקס (GPT 5.5) יזהה שאתם מנסים לעשות משהו שקשור באבטחת סייבר הוא יבקש מכם לעבור קודם אימות באתר ואז יסמוך עליכם יות...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גיפיטי 5.5 בחוץ&#33; &rlm;זמין עכשיו למנויים בChatGPT ובקודקס. למה כל ההכרזות הגדולות קורות כשאני בנהיגה? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "נראה שOpenAI מנסה לעשות מיתוס… אם קודקס (GPT 5.5) יזהה שאתם מנסים לעשות משהו שקשור באבטחת סייבר הוא יבקש מכם לעבור קודם אימות באתר ואז יסמוך עליכם יות...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
-      "title": "GPT -5.5 הוא מודל הבינה המלאכותית המוכשר ביותר של OpenAI עדיין - במחיר API כפול",
-      "originalTitle": "GPT-5.5 is OpenAI&#8217;s most capable agentic AI model yet–at twice the API price",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "GPT -5.5 הוא מודל הבינה המלאכותית המוכשר ביותר של OpenAI עדיין - במחיר API כפול. מוצר חדש מבטיח לחולל מהפכה",
+      "title": "IDC: כיצד מנמ\"רים של EMEA יכולים להתניע פריסות בינה מלאכותית",
+      "originalTitle": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "IDC: כיצד מנמ\"רים של EMEA יכולים להתניע פריסות בינה מלאכותית. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
+      "title": "GPT -5.5 הוא מודל הבינה המלאכותית המוכשר ביותר של OpenAI עד כה",
+      "originalTitle": "GPT-5.5 is OpenAI&#8217;s most capable agentic AI model yet",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "GPT -5.5 הוא מודל הבינה המלאכותית המוכשר ביותר של OpenAI עד כה. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "IBM משיקה פלטפורמת AI BOB כדי להסדיר עלויות SDLC",
-      "originalTitle": "IBM launches AI platform Bob to regulate SDLC costs",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "IBM משיקה פלטפורמת AI BOB כדי להסדיר עלויות SDLC. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מוצר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 16 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-04-29T09:57:23.346Z",
+  "lastUpdated": "2026-04-30T09:58:13.342Z",
   "sources": {
     "official": [
       "OpenAI Blog",
