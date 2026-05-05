@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "OpenAI ו - PwC משתפות פעולה כדי לדמיין מחדש את משרד מנהל הכספים",
+      "originalTitle": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI ו - PwC משתפות פעולה כדי לדמיין מחדש את משרד מנהל הכספים. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כיצד OpenAI מספק בינה מלאכותית קולית בהשהיה נמוכה בקנה מידה",
+      "originalTitle": "How OpenAI delivers low-latency voice AI at scale",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד OpenAI מספק בינה מלאכותית קולית בהשהיה נמוכה בקנה מידה. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "מעבדות נמוטרון: מה המשמעות של סוכני OpenClaw עבור כל ארגון",
       "originalTitle": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מעבדות נמוטרון: מה המשמעות של סוכני OpenClaw עבור כל ארגון. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מעבדות נמוטרון: מה המשמעות של סוכני OpenClaw עבור כל ארגון. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 4 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "זה הולך להיות במאי: 16 משחקים פגעו בענן החודש, עם יותר כוח NVIDIA GeForce RTX 5080",
       "originalTitle": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "זה הולך להיות במאי: 16 משחקים פגעו בענן החודש, עם יותר כוח NVIDIA GeForce RTX 5080. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "זה הולך להיות במאי: 16 משחקים פגעו בענן החודש, עם יותר כוח NVIDIA GeForce RTX 5080. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "חדש: אבטחת חשבון מתקדמת",
       "originalTitle": "Introducing Advanced Account Security",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חדש: אבטחת חשבון מתקדמת. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "חדש: אבטחת חשבון מתקדמת. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון הראשון",
       "originalTitle": "NVIDIA Sets Conference Call for First-Quarter Financial Results",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון הראשון. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון הראשון. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,62 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "מהיכן הגיעו הגובלינים",
-      "originalTitle": "Where the goblins came from",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מהיכן הגיעו הגובלינים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/where-the-goblins-came-from",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "בניית תשתית המחשוב לעידן המודיעין",
-      "originalTitle": "Building the compute infrastructure for the Intelligence Age",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "בניית תשתית המחשוב לעידן המודיעין. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "🚀 פרסום בטלגרם בצורה חכמה. &rlm;Reachify הפלטפורמה שמחברת בין מפרסמים לבעלי ערוצים. 📢 בעלי ערוצים: הפכו את הערוץ שלכם למקור הכנסה אמיתי. קבלו הצעות ...",
+      "title": "היגספילד (פלטפורמה ליצירת תמונות ווידאו עם כל המודלים בשוק) משחררת שרת MCP כדי שתוכלו לחבר את הסוכן האהוב עליכם והוא יוכל ליצור לכם סרטונים ותמונות, י...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "🚀 פרסום בטלגרם בצורה חכמה. &rlm;Reachify הפלטפורמה שמחברת בין מפרסמים לבעלי ערוצים. 📢 בעלי ערוצים: הפכו את הערוץ שלכם למקור הכנסה אמיתי. קבלו הצעות ...",
+      "summary": "היגספילד (פלטפורמה ליצירת תמונות ווידאו עם כל המודלים בשוק) משחררת שרת MCP כדי שתוכלו לחבר את הסוכן האהוב עליכם והוא יוכל ליצור לכם סרטונים ותמונות, י...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אילבן לאבס משיקה את ElevenMusic (מתחרה לסונו) שמבוסס על מודל המוזיקה שלהם. https://elevenmusic.io/ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "&rlm;חברת OpenAI ממשיכה לעשות מיתוס… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אילבן לאבס משיקה את ElevenMusic (מתחרה לסונו) שמבוסס על מודל המוזיקה שלהם. https://elevenmusic.io/ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "&rlm;חברת OpenAI ממשיכה לעשות מיתוס… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "בינה מלאכותית פיזית מעלה שאלות ממשל למערכות אוטונומיות",
+      "originalTitle": "Physical AI raises governance questions for autonomous systems",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "בינה מלאכותית פיזית מעלה שאלות ממשל למערכות אוטונומיות. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מימון",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "Google הפך את ממשל הבינה המלאכותית לסוכן למוצר. ארגונים עדיין צריכים להתעדכן.",
       "originalTitle": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Google הפך את ממשל הבינה המלאכותית לסוכן למוצר. ארגונים עדיין צריכים להתעדכן.. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Google הפך את ממשל הבינה המלאכותית לסוכן למוצר. ארגונים עדיין צריכים להתעדכן.. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "SAP: כיצד ממשל בינה מלאכותית ארגוני מבטיח שולי רווח",
-      "originalTitle": "SAP: How enterprise AI governance secures profit margins",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "SAP: כיצד ממשל בינה מלאכותית ארגוני מבטיח שולי רווח. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 23 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-04T10:06:10.475Z",
+  "lastUpdated": "2026-05-05T09:53:10.586Z",
   "sources": {
     "official": [
       "OpenAI Blog",
