@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
-      "title": "NVIDIA ו - IREN מודיעים על שותפות אסטרטגית להאצת פריסה של עד 5 ג'יגה - וואט של תשתית AI",
+      "title": "NVIDIA שמות סוזן נורה ג'ונסון לדירקטוריון",
+      "originalTitle": "NVIDIA Names Suzanne Nora Johnson to Board of Directors",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA שמות סוזן נורה ג'ונסון לדירקטוריון. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-names-suzanne-nora-johnson-to-board-of-directors",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "הפעלת קודקס בבטחה ב - OpenAI",
+      "originalTitle": "Running Codex safely at OpenAI",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הפעלת קודקס בבטחה ב - OpenAI. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/running-codex-safely",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA ו - IREN מודיעים על שותפות אסטרטגית להאצת פריסה של עד 5 ג'יגה - וואט של תשתיות AI",
       "originalTitle": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure",
       "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA ו - IREN מודיעים על שותפות אסטרטגית להאצת פריסה של עד 5 ג'יגה - וואט של תשתית AI. עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA ו - IREN מודיעים על שותפות אסטרטגית להאצת פריסה של עד 5 ג'יגה - וואט של תשתיות AI. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 12 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Powering the Next American Century: שר האנרגיה האמריקאי כריס רייט ו - Ian Buck של NVIDIA במשימת ג'נסיס",
       "originalTitle": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Powering the Next American Century: שר האנרגיה האמריקאי כריס רייט ו - Ian Buck של NVIDIA במשימת ג'נסיס. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Powering the Next American Century: שר האנרגיה האמריקאי כריס רייט ו - Ian Buck של NVIDIA במשימת ג'נסיס. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,40 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "מקושר וטעון: כניסה יחידה של Gaijin זמינה כעת ב - GeForce",
-      "originalTitle": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "מקושר וטעון: כניסה יחידה של Gaijin זמינה כעת ב - GeForce. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 5,
       "title": "הרחבת גישה מהימנה לסייבר עם GPT -5.5 ו - GPT -5.5-Cyber",
       "originalTitle": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הרחבת גישה מהימנה לסייבר עם GPT -5.5 ו - GPT -5.5-Cyber. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הרחבת גישה מהימנה לסייבר עם GPT -5.5 ו - GPT -5.5-Cyber. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Parloa בונה סוכני שירות שלקוחות רוצים לדבר איתם",
       "originalTitle": "Parloa builds service agents customers want to talk to",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -110,30 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "קידום אינטליגנציה קולית עם דגמים חדשים ב - API",
-      "originalTitle": "Advancing voice intelligence with new models in the API",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קידום אינטליגנציה קולית עם דגמים חדשים ב - API. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -184,6 +184,29 @@
     },
     {
       "id": 9,
+      "title": "RingCentral מוסיפה את Shopify, Calendly ו - WhatsApp לפקידת הקבלה של הבינה המלאכותית",
+      "originalTitle": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "RingCentral מוסיפה את Shopify, Calendly ו - WhatsApp לפקידת הקבלה של הבינה המלאכותית. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "בינה מלאכותית עוזרת להקל על נטל ה - NHS בבריטניה",
       "originalTitle": "AI helping ease the UK&#8217;s NHS burden",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -196,29 +219,6 @@
       "category": "מחקר",
       "source": "AI News",
       "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "HP ואמנות הבינה המלאכותית ונתונים עבור הארגון",
-      "originalTitle": "HP and the art of AI and data for the enterprise",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "HP ואמנות הבינה המלאכותית ונתונים עבור הארגון. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-08T09:04:49.210Z",
+  "lastUpdated": "2026-05-09T09:08:02.268Z",
   "sources": {
     "official": [
       "OpenAI Blog",
