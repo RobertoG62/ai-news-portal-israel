@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "כיצד התרחב אימוץ ChatGPT בתחילת 2026",
+      "originalTitle": "How ChatGPT adoption broadened in early 2026",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד התרחב אימוץ ChatGPT בתחילת 2026. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/signals/research/2026q1-update",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "רשת קמפוס OpenAI : טופס עניין למועדון סטודנטים",
       "originalTitle": "OpenAI Campus Network: Student club interest form",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "רשת קמפוס OpenAI : טופס עניין למועדון סטודנטים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "רשת קמפוס OpenAI : טופס עניין למועדון סטודנטים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "כיצד ארגונים מגדילים את הבינה המלאכותית",
       "originalTitle": "How enterprises are scaling AI",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "‘הקריירה שלך מתחילה בתחילת מהפכת הבינה המלאכותית ', אומר מנכ\"ל NVIDIA לבוגרים",
       "originalTitle": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "‘הקריירה שלך מתחילה בתחילת מהפכת הבינה המלאכותית ', אומר מנכ\"ל NVIDIA לבוגרים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "‘הקריירה שלך מתחילה בתחילת מהפכת הבינה המלאכותית ', אומר מנכ\"ל NVIDIA לבוגרים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 12 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "NVIDIA שמות סוזן נורה ג'ונסון לדירקטוריון",
       "originalTitle": "NVIDIA Names Suzanne Nora Johnson to Board of Directors",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -87,30 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "הפעלת קודקס בבטחה ב - OpenAI",
-      "originalTitle": "Running Codex safely at OpenAI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הפעלת קודקס בבטחה ב - OpenAI. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/running-codex-safely",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "נראה שאנתרופיק מתכוונת לשחרר עוזר פרואקטיבי חדש (שם קוד ׳אורביט׳), הוא אמור לעבור במהלך הלילה על השיחות והאפליקציות שלכם ובבוקר להגיש לכם תובנות, סיכו...",
+      "title": "מוכרים באינטרנט? תפסיקו לשלם עמלות סליקה מיותרות&#33; 💰 אם אתם מתכננים להקים חנות אונליין או מחפשים בית חדש ויציב לעסק שלכם, הכירו את iStores – הפלטפ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "נראה שאנתרופיק מתכוונת לשחרר עוזר פרואקטיבי חדש (שם קוד ׳אורביט׳), הוא אמור לעבור במהלך הלילה על השיחות והאפליקציות שלכם ובבוקר להגיש לכם תובנות, סיכו...",
+      "summary": "מוכרים באינטרנט? תפסיקו לשלם עמלות סליקה מיותרות&#33; 💰 אם אתם מתכננים להקים חנות אונליין או מחפשים בית חדש ויציב לעסק שלכם, הכירו את iStores – הפלטפ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "חברת Coinbase מפטרת 14% מכוח האדם שלה בגלל הAI. מתוך הציוץ של המנכ״ל : בשנה האחרונה ראיתי מהנדסים משתמשים ב-AI כדי להוציא לפועל בתוך ימים דברים שפעם ה...",
+      "title": "אנתרופיק מכפילה את השימוש בקלוד קוד בחלון זמן של 5 שעות לכל המנויים. זה אחרי הסכם עם @SpaceX להגדלת כוח המחשוב. עכשיו רק חסר איפוס מגבלות בשביל הכיף מ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "חברת Coinbase מפטרת 14% מכוח האדם שלה בגלל הAI. מתוך הציוץ של המנכ״ל : בשנה האחרונה ראיתי מהנדסים משתמשים ב-AI כדי להוציא לפועל בתוך ימים דברים שפעם ה...",
+      "summary": "אנתרופיק מכפילה את השימוש בקלוד קוד בחלון זמן של 5 שעות לכל המנויים. זה אחרי הסכם עם @SpaceX להגדלת כוח המחשוב. עכשיו רק חסר איפוס מגבלות בשביל הכיף מ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,33 +184,33 @@
     },
     {
       "id": 9,
-      "title": "ביין רואה שוק SaaS של 100 מיליארד $ באוטומציה של בינה מלאכותית",
-      "originalTitle": "Bain sees US$100 billion SaaS market in agentic AI automation",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "ביין רואה שוק SaaS של 100 מיליארד $ באוטומציה של בינה מלאכותית. השקעה ענקית מעידה על פוטנציאל",
+      "title": "Laserfiche חושפת סוכני AI עבור זרימות עבודה בשפה טבעית",
+      "originalTitle": "Laserfiche unveils AI agents for natural language workflows",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "Laserfiche חושפת סוכני AI עבור זרימות עבודה בשפה טבעית. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
         "המשך מעקב אחר ההתפתחויות"
       ],
-      "category": "מימון",
+      "category": "מוצר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
+      "timeAgo": "לפני שעה",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "RingCentral מוסיפה את Shopify, Calendly ו - WhatsApp לפקידת הקבלה של הבינה המלאכותית",
-      "originalTitle": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "RingCentral מוסיפה את Shopify, Calendly ו - WhatsApp לפקידת הקבלה של הבינה המלאכותית. התקדמות משמעותית בתחום",
+      "title": "בינה מלאכותית הופכת את התאימות למשאבי אנוש לאוטומטית, למעט הצורך של חברות הטכנולוגיה",
+      "originalTitle": "AI automates HR compliance, except for the area tech companies need",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בינה מלאכותית הופכת את התאימות למשאבי אנוש לאוטומטית, למעט הצורך של חברות הטכנולוגיה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -218,12 +218,12 @@
       ],
       "category": "מחקר",
       "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
       "sourceType": "tech",
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 19 שעות",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-11T10:53:03.701Z",
+  "lastUpdated": "2026-05-12T10:23:35.773Z",
   "sources": {
     "official": [
       "OpenAI Blog",
