@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "מבט של Sea על העתיד של פיתוח תוכנה סוכן עם קודקס",
+      "originalTitle": "Sea's View on the Future of Agentic Software Development with Codex",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מבט של Sea על העתיד של פיתוח תוכנה סוכן עם קודקס. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/sea-david-chen",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "Sea You in the Cloud: ‘Subnautica 2' Early Access Dives Onto GeForce עכשיו",
+      "originalTitle": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "Sea You in the Cloud: ‘Subnautica 2' Early Access Dives Onto GeForce עכשיו. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "לעבוד עם Codex מכל מקום",
+      "originalTitle": "Work with Codex from anywhere",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "לעבוד עם Codex מכל מקום. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/work-with-codex-from-anywhere",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "עוזר ל - ChatGPT לזהות טוב יותר את ההקשר בשיחות רגישות",
+      "originalTitle": "Helping ChatGPT better recognize context in sensitive conversations",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "עוזר ל - ChatGPT לזהות טוב יותר את ההקשר בשיחות רגישות. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "NVIDIA , צוות מודיעין בלתי ניתן לתיאור כדי לבנות את עתיד תשתיות הלמידה לחיזוק",
       "originalTitle": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA , צוות מודיעין בלתי ניתן לתיאור כדי לבנות את עתיד תשתיות הלמידה לחיזוק. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA , צוות מודיעין בלתי ניתן לתיאור כדי לבנות את עתיד תשתיות הלמידה לחיזוק. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "HERMES פותח נעילה של סוכני AI לשיפור עצמי, מופעל על ידי מחשבי NVIDIA RTX ו - DGX SPARK",
       "originalTitle": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -41,98 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "בניית ארגז חול בטוח ויעיל להפעלת Codex ב - Windows",
-      "originalTitle": "Building a safe, effective sandbox to enable Codex on Windows",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "בניית ארגז חול בטוח ויעיל להפעלת Codex ב - Windows. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-codex-windows-sandbox",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "התגובה שלנו להתקפת שרשרת האספקה של TanStack npm",
-      "originalTitle": "Our response to the TanStack npm supply chain attack",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "התגובה שלנו להתקפת שרשרת האספקה של TanStack npm. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "כיצד צוותי כספים משתמשים בקודקס",
-      "originalTitle": "How finance teams use Codex",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד צוותי כספים משתמשים בקודקס. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/how-finance-teams-use-codex",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA ו - SAP מביאים אמון לסוכנים מיוחדים",
-      "originalTitle": "NVIDIA and SAP Bring Trust to Specialized Agents",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA ו - SAP מביאים אמון לסוכנים מיוחדים. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "אם אתם מבקשים מהסוכן שלכם להוריד לעצמו סקילים מ ClawHub או מודלים מ Hugging Face כדאי שתפסיקו עם זה... מחקר חדש מצא 575 סקילים זדוניים שמנצלים את המחש...",
+      "title": "🎊 פלטפורמה חדשה מאפשרת לבנות בוטים לטלגרם בדקות — בלי קוד 💬 “יצרתי בוט טלגרם לניהול פורטפוליו קריפטו בכמה רגעים ובעלות של פחות מדולר (&#036;1). הוא ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אם אתם מבקשים מהסוכן שלכם להוריד לעצמו סקילים מ ClawHub או מודלים מ Hugging Face כדאי שתפסיקו עם זה... מחקר חדש מצא 575 סקילים זדוניים שמנצלים את המחש...",
+      "summary": "🎊 פלטפורמה חדשה מאפשרת לבנות בוטים לטלגרם בדקות — בלי קוד 💬 “יצרתי בוט טלגרם לניהול פורטפוליו קריפטו בכמה רגעים ובעלות של פחות מדולר (&#036;1). הוא ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "זוכרים את המחקר של אנתרופיק שניסה לבדוק אם קלוד ישתמש במיילים של המהנדס שמאיים לסגור אותו כדי לחשוף שיש שם רומן ולסחוט אותו? אז באנתרופיק רצו לבדוק אם...",
+      "title": "איך זה מרגיש לדבר עם llm 😅 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זוכרים את המחקר של אנתרופיק שניסה לבדוק אם קלוד ישתמש במיילים של המהנדס שמאיים לסגור אותו כדי לחשוף שיש שם רומן ולסחוט אותו? אז באנתרופיק רצו לבדוק אם...",
+      "summary": "איך זה מרגיש לדבר עם llm 😅 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "בינה מלאכותית פיזית מתקרבת לרצפות המפעל כאשר חברות בודקות רובוטים דמויי אדם",
       "originalTitle": "Physical AI moves closer to factory floors as companies test humanoid robots",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "בינה מלאכותית פיזית מתקרבת לרצפות המפעל כאשר חברות בודקות רובוטים דמויי אדם. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בינה מלאכותית פיזית מתקרבת לרצפות המפעל כאשר חברות בודקות רובוטים דמויי אדם. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "כנס הבינה המלאכותית הפיזית מגיע לסן חוזה כשהרובוטיקה והבינה המלאכותית האוטונומית הולכות למיינסטרים",
       "originalTitle": "Physical AI Conference Comes to San Jose as Robotics &#038; Autonomous AI Go Mainstream",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כנס הבינה המלאכותית הפיזית מגיע לסן חוזה כשהרובוטיקה והבינה המלאכותית האוטונומית הולכות למיינסטרים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כנס הבינה המלאכותית הפיזית מגיע לסן חוזה כשהרובוטיקה והבינה המלאכותית האוטונומית הולכות למיינסטרים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-14T10:06:16.398Z",
+  "lastUpdated": "2026-05-15T10:12:16.955Z",
   "sources": {
     "official": [
       "OpenAI Blog",
