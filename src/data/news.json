@@ -4,8 +4,8 @@
       "id": 1,
       "title": "OpenAI ושותף מלטה להביא ChatGPT פלוס לכל האזרחים",
       "originalTitle": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "OpenAI ושותף מלטה להביא ChatGPT פלוס לכל האזרחים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI ושותף מלטה להביא ChatGPT פלוס לכל האזרחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,40 +18,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "כיצד צוותי תפעול עסקי משתמשים בקודקס",
-      "originalTitle": "How business operations teams use Codex",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "כיצד צוותי תפעול עסקי משתמשים בקודקס. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "Databricks מביא את GPT -5.5 לתהליכי עבודה של סוכנים ארגוניים",
-      "originalTitle": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Databricks מביא את GPT -5.5 לתהליכי עבודה של סוכנים ארגוניים. התקדמות משמעותית בתחום",
+      "title": "חוויית מימון אישית חדשה ב - ChatGPT",
+      "originalTitle": "A new personal finance experience in ChatGPT",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חוויית מימון אישית חדשה ב - ChatGPT. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,12 +36,35 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/databricks",
+      "sourceUrl": "https://openai.com/index/personal-finance-chatgpt",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "כיצד צוותי מדעי הנתונים משתמשים בקודקס",
+      "originalTitle": "How data science teams use Codex",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד צוותי מדעי הנתונים משתמשים בקודקס. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "NVIDIA , צוות מודיעין בלתי ניתן לתיאור כדי לבנות את עתיד תשתיות הלמידה לחיזוק",
       "originalTitle": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA , צוות מודיעין בלתי ניתן לתיאור כדי לבנות את עתיד תשתיות הלמידה לחיזוק. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA , צוות מודיעין בלתי ניתן לתיאור כדי לבנות את עתיד תשתיות הלמידה לחיזוק. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "HERMES פותח נעילה של סוכני AI לשיפור עצמי, מופעל על ידי מחשבי NVIDIA RTX ו - DGX SPARK",
       "originalTitle": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "HERMES פותח נעילה של סוכני AI לשיפור עצמי, מופעל על ידי מחשבי NVIDIA RTX ו - DGX SPARK. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "HERMES פותח נעילה של סוכני AI לשיפור עצמי, מופעל על ידי מחשבי NVIDIA RTX ו - DGX SPARK. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מודל וידאו חדש מגוגל בדרך אלינו. לפי הדיווחים הוא יהיה Omni (מולטי-מודאלי) שיוכל גם לערוך ולבצע שינויים קטנים בוידאו קיים. יתכן שיוכרז בכנס של Google ...",
+      "title": "😅 😅 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מודל וידאו חדש מגוגל בדרך אלינו. לפי הדיווחים הוא יהיה Omni (מולטי-מודאלי) שיוכל גם לערוך ולבצע שינויים קטנים בוידאו קיים. יתכן שיוכרז בכנס של Google ...",
+      "summary": "😅 😅 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "😅 😅 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "גם אנתרופיק מוסיפה לקלוד קוד את הפקודה /goal שתגרום לסוכן להמשיך לעבוד ברצף עד שהוא יאמין שהוא הגיע למטרה שהגדרתם לו. ### טיפ: שלחו את הפקודה /set goa...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "😅 😅 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "גם אנתרופיק מוסיפה לקלוד קוד את הפקודה /goal שתגרום לסוכן להמשיך לעבוד ברצף עד שהוא יאמין שהוא הגיע למטרה שהגדרתם לו. ### טיפ: שלחו את הפקודה /set goa...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "כנס הבינה המלאכותית הפיזית מגיע לסן חוזה כשהרובוטיקה והבינה המלאכותית האוטונומית הולכות למיינסטרים",
       "originalTitle": "Physical AI Conference Comes to San Jose as Robotics &#038; Autonomous AI Go Mainstream",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כנס הבינה המלאכותית הפיזית מגיע לסן חוזה כשהרובוטיקה והבינה המלאכותית האוטונומית הולכות למיינסטרים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כנס הבינה המלאכותית הפיזית מגיע לסן חוזה כשהרובוטיקה והבינה המלאכותית האוטונומית הולכות למיינסטרים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-17T09:27:12.638Z",
+  "lastUpdated": "2026-05-18T11:37:03.357Z",
   "sources": {
     "official": [
       "OpenAI Blog",
