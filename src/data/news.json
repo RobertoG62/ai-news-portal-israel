@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA מודיעה על תוצאות כספיות לרבעון הראשון של שנת הכספים 2027",
+      "originalTitle": "NVIDIA Announces Financial Results for First Quarter Fiscal 2027",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "NVIDIA מודיעה על תוצאות כספיות לרבעון הראשון של שנת הכספים 2027. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "השלב הבא של החינוך למדינות של OpenAI",
       "originalTitle": "The next phase of OpenAI’s Education for Countries",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,17 +41,63 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 10 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
+      "title": "מודל OpenAI הפריך השערה מרכזית בגיאומטריה בדידה",
+      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מודל OpenAI הפריך השערה מרכזית בגיאומטריה בדידה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "כיצד מהנדסי רמפה מאיצים סקירת קוד באמצעות קודקס",
+      "originalTitle": "How Ramp engineers accelerate code review with Codex",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד מהנדסי רמפה מאיצים סקירת קוד באמצעות קודקס. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/ramp",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "הענן NVIDIA ו - Google מעצימים את הגל הבא של בוני הבינה המלאכותית",
       "originalTitle": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הענן NVIDIA ו - Google מעצימים את הגל הבא של בוני הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הענן NVIDIA ו - Google מעצימים את הגל הבא של בוני הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,63 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 14 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "חדש: OpenAI לסינגפור",
-      "originalTitle": "Introducing OpenAI for Singapore",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "חדש: OpenAI לסינגפור. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 14 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "קידום מקורות תוכן עבור מערכת אקולוגית בטוחה ושקופה יותר של בינה מלאכותית",
-      "originalTitle": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "קידום מקורות תוכן עבור מערכת אקולוגית בטוחה ושקופה יותר של בינה מלאכותית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advancing-content-provenance",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "מנכ\"ל NVIDIA ג'נסן הואנג ב - Dell Technologies World: ‘הביקוש הופך לפרבולי, פרבולי לחלוטין’",
       "originalTitle": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מנכ\"ל NVIDIA ג'נסן הואנג ב - Dell Technologies World: ‘הביקוש הופך לפרבולי, פרבולי לחלוטין’. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מנכ\"ל NVIDIA ג'נסן הואנג ב - Dell Technologies World: ‘הביקוש הופך לפרבולי, פרבולי לחלוטין’. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "ורה מגיעה: המעבד הראשון של NVIDIA שנבנה עבור קרקעות סוכנים במעבדות AI מובילות",
-      "originalTitle": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "ורה מגיעה: המעבד הראשון של NVIDIA שנבנה עבור קרקעות סוכנים במעבדות AI מובילות. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "&rlm;נראה שאנחנו מקבלים היום אפליקציית Codex לנייד עם שליטה מרחוק על הסשנים במחשב. הם אוהבים לשחרר בחמישי… אגב, ההכרזה הראשונה על ׳מודל הקול המתקדם׳ ב...",
+      "title": "צריך את העזרה שלכם ברשת המתחרה. לייק תגובה שיתוף.. https://x.com/ai_x_il/status/2056354686312104158?s=46",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;נראה שאנחנו מקבלים היום אפליקציית Codex לנייד עם שליטה מרחוק על הסשנים במחשב. הם אוהבים לשחרר בחמישי… אגב, ההכרזה הראשונה על ׳מודל הקול המתקדם׳ ב...",
+      "summary": "צריך את העזרה שלכם ברשת המתחרה. לייק תגובה שיתוף.. https://x.com/ai_x_il/status/2056354686312104158?s=46",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "קצת באיחור... Grok Build מושק בגרסת בטא. הקאץ׳? זמין רק למנויי SuperGrok Heavy מה שיאלץ אתכם להיפרד מ300&#036; בחודש (יש 3 ימי נסיון חינם). https://x....",
+      "title": "קורסור מוציאה מודל חדש - Composer 2.5, שלטענתה מתקרב בביצועים לאופוס 4.7 וגיפיטי 5.5 רק הרבה יותר זול. הם למדו לקח מהפדיחה הקודמת ועכשיו הם כותבים מפו...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "קצת באיחור... Grok Build מושק בגרסת בטא. הקאץ׳? זמין רק למנויי SuperGrok Heavy מה שיאלץ אתכם להיפרד מ300&#036; בחודש (יש 3 ימי נסיון חינם). https://x....",
+      "summary": "קורסור מוציאה מודל חדש - Composer 2.5, שלטענתה מתקרב בביצועים לאופוס 4.7 וגיפיטי 5.5 רק הרבה יותר זול. הם למדו לקח מהפדיחה הקודמת ועכשיו הם כותבים מפו...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,33 @@
     },
     {
       "id": 9,
+      "title": "שבב הוורה של NVIDIA הוא הימור של 200 מיליארד $ שג'נסן הואנג לא רוצה שתתעלמו ממנו",
+      "originalTitle": "Nvidia&#8217;s Vera chip is the US$200 billion bet Jensen Huang doesn&#8217;t want you to overlook",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "שבב הוורה של NVIDIA הוא הימור של 200 מיליארד $ שג'נסן הואנג לא רוצה שתתעלמו ממנו. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מימון",
+      "source": "AI News",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
+      "timeAgo": "לפני 2 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "עליבאבא מעצבת שבבי בינה מלאכותית סביב סוכנים, וזה משנה את מהות המירוץ",
       "originalTitle": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "עליבאבא מעצבת שבבי בינה מלאכותית סביב סוכנים, וזה משנה את מהות המירוץ. פריצת דרך בתחום החומרה",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "עליבאבא מעצבת שבבי בינה מלאכותית סביב סוכנים, וזה משנה את מהות המירוץ. שבב חדש מבטיח ביצועים מרשימים",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "מחסומי AI ארגוניים ומפות דרכים, אבטחה ובינה מלאכותית פיזית: היום השני ב - TechEx",
-      "originalTitle": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מחסומי AI ארגוניים ומפות דרכים, אבטחה ובינה מלאכותית פיזית: היום השני ב - TechEx. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "AI News",
-      "sourceUrl": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-20T10:41:34.294Z",
+  "lastUpdated": "2026-05-21T10:58:23.658Z",
   "sources": {
     "official": [
       "OpenAI Blog",
