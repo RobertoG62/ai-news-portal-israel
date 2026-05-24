@@ -2,6 +2,52 @@
   "news": [
     {
       "id": 1,
+      "title": "OpenAI נבחרה למובילה בסוכני קידוד ארגוניים על ידי גרטנר",
+      "originalTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI נבחרה למובילה בסוכני קידוד ארגוניים על ידי גרטנר. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "איך וירג'ין אטלנטיק שולחת מהר יותר עם קוד",
+      "originalTitle": "How Virgin Atlantic ships faster with Codex",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך וירג'ין אטלנטיק שולחת מהר יותר עם קוד. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/virgin-atlantic",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "NVIDIA מודיעה על אירועים קרובים לקהילה הפיננסית",
       "originalTitle": "NVIDIA Announces Upcoming Events for Financial Community",
       "headline": "עדכון משמעותי שכדאי להכיר",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "NVIDIA GTC טאיפיי ב - COMPUTEX: עדכונים חיים על מה הלאה ב - AI",
       "originalTitle": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA GTC טאיפיי ב - COMPUTEX: עדכונים חיים על מה הלאה ב - AI. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA GTC טאיפיי ב - COMPUTEX: עדכונים חיים על מה הלאה ב - AI. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "רישיון להזרמה: ‘007 First Light’ מגיע ל - GeForce עכשיו עם חבילה אולטימטיבית",
       "originalTitle": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "רישיון להזרמה: ‘007 First Light’ מגיע ל - GeForce עכשיו עם חבילה אולטימטיבית. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "רישיון להזרמה: ‘007 First Light’ מגיע ל - GeForce עכשיו עם חבילה אולטימטיבית. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "AdventHealth מקדמת טיפול אישי עם OpenAI",
       "originalTitle": "AdventHealth advances whole-person care with OpenAI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "AdventHealth מקדמת טיפול אישי עם OpenAI. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "AdventHealth מקדמת טיפול אישי עם OpenAI. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "כיצד מהנדסי רמפה מאיצים סקירת קוד באמצעות קודקס",
-      "originalTitle": "How Ramp engineers accelerate code review with Codex",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד מהנדסי רמפה מאיצים סקירת קוד באמצעות קודקס. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/ramp",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "השלב הבא של החינוך למדינות של OpenAI",
-      "originalTitle": "The next phase of OpenAI’s Education for Countries",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "השלב הבא של החינוך למדינות של OpenAI. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "&rlm;היום בשעה 20:00 שעון ישראל כנס Google I/O. בינתיים הם מפרסמים סרטונים שכנראה נוצרו עם מודל הוידאו החדש שנקבל הערב. כנראה גם נקבל עיצוב מחדש לאפלי...",
+      "title": "אנדריי קרפתי מצטרף לאנתרופיק&#33; בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;היום בשעה 20:00 שעון ישראל כנס Google I/O. בינתיים הם מפרסמים סרטונים שכנראה נוצרו עם מודל הוידאו החדש שנקבל הערב. כנראה גם נקבל עיצוב מחדש לאפלי...",
+      "summary": "אנדריי קרפתי מצטרף לאנתרופיק&#33; בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "נראה שנקבל גם מודל חדש מגוגל - Gemini 3.5 👀 הלכתי להכין את המפה... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "הלייב היה ארוך ולסחבק לא היה כוח לראות הכול, אז הנה הסיכום של ג׳מיני לדברים המעניינים מהאירוע: כצפוי, גוגל הכריזה היום על Gemini 3.5 Flash — מהיר יותר...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "נראה שנקבל גם מודל חדש מגוגל - Gemini 3.5 👀 הלכתי להכין את המפה... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "הלייב היה ארוך ולסחבק לא היה כוח לראות הכול, אז הנה הסיכום של ג׳מיני לדברים המעניינים מהאירוע: כצפוי, גוגל הכריזה היום על Gemini 3.5 Flash — מהיר יותר...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://www.artificialintelligence-news.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-22T10:41:45.637Z",
+  "lastUpdated": "2026-05-24T09:48:00.571Z",
   "sources": {
     "official": [
       "OpenAI Blog",
