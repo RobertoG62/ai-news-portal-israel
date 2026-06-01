@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית",
+      "originalTitle": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA - תרשים תפעול מפעל נותן למפעלים מוח בינה מלאכותית חדש",
+      "originalTitle": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA - תרשים תפעול מפעל נותן למפעלים מוח בינה מלאכותית חדש. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "מבנה תשתית הבינה המלאכותית של טייוואן עם NVIDIA",
+      "originalTitle": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "מבנה תשתית הבינה המלאכותית של טייוואן עם NVIDIA. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "Boston Children's משתמשת בבינה מלאכותית כדי לפתוח אבחנות חדשות",
       "originalTitle": "Boston Children’s uses AI to unlock new diagnoses",
       "headline": "התקדמות משמעותית בתחום",
@@ -18,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "איך Braintrust הופך בקשות של לקוחות לקוד עם קודקס",
       "originalTitle": "How Braintrust turns customer requests into code with Codex",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך Braintrust הופך בקשות של לקוחות לקוד עם קודקס. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך Braintrust הופך בקשות של לקוחות לקוד עם קודקס. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "חיזוק החוסן החברתי עם Rosalind Biodefense",
       "originalTitle": "Strengthening societal resilience with Rosalind Biodefense",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "חיזוק החוסן החברתי עם Rosalind Biodefense. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "חיזוק החוסן החברתי עם Rosalind Biodefense. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,75 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "מחקר NVIDIA מקדם רובוטיקה מסימולציה לעולם האמיתי",
-      "originalTitle": "NVIDIA Research Advances Robotics From Simulation to the Real World",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחקר NVIDIA מקדם רובוטיקה מסימולציה לעולם האמיתי. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "The Name's Gaming ... Cloud Gaming: ‘007 First Light’ יושק ב - GeForce עכשיו",
-      "originalTitle": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "The Name's Gaming ... Cloud Gaming: ‘007 First Light’ יושק ב - GeForce עכשיו. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מפעלי בינה מלאכותית: התשתית החדשה של המודיעין",
-      "originalTitle": "AI Factories: The New Infrastructure of Intelligence",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מפעלי בינה מלאכותית: התשתית החדשה של המודיעין. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "&quot;טעינו&quot;: המנכ&quot;לים של OpenAI ואנתרופיק חוזרים בהם מהנבואות השחורות ומודים שהגזימו באזהרות שה-AI ישתלט על שוק העבודה וימחוק את משרות הצוו...",
+      "title": "☁️ חברת אנת&#39;רופיק משחררת פלאגין חדש ל-Claude Code שמסייע בזיהוי ותיקון חולשות בזמן כתיבת הקוד. לפי אנת&#39;רופיק התוסף פועל באמצעות hooks ובודק את...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&quot;טעינו&quot;: המנכ&quot;לים של OpenAI ואנתרופיק חוזרים בהם מהנבואות השחורות ומודים שהגזימו באזהרות שה-AI ישתלט על שוק העבודה וימחוק את משרות הצוו...",
+      "summary": "☁️ חברת אנת&#39;רופיק משחררת פלאגין חדש ל-Claude Code שמסייע בזיהוי ותיקון חולשות בזמן כתיבת הקוד. לפי אנת&#39;רופיק התוסף פועל באמצעות hooks ובודק את...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "מאסק אומר שיתכן שהם קרובים לפריצת דרך משמעותית באימון מודלים 🤷 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "רגע, מה?&#33; 🤯 רובין הוד משיקה שרת MCP ומאפשרת לכל אחד לחבר את הסוכן האהוב עליו ישירות לחשבון מסחר (חשבון Agentic ייעודי ולא החשבון הראשי), ולתת לו ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מאסק אומר שיתכן שהם קרובים לפריצת דרך משמעותית באימון מודלים 🤷 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "רגע, מה?&#33; 🤯 רובין הוד משיקה שרת MCP ומאפשרת לכל אחד לחבר את הסוכן האהוב עליו ישירות לחשבון מסחר (חשבון Agentic ייעודי ולא החשבון הראשי), ולתת לו ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 137 ימים",
+      "timeAgo": "לפני 139 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 277 ימים",
+      "timeAgo": "לפני 278 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-05-31T10:07:14.618Z",
+  "lastUpdated": "2026-06-01T13:28:15.104Z",
   "sources": {
     "official": [
       "OpenAI Blog",
