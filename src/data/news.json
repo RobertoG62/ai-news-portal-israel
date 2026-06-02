@@ -2,10 +2,125 @@
   "news": [
     {
       "id": 1,
+      "title": "מדוע מוסדות פיננסיים מתכנסים על מודלים של קרן עסקאות כדי לבנות אינטליגנציה משלהם",
+      "originalTitle": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מדוע מוסדות פיננסיים מתכנסים על מודלים של קרן עסקאות כדי לבנות אינטליגנציה משלהם. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA ג'טסון מביאה את הבינה המלאכותית הסוכנת לעולם הפיזי",
+      "originalTitle": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA ג'טסון מביאה את הבינה המלאכותית הסוכנת לעולם הפיזי. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 9 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "Codex הופך לכלי פרודוקטיבי עבור כולם",
+      "originalTitle": "Codex is becoming a productivity tool for everyone",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Codex הופך לכלי פרודוקטיבי עבור כולם. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 9 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "הדעות שלנו לגבי מדיניות הבינה המלאכותית והסברה פוליטית",
+      "originalTitle": "Our views on AI policy and political advocacy",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הדעות שלנו לגבי מדיניות הבינה המלאכותית והסברה פוליטית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "בניית התשתית לעידן המודיעין במישיגן",
+      "originalTitle": "Building the infrastructure for the Intelligence Age in Michigan",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בניית התשתית לעידן המודיעין במישיגן. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית",
       "originalTitle": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,131 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "NVIDIA - תרשים תפעול מפעל נותן למפעלים מוח בינה מלאכותית חדש",
-      "originalTitle": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA - תרשים תפעול מפעל נותן למפעלים מוח בינה מלאכותית חדש. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "מבנה תשתית הבינה המלאכותית של טייוואן עם NVIDIA",
-      "originalTitle": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "מבנה תשתית הבינה המלאכותית של טייוואן עם NVIDIA. השקעה ענקית מעידה על פוטנציאל",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "Boston Children's משתמשת בבינה מלאכותית כדי לפתוח אבחנות חדשות",
-      "originalTitle": "Boston Children’s uses AI to unlock new diagnoses",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Boston Children's משתמשת בבינה מלאכותית כדי לפתוח אבחנות חדשות. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/boston-childrens-hospital",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "איך Braintrust הופך בקשות של לקוחות לקוד עם קודקס",
-      "originalTitle": "How Braintrust turns customer requests into code with Codex",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך Braintrust הופך בקשות של לקוחות לקוד עם קודקס. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/braintrust",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "חיזוק החוסן החברתי עם Rosalind Biodefense",
-      "originalTitle": "Strengthening societal resilience with Rosalind Biodefense",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "חיזוק החוסן החברתי עם Rosalind Biodefense. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "☁️ חברת אנת&#39;רופיק משחררת פלאגין חדש ל-Claude Code שמסייע בזיהוי ותיקון חולשות בזמן כתיבת הקוד. לפי אנת&#39;רופיק התוסף פועל באמצעות hooks ובודק את...",
+      "title": "לאחרונה אילון מכניס אותנו קצת לברזלים של אימון הAI, מה שרוב החברות הגדולות משאירות שקט. בואו נתרגם לעברית: ספייסX, כלומר, החברה xAI שנבלעה בתוך ספייסX...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "☁️ חברת אנת&#39;רופיק משחררת פלאגין חדש ל-Claude Code שמסייע בזיהוי ותיקון חולשות בזמן כתיבת הקוד. לפי אנת&#39;רופיק התוסף פועל באמצעות hooks ובודק את...",
+      "summary": "לאחרונה אילון מכניס אותנו קצת לברזלים של אימון הAI, מה שרוב החברות הגדולות משאירות שקט. בואו נתרגם לעברית: ספייסX, כלומר, החברה xAI שנבלעה בתוך ספייסX...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "רגע, מה?&#33; 🤯 רובין הוד משיקה שרת MCP ומאפשרת לכל אחד לחבר את הסוכן האהוב עליו ישירות לחשבון מסחר (חשבון Agentic ייעודי ולא החשבון הראשי), ולתת לו ...",
+      "title": "👆 הצצה ראשונה לאיך סירי⁩ החדשה תראה (לכאורה) ב⁦iOS 27⁩, לפי רנדרים חדשים של בלומברג. לפי הדיווח, ⁦Siri⁩ תקבל לראשונה אפליקציה עצמאית בסגנון צ׳אט, עם ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רגע, מה?&#33; 🤯 רובין הוד משיקה שרת MCP ומאפשרת לכל אחד לחבר את הסוכן האהוב עליו ישירות לחשבון מסחר (חשבון Agentic ייעודי ולא החשבון הראשי), ולתת לו ...",
+      "summary": "👆 הצצה ראשונה לאיך סירי⁩ החדשה תראה (לכאורה) ב⁦iOS 27⁩, לפי רנדרים חדשים של בלומברג. לפי הדיווח, ⁦Siri⁩ תקבל לראשונה אפליקציה עצמאית בסגנון צ׳אט, עם ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 139 ימים",
+      "timeAgo": "לפני 140 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 278 ימים",
+      "timeAgo": "לפני 279 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-01T13:28:15.104Z",
+  "lastUpdated": "2026-06-02T11:57:10.435Z",
   "sources": {
     "official": [
       "OpenAI Blog",
