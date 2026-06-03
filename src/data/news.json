@@ -2,10 +2,125 @@
   "news": [
     {
       "id": 1,
+      "title": "מובילי תוכנה תעשייתיים בונים מהנדסי AI מאובטחים ואוטונומיים עם NVIDIA NemoClaw",
+      "originalTitle": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מובילי תוכנה תעשייתיים בונים מהנדסי AI מאובטחים ואוטונומיים עם NVIDIA NemoClaw. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA משתפת פעולה עם Microsoft על מחסנית מאוחדת לפריסת בינה מלאכותית סוכנת, ממכשירי Windows לענן למקומי",
+      "originalTitle": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "NVIDIA משתפת פעולה עם Microsoft על מחסנית מאוחדת לפריסת בינה מלאכותית סוכנת, ממכשירי Windows לענן למקומי. פריצת דרך בתחום החומרה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "נוסעים מטמיעים תביעות המופעלות על ידי בינה מלאכותית ברחבי הארץ עם OpenAI",
+      "originalTitle": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "נוסעים מטמיעים תביעות המופעלות על ידי בינה מלאכותית ברחבי הארץ עם OpenAI. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/travelers",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "קודקס לכל תפקיד, כלי וזרימת עבודה",
+      "originalTitle": "Codex for every role, tool, and workflow",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "קודקס לכל תפקיד, כלי וזרימת עבודה. מגמות חדשות בשוק",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "קידום בטיחות והזדמנויות בקרב בני נוער באמצעות מנהיגות גלובלית",
+      "originalTitle": "Advancing youth safety and opportunity through global leadership",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "קידום בטיחות והזדמנויות בקרב בני נוער באמצעות מנהיגות גלובלית. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "מדוע מוסדות פיננסיים מתכנסים על מודלים של קרן עסקאות כדי לבנות אינטליגנציה משלהם",
       "originalTitle": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מדוע מוסדות פיננסיים מתכנסים על מודלים של קרן עסקאות כדי לבנות אינטליגנציה משלהם. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מדוע מוסדות פיננסיים מתכנסים על מודלים של קרן עסקאות כדי לבנות אינטליגנציה משלהם. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,121 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "NVIDIA ג'טסון מביאה את הבינה המלאכותית הסוכנת לעולם הפיזי",
-      "originalTitle": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA ג'טסון מביאה את הבינה המלאכותית הסוכנת לעולם הפיזי. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 9 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "Codex הופך לכלי פרודוקטיבי עבור כולם",
-      "originalTitle": "Codex is becoming a productivity tool for everyone",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Codex הופך לכלי פרודוקטיבי עבור כולם. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 9 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "הדעות שלנו לגבי מדיניות הבינה המלאכותית והסברה פוליטית",
-      "originalTitle": "Our views on AI policy and political advocacy",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הדעות שלנו לגבי מדיניות הבינה המלאכותית והסברה פוליטית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "בניית התשתית לעידן המודיעין במישיגן",
-      "originalTitle": "Building the infrastructure for the Intelligence Age in Michigan",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "בניית התשתית לעידן המודיעין במישיגן. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית",
-      "originalTitle": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA AI Cloud Ecosystem מרחיבה את העולם כדי לעמוד בדרישות המחשוב הגלובליות של בינה מלאכותית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "לאחרונה אילון מכניס אותנו קצת לברזלים של אימון הAI, מה שרוב החברות הגדולות משאירות שקט. בואו נתרגם לעברית: ספייסX, כלומר, החברה xAI שנבלעה בתוך ספייסX...",
+      "title": "יום חמישי 👀 שמועות בפיד שנקבל היום את אופוס 4.8 יתכן שגם OpenAI תנצל את ההזדמנות ותשחרר את GPT 5.6 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "לאחרונה אילון מכניס אותנו קצת לברזלים של אימון הAI, מה שרוב החברות הגדולות משאירות שקט. בואו נתרגם לעברית: ספייסX, כלומר, החברה xAI שנבלעה בתוך ספייסX...",
+      "summary": "יום חמישי 👀 שמועות בפיד שנקבל היום את אופוס 4.8 יתכן שגם OpenAI תנצל את ההזדמנות ותשחרר את GPT 5.6 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "👆 הצצה ראשונה לאיך סירי⁩ החדשה תראה (לכאורה) ב⁦iOS 27⁩, לפי רנדרים חדשים של בלומברג. לפי הדיווח, ⁦Siri⁩ תקבל לראשונה אפליקציה עצמאית בסגנון צ׳אט, עם ...",
+      "title": "יום חמישי 👀 שמועות בפיד שנקבל היום את אופוס 4.8 יתכן שגם OpenAI תנצל את ההזדמנות ותשחרר את GPT 5.6 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "👆 הצצה ראשונה לאיך סירי⁩ החדשה תראה (לכאורה) ב⁦iOS 27⁩, לפי רנדרים חדשים של בלומברג. לפי הדיווח, ⁦Siri⁩ תקבל לראשונה אפליקציה עצמאית בסגנון צ׳אט, עם ...",
+      "summary": "יום חמישי 👀 שמועות בפיד שנקבל היום את אופוס 4.8 יתכן שגם OpenAI תנצל את ההזדמנות ותשחרר את GPT 5.6 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 140 ימים",
+      "timeAgo": "לפני 141 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 279 ימים",
+      "timeAgo": "לפני 280 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-02T11:57:10.435Z",
+  "lastUpdated": "2026-06-03T12:30:07.376Z",
   "sources": {
     "official": [
       "OpenAI Blog",
