@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית",
+      "originalTitle": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו",
+      "originalTitle": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI",
       "originalTitle": "How Endava is redesigning software delivery around AI agents",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,63 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
+      "title": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר",
+      "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "ביודפנס בעידן האינטליגנציה",
+      "originalTitle": "Biodefense in the Intelligence Age",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "ביודפנס בעידן האינטליגנציה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "מחקר NVIDIA משחרר אחיזה מתקדמת, נהיגה אוטונומית חכמה יותר והכשרת סוכנים בקנה מידה גדול",
       "originalTitle": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחקר NVIDIA משחרר אחיזה מתקדמת, נהיגה אוטונומית חכמה יותר והכשרת סוכנים בקנה מידה גדול. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מחקר NVIDIA משחרר אחיזה מתקדמת, נהיגה אוטונומית חכמה יותר והכשרת סוכנים בקנה מידה גדול. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,98 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "NVIDIA מאפשר את העידן הבא של מחקר בינה מלאכותית פיזית עם מיומנויות סוכן עבור כלי רכב אוטונומיים, רובוטיקה ו - Vision AI",
-      "originalTitle": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA מאפשר את העידן הבא של מחקר בינה מלאכותית פיזית עם מיומנויות סוכן עבור כלי רכב אוטונומיים, רובוטיקה ו - Vision AI. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "הכירו את היכולות החדשות של GPT - ROSEIND",
-      "originalTitle": "Introducing new capabilities to GPT-Rosalind",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את היכולות החדשות של GPT - ROSEIND. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "איך Wasmer השתמש ב - Codex כדי לבנות זמן ריצה של Node.js עבור הקצה",
-      "originalTitle": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך Wasmer השתמש ב - Codex כדי לבנות זמן ריצה של Node.js עבור הקצה. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/wasmer",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מובילי תוכנה תעשייתיים בונים מהנדסי AI מאובטחים ואוטונומיים עם NVIDIA NemoClaw",
-      "originalTitle": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מובילי תוכנה תעשייתיים בונים מהנדסי AI מאובטחים ואוטונומיים עם NVIDIA NemoClaw. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "אנתרופיק משחררת את אופוס 4.8 ומוסיפה אפשרות לבחור את רמת החשיבה. https://www.anthropic.com/news/claude-opus-4-8 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "שבוע טוב עדכון קודקס למשתמשי ווינדוס: 1. שימוש במחשב (Computer use) זמין כעת גם בווינדוס. 2. נוספה תמיכה בשליטה מרחוק בקודקס בווינדוס דרך האפליקציה בנ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אנתרופיק משחררת את אופוס 4.8 ומוסיפה אפשרות לבחור את רמת החשיבה. https://www.anthropic.com/news/claude-opus-4-8 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "שבוע טוב עדכון קודקס למשתמשי ווינדוס: 1. שימוש במחשב (Computer use) זמין כעת גם בווינדוס. 2. נוספה תמיכה בשליטה מרחוק בקודקס בווינדוס דרך האפליקציה בנ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "יום חמישי 👀 שמועות בפיד שנקבל היום את אופוס 4.8 יתכן שגם OpenAI תנצל את ההזדמנות ותשחרר את GPT 5.6 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "קודקס הגיע ל4 מליון משתמשים פעילים לאחר שנוספו מעל מליון משתמשים חדשים רק בשבועיים האחרונים&#33; כדי לחגוג את זה הם יאפסו שוב את המגבלות בשעות הקרובות...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "יום חמישי 👀 שמועות בפיד שנקבל היום את אופוס 4.8 יתכן שגם OpenAI תנצל את ההזדמנות ותשחרר את GPT 5.6 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "קודקס הגיע ל4 מליון משתמשים פעילים לאחר שנוספו מעל מליון משתמשים חדשים רק בשבועיים האחרונים&#33; כדי לחגוג את זה הם יאפסו שוב את המגבלות בשעות הקרובות...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 141 ימים",
+      "timeAgo": "לפני 142 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 281 ימים",
+      "timeAgo": "לפני 282 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-04T10:54:33.504Z",
+  "lastUpdated": "2026-06-05T11:17:37.564Z",
   "sources": {
     "official": [
       "OpenAI Blog",
