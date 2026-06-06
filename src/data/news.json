@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -27,8 +27,8 @@
       "id": 2,
       "title": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו",
       "originalTitle": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI",
       "originalTitle": "How Endava is redesigning software delivery around AI agents",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר",
       "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "ביודפנס בעידן האינטליגנציה",
       "originalTitle": "Biodefense in the Intelligence Age",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ביודפנס בעידן האינטליגנציה. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ביודפנס בעידן האינטליגנציה. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,35 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "שבוע טוב עדכון קודקס למשתמשי ווינדוס: 1. שימוש במחשב (Computer use) זמין כעת גם בווינדוס. 2. נוספה תמיכה בשליטה מרחוק בקודקס בווינדוס דרך האפליקציה בנ...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "שבוע טוב עדכון קודקס למשתמשי ווינדוס: 1. שימוש במחשב (Computer use) זמין כעת גם בווינדוס. 2. נוספה תמיכה בשליטה מרחוק בקודקס בווינדוס דרך האפליקציה בנ...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "קודקס הגיע ל4 מליון משתמשים פעילים לאחר שנוספו מעל מליון משתמשים חדשים רק בשבועיים האחרונים&#33; כדי לחגוג את זה הם יאפסו שוב את המגבלות בשעות הקרובות...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "קודקס הגיע ל4 מליון משתמשים פעילים לאחר שנוספו מעל מליון משתמשים חדשים רק בשבועיים האחרונים&#33; כדי לחגוג את זה הם יאפסו שוב את המגבלות בשעות הקרובות...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 142 ימים",
+      "timeAgo": "לפני 143 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 282 ימים",
+      "timeAgo": "לפני 283 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-05T11:17:37.564Z",
+  "lastUpdated": "2026-06-06T09:53:42.148Z",
   "sources": {
     "official": [
       "OpenAI Blog",
