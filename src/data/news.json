@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA , KRAFTON, NC ו - Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea's PC Bangs",
+      "originalTitle": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "NVIDIA , KRAFTON, NC ו - Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea's PC Bangs. פריצת דרך בתחום החומרה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 3 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית",
       "originalTitle": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו",
       "originalTitle": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI",
       "originalTitle": "How Endava is redesigning software delivery around AI agents",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר",
       "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "ביודפנס בעידן האינטליגנציה",
       "originalTitle": "Biodefense in the Intelligence Age",
       "headline": "התקדמות משמעותית בתחום",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מחקר NVIDIA משחרר אחיזה מתקדמת, נהיגה אוטונומית חכמה יותר והכשרת סוכנים בקנה מידה גדול",
-      "originalTitle": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מחקר NVIDIA משחרר אחיזה מתקדמת, נהיגה אוטונומית חכמה יותר והכשרת סוכנים בקנה מידה גדול. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "קודקס הגיע ל4 מליון משתמשים פעילים לאחר שנוספו מעל מליון משתמשים חדשים רק בשבועיים האחרונים&#33; כדי לחגוג את זה הם יאפסו שוב את המגבלות בשעות הקרובות...",
+      "title": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "קודקס הגיע ל4 מליון משתמשים פעילים לאחר שנוספו מעל מליון משתמשים חדשים רק בשבועיים האחרונים&#33; כדי לחגוג את זה הם יאפסו שוב את המגבלות בשעות הקרובות...",
+      "summary": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "אגב, השימוש הכפול שהיה במבצע זמני נגמר היום, אז תהיו מוכנים לחזור ללימיט הרגיל. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "אגב, השימוש הכפול שהיה במבצע זמני נגמר היום, אז תהיו מוכנים לחזור ללימיט הרגיל. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 143 ימים",
+      "timeAgo": "לפני 144 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 283 ימים",
+      "timeAgo": "לפני 284 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-06T09:53:42.148Z",
+  "lastUpdated": "2026-06-07T10:21:33.868Z",
   "sources": {
     "official": [
       "OpenAI Blog",
