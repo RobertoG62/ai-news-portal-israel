@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
-      "title": "NVIDIA , KRAFTON, NC ו - Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea's PC Bangs",
-      "originalTitle": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "NVIDIA , KRAFTON, NC ו - Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea's PC Bangs. פריצת דרך בתחום החומרה",
+      "title": "כיצד בריטניה הופכת שאיפת AI ריבונית לפעולה עם טכנולוגיות NVIDIA",
+      "originalTitle": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד בריטניה הופכת שאיפת AI ריבונית לפעולה עם טכנולוגיות NVIDIA. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 6 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA וקבוצת LG מקימות מפעל בינה מלאכותית לקידום תשתיות בינה מלאכותית, ניידות ובינה מלאכותית פיזיות",
+      "originalTitle": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "NVIDIA וקבוצת LG מקימות מפעל בינה מלאכותית לקידום תשתיות בינה מלאכותית, ניידות ובינה מלאכותית פיזיות. חומרה חדשה תאיץ את עולם ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,45 +36,22 @@
       ],
       "category": "חומרה",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית",
-      "originalTitle": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מטרת סיאול: כיצד NVIDIA ודרום קוריאה בונים את עתיד הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 9 שעות",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 3,
-      "title": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו",
-      "originalTitle": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "תחזית: כיף קדימה — 18 משחקים הצטרפו ביוני כדי להזרים ב - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "title": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל",
+      "originalTitle": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,12 +59,12 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 13 שעות",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI",
       "originalTitle": "How Endava is redesigning software delivery around AI agents",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר",
       "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "רוצים לקבל מנוי ChatGPT Pro לחצי שנה? חברת OpenAI נותנת מנויי פרו למפתחים שתורמים לקהילה (הטבה בסך 1200&#036;). אם יש לכם ב-GitHub פרויקט קוד פתוח פעי...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כבר 5 מליון משתמשים לקודקס&#33; כמובן איפוס מגבלות מחר בבוקר. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "רוצים לקבל מנוי ChatGPT Pro לחצי שנה? חברת OpenAI נותנת מנויי פרו למפתחים שתורמים לקהילה (הטבה בסך 1200&#036;). אם יש לכם ב-GitHub פרויקט קוד פתוח פעי...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אגב, השימוש הכפול שהיה במבצע זמני נגמר היום, אז תהיו מוכנים לחזור ללימיט הרגיל. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "לא נעים בכלל: מטא שילבה בוט AI באינסטגרם לטיפול בשחזור חשבון/איפוס סיסמא ודברים כאלה, הבעיה? אנשים הצליחו לשכנע את הבוט לשלוח קישור לאיפוס סיסמא לכל ח...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אגב, השימוש הכפול שהיה במבצע זמני נגמר היום, אז תהיו מוכנים לחזור ללימיט הרגיל. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "לא נעים בכלל: מטא שילבה בוט AI באינסטגרם לטיפול בשחזור חשבון/איפוס סיסמא ודברים כאלה, הבעיה? אנשים הצליחו לשכנע את הבוט לשלוח קישור לאיפוס סיסמא לכל ח...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 144 ימים",
+      "timeAgo": "לפני 146 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 284 ימים",
+      "timeAgo": "לפני 285 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-07T10:21:33.868Z",
+  "lastUpdated": "2026-06-08T12:21:32.743Z",
   "sources": {
     "official": [
       "OpenAI Blog",
