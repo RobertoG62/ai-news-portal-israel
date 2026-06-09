@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "הגשה סודית של טיוטה S -1 ל - SEC",
+      "originalTitle": "Confidential submission of draft S-1 to the SEC",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הגשה סודית של טיוטה S -1 ל - SEC. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-submits-confidential-s-1",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "כיצד בריטניה הופכת שאיפת AI ריבונית לפעולה עם טכנולוגיות NVIDIA",
       "originalTitle": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "NVIDIA וקבוצת LG מקימות מפעל בינה מלאכותית לקידום תשתיות בינה מלאכותית, ניידות ובינה מלאכותית פיזיות",
       "originalTitle": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
       "headline": "חומרה חדשה תאיץ את עולם ה-AI",
@@ -41,17 +64,63 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 9 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
+      "title": "נבנה כדי להועיל לכולם: התוכנית שלנו",
+      "originalTitle": "Built to benefit everyone: our plan",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "נבנה כדי להועיל לכולם: התוכנית שלנו. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "הכירו את OpenAI Economic Research Exchange",
+      "originalTitle": "Introducing the OpenAI Economic Research Exchange",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "הכירו את OpenAI Economic Research Exchange. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/economic-research-exchange",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל",
       "originalTitle": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,85 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI",
-      "originalTitle": "How Endava is redesigning software delivery around AI agents",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד Endava מעצבת מחדש את אספקת התוכנה סביב סוכני AI. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/endava-frontiers",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר",
-      "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חולם: זיכרון טוב יותר עבור ChatGPT מועיל יותר. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "ביודפנס בעידן האינטליגנציה",
-      "originalTitle": "Biodefense in the Intelligence Age",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "ביודפנס בעידן האינטליגנציה. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "רוצים לקבל מנוי ChatGPT Pro לחצי שנה? חברת OpenAI נותנת מנויי פרו למפתחים שתורמים לקהילה (הטבה בסך 1200&#036;). אם יש לכם ב-GitHub פרויקט קוד פתוח פעי...",
+      "title": "סם שלנו מצטט פסוקים מקהלת בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רוצים לקבל מנוי ChatGPT Pro לחצי שנה? חברת OpenAI נותנת מנויי פרו למפתחים שתורמים לקהילה (הטבה בסך 1200&#036;). אם יש לכם ב-GitHub פרויקט קוד פתוח פעי...",
+      "summary": "סם שלנו מצטט פסוקים מקהלת בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "לא נעים בכלל: מטא שילבה בוט AI באינסטגרם לטיפול בשחזור חשבון/איפוס סיסמא ודברים כאלה, הבעיה? אנשים הצליחו לשכנע את הבוט לשלוח קישור לאיפוס סיסמא לכל ח...",
+      "title": "הרבה תלונות ברשת בימים האחרונים על ירידה בביצועים של GPT 5.5. נראה ש5.6 יגיע בקרוב… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "לא נעים בכלל: מטא שילבה בוט AI באינסטגרם לטיפול בשחזור חשבון/איפוס סיסמא ודברים כאלה, הבעיה? אנשים הצליחו לשכנע את הבוט לשלוח קישור לאיפוס סיסמא לכל ח...",
+      "summary": "הרבה תלונות ברשת בימים האחרונים על ירידה בביצועים של GPT 5.5. נראה ש5.6 יגיע בקרוב… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 285 ימים",
+      "timeAgo": "לפני 286 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-08T12:21:32.743Z",
+  "lastUpdated": "2026-06-09T10:51:30.687Z",
   "sources": {
     "official": [
       "OpenAI Blog",
