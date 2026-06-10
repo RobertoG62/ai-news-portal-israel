@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
-      "title": "הגשה סודית של טיוטה S -1 ל - SEC",
-      "originalTitle": "Confidential submission of draft S-1 to the SEC",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הגשה סודית של טיוטה S -1 ל - SEC. מחקר חדש חושף תובנות מרתקות",
+      "title": "מנתונים להחלטות: כיצד LSEG מדרג בינה מלאכותית מהימנה",
+      "originalTitle": "From data to decisions: how LSEG is scaling trusted AI",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "מנתונים להחלטות: כיצד LSEG מדרג בינה מלאכותית מהימנה. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/lseg",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 11 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מחשוב סודי NVIDIA כדי לעזור להרחיב את מחשוב הענן הפרטי של Apple",
+      "originalTitle": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "מחשוב סודי NVIDIA כדי לעזור להרחיב את מחשוב הענן הפרטי של Apple. שבב חדש מבטיח ביצועים מרשימים",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "כיצד מהנדסים ב - Nextdoor משתמשים ב - Codex כדי לבנות ללא מגבלות",
+      "originalTitle": "How engineers at Nextdoor use Codex to build without limits",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד מהנדסים ב - Nextdoor משתמשים ב - Codex כדי לבנות ללא מגבלות. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,18 +59,41 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-submits-confidential-s-1",
+      "sourceUrl": "https://openai.com/index/nextdoor",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
+      "title": "איזה קודקס פותח עבור Notion",
+      "originalTitle": "What Codex unlocks for Notion",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איזה קודקס פותח עבור Notion. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/notion",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "כיצד בריטניה הופכת שאיפת AI ריבונית לפעולה עם טכנולוגיות NVIDIA",
       "originalTitle": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -41,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "NVIDIA וקבוצת LG מקימות מפעל בינה מלאכותית לקידום תשתיות בינה מלאכותית, ניידות ובינה מלאכותית פיזיות",
       "originalTitle": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
       "headline": "חומרה חדשה תאיץ את עולם ה-AI",
@@ -64,85 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "נבנה כדי להועיל לכולם: התוכנית שלנו",
-      "originalTitle": "Built to benefit everyone: our plan",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "נבנה כדי להועיל לכולם: התוכנית שלנו. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "הכירו את OpenAI Economic Research Exchange",
-      "originalTitle": "Introducing the OpenAI Economic Research Exchange",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "הכירו את OpenAI Economic Research Exchange. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/economic-research-exchange",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל",
-      "originalTitle": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA וקבוצת Doosan משתפות פעולה כדי לקדם את התשתית הפיזית של AI ושל AI במפעל. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "סם שלנו מצטט פסוקים מקהלת בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "כשהמנכ״ל מגלה שטוקנים עולים כסף... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "סם שלנו מצטט פסוקים מקהלת בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "כשהמנכ״ל מגלה שטוקנים עולים כסף... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "הרבה תלונות ברשת בימים האחרונים על ירידה בביצועים של GPT 5.5. נראה ש5.6 יגיע בקרוב… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "איפוס מגבלות בקודקס תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הרבה תלונות ברשת בימים האחרונים על ירידה בביצועים של GPT 5.5. נראה ש5.6 יגיע בקרוב… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "איפוס מגבלות בקודקס תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 146 ימים",
+      "timeAgo": "לפני 148 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 286 ימים",
+      "timeAgo": "לפני 287 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-09T10:51:30.687Z",
+  "lastUpdated": "2026-06-10T11:30:08.242Z",
   "sources": {
     "official": [
       "OpenAI Blog",
