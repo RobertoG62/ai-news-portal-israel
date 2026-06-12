@@ -2,6 +2,98 @@
   "news": [
     {
       "id": 1,
+      "title": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה",
+      "originalTitle": "How Preply combines AI and human tutors to personalize learning",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/preply",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 11 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון",
+      "originalTitle": "NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות",
+      "originalTitle": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית",
+      "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "איך אסטרופיזיקאי משתמש בקודקס כדי לדמות חורים שחורים",
       "originalTitle": "How an astrophysicist uses Codex to help simulate black holes",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,59 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 12 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית",
-      "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 12 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "גישה לדגמי OpenAI ולקודקס באמצעות המחויבות שלך לענן של Oracle",
-      "originalTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "גישה לדגמי OpenAI ולקודקס באמצעות המחויבות שלך לענן של Oracle. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 6,
       "title": "עבור Robotaxis, הבטיחות חייבת להיות מובנית, לא מוברגת",
       "originalTitle": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "NVIDIA מאיצה את הדיפוזיה של Google DeepMind Gemma עבור בינה מלאכותית מקומית",
-      "originalTitle": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA מאיצה את הדיפוזיה של Google DeepMind Gemma עבור בינה מלאכותית מקומית. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מחשוב סודי NVIDIA כדי לעזור להרחיב את מחשוב הענן הפרטי של Apple",
-      "originalTitle": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "מחשוב סודי NVIDIA כדי לעזור להרחיב את מחשוב הענן הפרטי של Apple. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "מעניין&#33; אם אני לא טועה זו החברה הראשונה שעושה צעד לכיוון הזה. בגדול הם נותנים לכם ערבות שלא זרקתם כסף לפח על טוקנים, אם הסשן שלכם לא הניב תוצאות ש...",
+      "title": "אני מבין שהמוח שלכם זקוק נואשות לעוד AI Slop בדמות תמונות אסלה מוזרות, אני באמת מבין. אבל בבקשה תפסיקו לשלוח את זה בקבוצה. הטרנד הזה מיצה את עצמו עוד ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מעניין&#33; אם אני לא טועה זו החברה הראשונה שעושה צעד לכיוון הזה. בגדול הם נותנים לכם ערבות שלא זרקתם כסף לפח על טוקנים, אם הסשן שלכם לא הניב תוצאות ש...",
+      "summary": "אני מבין שהמוח שלכם זקוק נואשות לעוד AI Slop בדמות תמונות אסלה מוזרות, אני באמת מבין. אבל בבקשה תפסיקו לשלוח את זה בקבוצה. הטרנד הזה מיצה את עצמו עוד ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "מי ער, ולמה? כנסו לקודקס &gt; הגדרות &gt; פרופיל יש שם נתונים על השימוש שלכם שאתם יכולים לשתף בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "היום בשעה 20:00 (שעון ישראל) יתקיים כנס הWWDC של אפל. כאמור אנחנו מצפים לקבל את סירי ה״חכמה״ שתקבל אפליקציית צ׳אט עצמאית ואינטגרציה עם מודלי שפה חיצונ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מי ער, ולמה? כנסו לקודקס &gt; הגדרות &gt; פרופיל יש שם נתונים על השימוש שלכם שאתם יכולים לשתף בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "היום בשעה 20:00 (שעון ישראל) יתקיים כנס הWWDC של אפל. כאמור אנחנו מצפים לקבל את סירי ה״חכמה״ שתקבל אפליקציית צ׳אט עצמאית ואינטגרציה עם מודלי שפה חיצונ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 149 ימים",
+      "timeAgo": "לפני 150 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 288 ימים",
+      "timeAgo": "לפני 289 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-11T12:02:51.324Z",
+  "lastUpdated": "2026-06-12T11:35:04.266Z",
   "sources": {
     "official": [
       "OpenAI Blog",
