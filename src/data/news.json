@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA בלקוול מובילה על בנצ'מרק תשתיות הבינה המלאכותית הסוכן הראשון",
+      "originalTitle": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA בלקוול מובילה על בנצ'מרק תשתיות הבינה המלאכותית הסוכן הראשון. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא",
+      "originalTitle": "New OpenAI Academy courses for the next era of work",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה",
       "originalTitle": "How Preply combines AI and human tutors to personalize learning",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 11 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון",
       "originalTitle": "NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 14 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות",
       "originalTitle": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית",
       "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,62 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "איך אסטרופיזיקאי משתמש בקודקס כדי לדמות חורים שחורים",
-      "originalTitle": "How an astrophysicist uses Codex to help simulate black holes",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך אסטרופיזיקאי משתמש בקודקס כדי לדמות חורים שחורים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "עבור Robotaxis, הבטיחות חייבת להיות מובנית, לא מוברגת",
-      "originalTitle": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "עבור Robotaxis, הבטיחות חייבת להיות מובנית, לא מוברגת. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "אני מבין שהמוח שלכם זקוק נואשות לעוד AI Slop בדמות תמונות אסלה מוזרות, אני באמת מבין. אבל בבקשה תפסיקו לשלוח את זה בקבוצה. הטרנד הזה מיצה את עצמו עוד ...",
+      "title": "&rlm;לפי השמועות בפיד נראה שקלוד Mythos יושק היום. בפולימרקט הסיכויים לשחרור היום קפצו מ50% ל70% בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אני מבין שהמוח שלכם זקוק נואשות לעוד AI Slop בדמות תמונות אסלה מוזרות, אני באמת מבין. אבל בבקשה תפסיקו לשלוח את זה בקבוצה. הטרנד הזה מיצה את עצמו עוד ...",
+      "summary": "&rlm;לפי השמועות בפיד נראה שקלוד Mythos יושק היום. בפולימרקט הסיכויים לשחרור היום קפצו מ50% ל70% בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "היום בשעה 20:00 (שעון ישראל) יתקיים כנס הWWDC של אפל. כאמור אנחנו מצפים לקבל את סירי ה״חכמה״ שתקבל אפליקציית צ׳אט עצמאית ואינטגרציה עם מודלי שפה חיצונ...",
+      "title": "דיווחים שקלוד Fable 5 (מיתוס) מתחיל להגיע למשתמשים באפליקציה ובAPI. תודה על תשומת הלב שלכם לעניין הזה. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "היום בשעה 20:00 (שעון ישראל) יתקיים כנס הWWDC של אפל. כאמור אנחנו מצפים לקבל את סירי ה״חכמה״ שתקבל אפליקציית צ׳אט עצמאית ואינטגרציה עם מודלי שפה חיצונ...",
+      "summary": "דיווחים שקלוד Fable 5 (מיתוס) מתחיל להגיע למשתמשים באפליקציה ובAPI. תודה על תשומת הלב שלכם לעניין הזה. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 289 ימים",
+      "timeAgo": "לפני 290 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-12T11:35:04.266Z",
+  "lastUpdated": "2026-06-13T10:21:27.800Z",
   "sources": {
     "official": [
       "OpenAI Blog",
