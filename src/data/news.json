@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "הכירו את רשת השותפים OpenAI",
+      "originalTitle": "Introducing the OpenAI Partner Network",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "הכירו את רשת השותפים OpenAI. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "NVIDIA בלקוול מובילה על בנצ'מרק תשתיות הבינה המלאכותית הסוכן הראשון",
       "originalTitle": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא",
       "originalTitle": "New OpenAI Academy courses for the next era of work",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה",
       "originalTitle": "How Preply combines AI and human tutors to personalize learning",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון",
       "originalTitle": "NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות",
       "originalTitle": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית",
-      "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "תמיכה בעבודה של אירופה בהבטחת מערכת אקולוגית אמינה של בינה מלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "בוקר-איפוס מגבלות בקלוד-טוב גם לכם. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "נתקעתם בפקקים? בואו לשחק ״חוסמים את הציר״. אחד הגאונים בקבוצה לקח את קלוד פייבל 5 החדש לסיבוב של רבע שעה ובנה איתו סימולטור הפגנות ממכר. פרומפט 1, רבע...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בוקר-איפוס מגבלות בקלוד-טוב גם לכם. תהנו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "נתקעתם בפקקים? בואו לשחק ״חוסמים את הציר״. אחד הגאונים בקבוצה לקח את קלוד פייבל 5 החדש לסיבוב של רבע שעה ובנה איתו סימולטור הפגנות ממכר. פרומפט 1, רבע...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "טוב, אז קלוד ״מיתוס״ כבר בחוץ. זו כמובן לא הגירסה החזקה של המודל אלא מודל שמחוזק בהגנות בטיחות ויקרא שמו בישראל Fable 5. כשתשאלו אותו בנושאים שעלולים ...",
+      "title": "איפוס המגבלות בקודקס הופך רשמית לפיצ׳ר&#33; בנק איפוסים אישי: מכירים את זה שטיבו מאפס את המגבלות, אבל זה נופל על תזמון גרוע בדיוק לפני האיפוס הרגיל של...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "טוב, אז קלוד ״מיתוס״ כבר בחוץ. זו כמובן לא הגירסה החזקה של המודל אלא מודל שמחוזק בהגנות בטיחות ויקרא שמו בישראל Fable 5. כשתשאלו אותו בנושאים שעלולים ...",
+      "summary": "איפוס המגבלות בקודקס הופך רשמית לפיצ׳ר&#33; בנק איפוסים אישי: מכירים את זה שטיבו מאפס את המגבלות, אבל זה נופל על תזמון גרוע בדיוק לפני האיפוס הרגיל של...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 151 ימים",
+      "timeAgo": "לפני 153 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 291 ימים",
+      "timeAgo": "לפני 292 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-14T10:43:58.382Z",
+  "lastUpdated": "2026-06-15T13:45:58.793Z",
   "sources": {
     "official": [
       "OpenAI Blog",
