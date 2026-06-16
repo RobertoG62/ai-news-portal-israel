@@ -4,8 +4,8 @@
       "id": 1,
       "title": "הכירו את רשת השותפים OpenAI",
       "originalTitle": "Introducing the OpenAI Partner Network",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "הכירו את רשת השותפים OpenAI. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "הכירו את רשת השותפים OpenAI. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא",
       "originalTitle": "New OpenAI Academy courses for the next era of work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון",
       "originalTitle": "NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -140,28 +140,6 @@
     },
     {
       "id": 7,
-      "title": "נתקעתם בפקקים? בואו לשחק ״חוסמים את הציר״. אחד הגאונים בקבוצה לקח את קלוד פייבל 5 החדש לסיבוב של רבע שעה ובנה איתו סימולטור הפגנות ממכר. פרומפט 1, רבע...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "נתקעתם בפקקים? בואו לשחק ״חוסמים את הציר״. אחד הגאונים בקבוצה לקח את קלוד פייבל 5 החדש לסיבוב של רבע שעה ובנה איתו סימולטור הפגנות ממכר. פרומפט 1, רבע...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "איפוס המגבלות בקודקס הופך רשמית לפיצ׳ר&#33; בנק איפוסים אישי: מכירים את זה שטיבו מאפס את המגבלות, אבל זה נופל על תזמון גרוע בדיוק לפני האיפוס הרגיל של...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "איפוס המגבלות בקודקס הופך רשמית לפיצ׳ר&#33; בנק איפוסים אישי: מכירים את זה שטיבו מאפס את המגבלות, אבל זה נופל על תזמון גרוע בדיוק לפני האיפוס הרגיל של...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "מודל Open-Source חדש של Kimi. https://www.kimi.com/code בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "מודל Open-Source חדש של Kimi. https://www.kimi.com/code בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 153 ימים",
+      "timeAgo": "לפני 154 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 292 ימים",
+      "timeAgo": "לפני 293 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-15T13:45:58.793Z",
+  "lastUpdated": "2026-06-16T12:45:16.077Z",
   "sources": {
     "official": [
       "OpenAI Blog",
