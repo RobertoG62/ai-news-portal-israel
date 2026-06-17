@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "ידיים חופשיות, AIs קדימה: NVIDIA XR AI מביא סוכנים למשקפי AR",
+      "originalTitle": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "ידיים חופשיות, AIs קדימה: NVIDIA XR AI מביא סוכנים למשקפי AR. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "קרקע פורצת קוהרנטית במתקן טקסס המורחבת, הגדלת עמוד השדרה האופטי של הבינה המלאכותית",
+      "originalTitle": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "קרקע פורצת קוהרנטית במתקן טקסס המורחבת, הגדלת עמוד השדרה האופטי של הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "מפעל HPE AI עם NVIDIA מתרחב לעידן הסוכנים",
+      "originalTitle": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מפעל HPE AI עם NVIDIA מתרחב לעידן הסוכנים. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "חיזוי התנהגות המודל לפני השחרור על ידי סימולציה של פריסה",
+      "originalTitle": "Predicting model behavior before release by simulating deployment",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "חיזוי התנהגות המודל לפני השחרור על ידי סימולציה של פריסה. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/deployment-simulation",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "הכירו את רשת השותפים OpenAI",
       "originalTitle": "Introducing the OpenAI Partner Network",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "הכירו את רשת השותפים OpenAI. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "הכירו את רשת השותפים OpenAI. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,40 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "NVIDIA בלקוול מובילה על בנצ'מרק תשתיות הבינה המלאכותית הסוכן הראשון",
-      "originalTitle": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA בלקוול מובילה על בנצ'מרק תשתיות הבינה המלאכותית הסוכן הראשון. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא",
       "originalTitle": "New OpenAI Academy courses for the next era of work",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,85 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה",
-      "originalTitle": "How Preply combines AI and human tutors to personalize learning",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "כיצד משלבת Preply בינה מלאכותית ומורים אנושיים כדי להתאים אישית את הלמידה. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/preply",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון",
-      "originalTitle": "NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "אסיפת בעלי המניות של NVIDIA נקבעה ל -24 ביוני; אנשים יכולים להשתתף באופן מקוון. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות",
-      "originalTitle": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "חסוך בגדול ושחק בגדול: GeForce עכשיו מבצע קיץ מביא חיסכון משמעותי בחברות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "איפוס המגבלות בקודקס הופך רשמית לפיצ׳ר&#33; בנק איפוסים אישי: מכירים את זה שטיבו מאפס את המגבלות, אבל זה נופל על תזמון גרוע בדיוק לפני האיפוס הרגיל של...",
+      "title": "מטא למטה (אהבתם?) תקלה גלובלית באינסטגרם פייסבוק ווטסאפ. טוב שיש טלגרם… ברוכים הבאים לכל המצטרפים מהשבוע האחרון, כיף שאתם פה ❤️ שבת שלום ✌️ בינה מלאכו...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איפוס המגבלות בקודקס הופך רשמית לפיצ׳ר&#33; בנק איפוסים אישי: מכירים את זה שטיבו מאפס את המגבלות, אבל זה נופל על תזמון גרוע בדיוק לפני האיפוס הרגיל של...",
+      "summary": "מטא למטה (אהבתם?) תקלה גלובלית באינסטגרם פייסבוק ווטסאפ. טוב שיש טלגרם… ברוכים הבאים לכל המצטרפים מהשבוע האחרון, כיף שאתם פה ❤️ שבת שלום ✌️ בינה מלאכו...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "מודל Open-Source חדש של Kimi. https://www.kimi.com/code בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "⚽ החבר&#39;ה כבר מציפים אתכם בהודעות של &quot;מי מנצחת הערב ובכמה?&quot; בנו להם אפליקציית ניחושים למונדיאל בפחות מ-5 דקות. 1️⃣ התקינו את AppDeploy ב-...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מודל Open-Source חדש של Kimi. https://www.kimi.com/code בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "⚽ החבר&#39;ה כבר מציפים אתכם בהודעות של &quot;מי מנצחת הערב ובכמה?&quot; בנו להם אפליקציית ניחושים למונדיאל בפחות מ-5 דקות. 1️⃣ התקינו את AppDeploy ב-...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 154 ימים",
+      "timeAgo": "לפני 155 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 293 ימים",
+      "timeAgo": "לפני 294 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-16T12:45:16.077Z",
+  "lastUpdated": "2026-06-17T12:09:54.631Z",
   "sources": {
     "official": [
       "OpenAI Blog",
