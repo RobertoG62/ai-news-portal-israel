@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "צרפת מקדמת את עתיד הבינה המלאכותית של אירופה עם טכנולוגיות NVIDIA",
+      "originalTitle": "France Advances Europe’s AI Future With NVIDIA Technologies",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "צרפת מקדמת את עתיד הבינה המלאכותית של אירופה עם טכנולוגיות NVIDIA. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כימאי בינה מלאכותית כמעט אוטונומי משפר תגובה מאתגרת בכימיה רפואית",
+      "originalTitle": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כימאי בינה מלאכותית כמעט אוטונומי משפר תגובה מאתגרת בכימיה רפואית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/ai-chemist-improves-reaction",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "הכירו את LifeSciBench",
+      "originalTitle": "Introducing LifeSciBench",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את LifeSciBench. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-life-sci-bench",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "ידיים חופשיות, AIs קדימה: NVIDIA XR AI מביא סוכנים למשקפי AR",
       "originalTitle": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -18,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "קרקע פורצת קוהרנטית במתקן טקסס המורחבת, הגדלת עמוד השדרה האופטי של הבינה המלאכותית",
       "originalTitle": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -41,40 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "מפעל HPE AI עם NVIDIA מתרחב לעידן הסוכנים",
-      "originalTitle": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מפעל HPE AI עם NVIDIA מתרחב לעידן הסוכנים. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 6,
       "title": "חיזוי התנהגות המודל לפני השחרור על ידי סימולציה של פריסה",
       "originalTitle": "Predicting model behavior before release by simulating deployment",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "חיזוי התנהגות המודל לפני השחרור על ידי סימולציה של פריסה. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "חיזוי התנהגות המודל לפני השחרור על ידי סימולציה של פריסה. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,53 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "הכירו את רשת השותפים OpenAI",
-      "originalTitle": "Introducing the OpenAI Partner Network",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "הכירו את רשת השותפים OpenAI. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא",
-      "originalTitle": "New OpenAI Academy courses for the next era of work",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "קורסי OpenAI אקדמיה חדשים לעידן העבודה הבא. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 155 ימים",
+      "timeAgo": "לפני 156 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 294 ימים",
+      "timeAgo": "לפני 295 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-17T12:09:54.631Z",
+  "lastUpdated": "2026-06-18T11:44:47.757Z",
   "sources": {
     "official": [
       "OpenAI Blog",
