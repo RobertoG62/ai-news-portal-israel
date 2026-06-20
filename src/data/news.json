@@ -4,8 +4,8 @@
       "id": 1,
       "title": "כיצד פעולות הקישוריות הגדולות של FERC עוזרות לטפל במתח ברשת, משפרות את העלות המשתלמת",
       "originalTitle": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד פעולות הקישוריות הגדולות של FERC עוזרות לטפל במתח ברשת, משפרות את העלות המשתלמת. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד פעולות הקישוריות הגדולות של FERC עוזרות לטפל במתח ברשת, משפרות את העלות המשתלמת. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "שימוש בבינה מלאכותית כדי לעזור לרופאים לאבחן מחלות גנטיות נדירות המשפיעות על ילדים",
       "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שימוש בבינה מלאכותית כדי לעזור לרופאים לאבחן מחלות גנטיות נדירות המשפיעות על ילדים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שימוש בבינה מלאכותית כדי לעזור לרופאים לאבחן מחלות גנטיות נדירות המשפיעות על ילדים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 296 ימים",
+      "timeAgo": "לפני 297 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-19T11:58:29.983Z",
+  "lastUpdated": "2026-06-20T10:26:33.220Z",
   "sources": {
     "official": [
       "OpenAI Blog",
