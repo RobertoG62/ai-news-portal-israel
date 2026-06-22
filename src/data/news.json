@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
-      "title": "כיצד פעולות הקישוריות הגדולות של FERC עוזרות לטפל במתח ברשת, משפרות את העלות המשתלמת",
-      "originalTitle": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד פעולות הקישוריות הגדולות של FERC עוזרות לטפל במתח ברשת, משפרות את העלות המשתלמת. התקדמות משמעותית בתחום",
+      "title": "ב - ISC, יופיטר מראה כיצד נראה מדע ה - Exascale",
+      "originalTitle": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "ב - ISC, יופיטר מראה כיצד נראה מדע ה - Exascale. שבב חדש מבטיח ביצועים מרשימים",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "תוכנית המדע של NAIRR מעצבת מחדש את המחקר המדעי, באמצעות תשתית הבינה המלאכותית NVIDIA",
+      "originalTitle": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תוכנית המדע של NAIRR מעצבת מחדש את המחקר המדעי, באמצעות תשתית הבינה המלאכותית NVIDIA. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +36,68 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
+      "title": "מסימולציית חומרים לאסטרונומיה ניסויית, תוכנת NVIDIA AI חדשה פותחת תגליות מדעיות",
+      "originalTitle": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מסימולציית חומרים לאסטרונומיה ניסויית, תוכנת NVIDIA AI חדשה פותחת תגליות מדעיות. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "Samsung Electronics מביאה את ChatGPT ו - Codex לעובדים",
+      "originalTitle": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Samsung Electronics מביאה את ChatGPT ו - Codex לעובדים. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "ניתוחי שימוש חדשים ובקרות הוצאה מעודכנות עבור ארגונים",
       "originalTitle": "New usage analytics and updated spend controls for enterprises",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "ניתוחי שימוש חדשים ובקרות הוצאה מעודכנות עבור ארגונים. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "ניתוחי שימוש חדשים ובקרות הוצאה מעודכנות עבור ארגונים. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,59 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "ב - Cannes Lions, שותפי NVIDIA מעצבים מחדש את הפרסום והשיווק באמצעות AI",
-      "originalTitle": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-      "headline": "תזוזות בשוק ה-AI",
-      "summary": "ב - Cannes Lions, שותפי NVIDIA מעצבים מחדש את הפרסום והשיווק באמצעות AI. תזוזות בשוק ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "סנכרון והזרמה: GeForce מתחבר כעת לספריות המשחקים של החברים במכשירים שונים",
-      "originalTitle": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "סנכרון והזרמה: GeForce מתחבר כעת לספריות המשחקים של החברים במכשירים שונים. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "שיפור האינטליגנציה הבריאותית ב - ChatGPT",
       "originalTitle": "Improving health intelligence in ChatGPT",
       "headline": "משקיעים מאמינים בטכנולוגיה",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "שימוש בבינה מלאכותית כדי לעזור לרופאים לאבחן מחלות גנטיות נדירות המשפיעות על ילדים",
-      "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שימוש בבינה מלאכותית כדי לעזור לרופאים לאבחן מחלות גנטיות נדירות המשפיעות על ילדים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "לטובת המצטרפים החדשים אני שם פה שוב את הקישור לקבוצה https://t.me/+Q89psGMHpZEyN2Q8",
+      "title": "שלטי חוצות חדשים של OpenAI ברחבי העולם 🥰 אמיתי, לא AI. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "לטובת המצטרפים החדשים אני שם פה שוב את הקישור לקבוצה https://t.me/+Q89psGMHpZEyN2Q8",
+      "summary": "שלטי חוצות חדשים של OpenAI ברחבי העולם 🥰 אמיתי, לא AI. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "🤣 אם יש סרטון אחד שאתם חיביים לראות היום זה הסרטון הזה 👇",
+      "title": "אנתרופיק שלחה צוותים טכניים בכירים לוושינגטון לנסות לפתור את המשבר עם הבית הלבן סביב השבתת המודל ה׳מסוכן מדי׳ שלהם. מקור: אקסיוס בינה מלאכותית בטלגרם ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "🤣 אם יש סרטון אחד שאתם חיביים לראות היום זה הסרטון הזה 👇",
+      "summary": "אנתרופיק שלחה צוותים טכניים בכירים לוושינגטון לנסות לפתור את המשבר עם הבית הלבן סביב השבתת המודל ה׳מסוכן מדי׳ שלהם. מקור: אקסיוס בינה מלאכותית בטלגרם ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 158 ימים",
+      "timeAgo": "לפני 160 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 298 ימים",
+      "timeAgo": "לפני 299 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-21T10:59:48.660Z",
+  "lastUpdated": "2026-06-22T13:26:25.240Z",
   "sources": {
     "official": [
       "OpenAI Blog",
