@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות",
+      "originalTitle": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "איך הנציגים משנים את העבודה",
       "originalTitle": "How agents are transforming work",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך הנציגים משנים את העבודה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך הנציגים משנים את העבודה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "OpenAI ו - Broadcom חושפים שבב היסק ממוטב LLM",
       "originalTitle": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "headline": "שבב חדש מבטיח ביצועים מרשימים",
-      "summary": "OpenAI ו - Broadcom חושפים שבב היסק ממוטב LLM. שבב חדש מבטיח ביצועים מרשימים",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "OpenAI ו - Broadcom חושפים שבב היסק ממוטב LLM. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול",
       "originalTitle": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול. חומרה חדשה תאיץ את עולם ה-AI",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "איך עסקים בונים בינה מלאכותית מיוחדת שהם יכולים לסמוך עליה",
       "originalTitle": "How Businesses Are Building Specialized AI They Can Trust",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך עסקים בונים בינה מלאכותית מיוחדת שהם יכולים לסמוך עליה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך עסקים בונים בינה מלאכותית מיוחדת שהם יכולים לסמוך עליה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "סיוע בבניית סטנדרטים משותפים עבור בינה מלאכותית מתקדמת",
       "originalTitle": "Helping build shared standards for advanced AI",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "סיוע בבניית סטנדרטים משותפים עבור בינה מלאכותית מתקדמת. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "סיוע בבניית סטנדרטים משותפים עבור בינה מלאכותית מתקדמת. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA מכריזה על ערכת הכלים סוכן BioNeMo — כלים לסוכנים כדי להאיץ את הגילוי המדעי",
-      "originalTitle": "NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA מכריזה על ערכת הכלים סוכן BioNeMo — כלים לסוכנים כדי להאיץ את הגילוי המדעי. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "אנתרופיק שלחה צוותים טכניים בכירים לוושינגטון לנסות לפתור את המשבר עם הבית הלבן סביב השבתת המודל ה׳מסוכן מדי׳ שלהם. מקור: אקסיוס בינה מלאכותית בטלגרם ...",
+      "title": "במקום להתלונן כל היום על המגבלות בקלוד קוד מישהו פשוט החליט להגיש תביעה נגד אנתרופיק. התובע Karl Kahn טוען שאנתרופיק מבטיחה פי 5 או פי 20 שימוש במנוי ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אנתרופיק שלחה צוותים טכניים בכירים לוושינגטון לנסות לפתור את המשבר עם הבית הלבן סביב השבתת המודל ה׳מסוכן מדי׳ שלהם. מקור: אקסיוס בינה מלאכותית בטלגרם ...",
+      "summary": "במקום להתלונן כל היום על המגבלות בקלוד קוד מישהו פשוט החליט להגיש תביעה נגד אנתרופיק. התובע Karl Kahn טוען שאנתרופיק מבטיחה פי 5 או פי 20 שימוש במנוי ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "לא בלתי מעניין... ראש ממשלת בריטניה מודיע: חסימה מלאה של רשתות חברתיות לילדים מתחת לגיל 16&#33; בין הרשתות שיחסמו - טיקטוק, אינסטגרם, יוטיוב, סנאפצ׳אט...",
+      "title": "אנתרופיק מודיעה שהיא לא מאפשרת יותר לאפליקציות צד ג להשתמש במנוי שלכם בקלוד - רוצים להשתמש בOpenClaw? תשתמשו בAPI ותשלמו לפי שימוש... בינה מלאכותית בט...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "לא בלתי מעניין... ראש ממשלת בריטניה מודיע: חסימה מלאה של רשתות חברתיות לילדים מתחת לגיל 16&#33; בין הרשתות שיחסמו - טיקטוק, אינסטגרם, יוטיוב, סנאפצ׳אט...",
+      "summary": "אנתרופיק מודיעה שהיא לא מאפשרת יותר לאפליקציות צד ג להשתמש במנוי שלכם בקלוד - רוצים להשתמש בOpenClaw? תשתמשו בAPI ותשלמו לפי שימוש... בינה מלאכותית בט...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 162 ימים",
+      "timeAgo": "לפני 163 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 302 ימים",
+      "timeAgo": "לפני 303 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-25T10:33:29.373Z",
+  "lastUpdated": "2026-06-26T10:43:32.260Z",
   "sources": {
     "official": [
       "OpenAI Blog",
