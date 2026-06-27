@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "תצוגה מקדימה של GPT -5.6 Sol: דגם מהדור הבא",
+      "originalTitle": "Previewing GPT-5.6 Sol: a next-generation model",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תצוגה מקדימה של GPT -5.6 Sol: דגם מהדור הבא. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות",
       "originalTitle": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "איך הנציגים משנים את העבודה",
       "originalTitle": "How agents are transforming work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך הנציגים משנים את העבודה. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך הנציגים משנים את העבודה. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "OpenAI ו - Broadcom חושפים שבב היסק ממוטב LLM",
       "originalTitle": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "headline": "פריצת דרך בתחום החומרה",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול",
       "originalTitle": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול. פריצת דרך בתחום החומרה",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול. שבב חדש מבטיח ביצועים מרשימים",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "איך עסקים בונים בינה מלאכותית מיוחדת שהם יכולים לסמוך עליה",
       "originalTitle": "How Businesses Are Building Specialized AI They Can Trust",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -110,30 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "סיוע בבניית סטנדרטים משותפים עבור בינה מלאכותית מתקדמת",
-      "originalTitle": "Helping build shared standards for advanced AI",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "סיוע בבניית סטנדרטים משותפים עבור בינה מלאכותית מתקדמת. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 163 ימים",
+      "timeAgo": "לפני 164 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 303 ימים",
+      "timeAgo": "לפני 304 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-26T10:43:32.260Z",
+  "lastUpdated": "2026-06-27T09:55:55.011Z",
   "sources": {
     "official": [
       "OpenAI Blog",
