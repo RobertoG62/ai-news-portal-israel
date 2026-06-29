@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "מודלים פתוחים, סביבות סגורות: Palantir מביא בינה מלאכותית מאובטחת לסוכנויות בארה\"ב עם NVIDIA Nemotron",
+      "originalTitle": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מודלים פתוחים, סביבות סגורות: Palantir מביא בינה מלאכותית מאובטחת לסוכנויות בארה\"ב עם NVIDIA Nemotron. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מיפוי הזדמנות כוח העבודה של הבינה המלאכותית באירופה",
+      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מיפוי הזדמנות כוח העבודה של הבינה המלאכותית באירופה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "HP Inc. משיקה את השותפות האסטרטגית Frontier עם OpenAI",
+      "originalTitle": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "HP Inc. משיקה את השותפות האסטרטגית Frontier עם OpenAI. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/hp-frontier-partnership",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "תצוגה מקדימה של GPT -5.6 Sol: דגם מהדור הבא",
       "originalTitle": "Previewing GPT-5.6 Sol: a next-generation model",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות",
       "originalTitle": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "צימוד מבצע הקיץ האולטימטיבי: מכירת קיטור פוגשת את GeForce עכשיו הנחות. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,59 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "איך הנציגים משנים את העבודה",
-      "originalTitle": "How agents are transforming work",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך הנציגים משנים את העבודה. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "OpenAI ו - Broadcom חושפים שבב היסק ממוטב LLM",
-      "originalTitle": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "OpenAI ו - Broadcom חושפים שבב היסק ממוטב LLM. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "NVIDIA ו - AWS משתפים פעולה כדי להביא את הבינה המלאכותית לייצור בקנה מידה גדול",
       "originalTitle": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
       "headline": "פריצת דרך בתחום החומרה",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "איך עסקים בונים בינה מלאכותית מיוחדת שהם יכולים לסמוך עליה",
-      "originalTitle": "How Businesses Are Building Specialized AI They Can Trust",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך עסקים בונים בינה מלאכותית מיוחדת שהם יכולים לסמוך עליה. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "https://x.com/ai_x_il/status/2046799417919860858?s=46",
+      "title": "משתמשים מקבלים שגיאות בקודקס בשעה האחרונה, בחברה מודעים לזה ומטפלים בזה. להורדת קודקס: https://openai.com/codex/ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "https://x.com/ai_x_il/status/2046799417919860858?s=46",
+      "summary": "משתמשים מקבלים שגיאות בקודקס בשעה האחרונה, בחברה מודעים לזה ומטפלים בזה. להורדת קודקס: https://openai.com/codex/ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "זה קורה: SpaceX תרכוש את Cursor בעסקת ענק של 60 מיליארד דולר. העסקה צפויה להיסגר ברבעון השלישי של 2026, וקורסור תמשיך לפעול כחברה בת בבעלות מלאה של Sp...",
+      "title": "משתמשים מקבלים שגיאות בקודקס בשעה האחרונה, בחברה מודעים לזה ומטפלים בזה. להורדת קודקס: https://openai.com/codex/ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זה קורה: SpaceX תרכוש את Cursor בעסקת ענק של 60 מיליארד דולר. העסקה צפויה להיסגר ברבעון השלישי של 2026, וקורסור תמשיך לפעול כחברה בת בבעלות מלאה של Sp...",
+      "summary": "משתמשים מקבלים שגיאות בקודקס בשעה האחרונה, בחברה מודעים לזה ומטפלים בזה. להורדת קודקס: https://openai.com/codex/ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 165 ימים",
+      "timeAgo": "לפני 167 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 305 ימים",
+      "timeAgo": "לפני 306 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-06-28T10:20:12.436Z",
+  "lastUpdated": "2026-06-29T12:22:41.786Z",
   "sources": {
     "official": [
       "OpenAI Blog",
