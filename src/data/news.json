@@ -2,6 +2,52 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA פותח את מחשב הבינה המלאכותית בקנה מידה גדול, מזמין את שותפי ההון להפעיל את בניית תשתית הבינה המלאכותית",
+      "originalTitle": "NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA פותח את מחשב הבינה המלאכותית בקנה מידה גדול, מזמין את שותפי ההון להפעיל את בניית תשתית הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 6 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA ושותפים בונים באמריקה, עבור אמריקה",
+      "originalTitle": "NVIDIA and Partners Build in America, for America",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA ושותפים בונים באמריקה, עבור אמריקה. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "ערכת הכלים הסוכן NVIDIA BioNeMo מביאה בינה מלאכותית מואצת לחוקרי מדעי החיים ב - Claude Science",
       "originalTitle": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
       "headline": "שבב חדש מבטיח ביצועים מרשימים",
@@ -18,53 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "כיצד מחסנית תוכנת ההיקש של NVIDIA מפעילה את עלות האסימון הנמוכה ביותר",
-      "originalTitle": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "כיצד מחסנית תוכנת ההיקש של NVIDIA מפעילה את עלות האסימון הנמוכה ביותר. פריצת דרך בתחום החומרה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "איך Jaiveer Singh עוזר לרובוטים — ולמפתחים — לנוע מהר יותר",
-      "originalTitle": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך Jaiveer Singh עוזר לרובוטים — ולמפתחים — לנוע מהר יותר. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,17 +87,40 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 5,
+      "title": "בתוך Genebench - Pro",
+      "originalTitle": "Inside Genebench-Pro",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "בתוך Genebench - Pro. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/genebench-pro/case-studies",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "הכירו את GeneBench - Pro",
       "originalTitle": "Introducing GeneBench-Pro",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הכירו את GeneBench - Pro. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הכירו את GeneBench - Pro. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "אפידמיולוגיה של מזבלה מרכזית: תיקון באג בן 18",
-      "originalTitle": "Core dump epidemiology: fixing an 18-year-old bug",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "אפידמיולוגיה של מזבלה מרכזית: תיקון באג בן 18. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "קודקס משפר לי את הפרודוקטיביות &rlm;אני מספיק לריב עם הרבה יותר נהגים בכביש אני מקווה שבוע הבא לתת הזדמנות שנייה לקלוד קוד, כע כן, אני-קלוד-קוד… אני א...",
+      "title": "רוצים ש-Codex Desktop שלכם יהיה מיושר מימין לשמאל? עד שטיבו יתייחס אלינו, ממליץ לכם לנסות את הריפו הזה https://github.com/aviz85/codex-desktop-rtl-pat...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "קודקס משפר לי את הפרודוקטיביות &rlm;אני מספיק לריב עם הרבה יותר נהגים בכביש אני מקווה שבוע הבא לתת הזדמנות שנייה לקלוד קוד, כע כן, אני-קלוד-קוד… אני א...",
+      "summary": "רוצים ש-Codex Desktop שלכם יהיה מיושר מימין לשמאל? עד שטיבו יתייחס אלינו, ממליץ לכם לנסות את הריפו הזה https://github.com/aviz85/codex-desktop-rtl-pat...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "הספקתי לשכוח כמה החוויה עם קלוד קוד לא נעימה... (ואני אפילו לא מדבר על המגבלה שהגעתי אליה תוך 3 דקות) ברמה שאין לי כוח לפרט אפילו, קודקס פשוט כיפי, וט...",
+      "title": "😺 חברת OpenAI משחררת מודל משופר של ChatGPT 5.5 Cyber וטוענת שהוא עוקף את מודל מית&#39;וס של אנת&#39;רופיק החברה מציינת כי היא גם מרחיבה את התכנית של ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הספקתי לשכוח כמה החוויה עם קלוד קוד לא נעימה... (ואני אפילו לא מדבר על המגבלה שהגעתי אליה תוך 3 דקות) ברמה שאין לי כוח לפרט אפילו, קודקס פשוט כיפי, וט...",
+      "summary": "😺 חברת OpenAI משחררת מודל משופר של ChatGPT 5.5 Cyber וטוענת שהוא עוקף את מודל מית&#39;וס של אנת&#39;רופיק החברה מציינת כי היא גם מרחיבה את התכנית של ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 168 ימים",
+      "timeAgo": "לפני 169 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 308 ימים",
+      "timeAgo": "לפני 309 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-01T11:17:02.162Z",
+  "lastUpdated": "2026-07-02T10:28:27.993Z",
   "sources": {
     "official": [
       "OpenAI Blog",
