@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "נסיעה מהנה עד יולי עם 12 משחקים שמגיעים ל - GeForce עכשיו",
+      "originalTitle": "Joyride Through July With 12 Games Coming to GeForce NOW",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "נסיעה מהנה עד יולי עם 12 משחקים שמגיעים ל - GeForce עכשיו. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "NVIDIA פותח את מחשב הבינה המלאכותית בקנה מידה גדול, מזמין את שותפי ההון להפעיל את בניית תשתית הבינה המלאכותית",
       "originalTitle": "NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "NVIDIA ושותפים בונים באמריקה, עבור אמריקה",
       "originalTitle": "NVIDIA and Partners Build in America, for America",
       "headline": "התקדמות משמעותית בתחום",
@@ -37,29 +60,6 @@
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "ערכת הכלים הסוכן NVIDIA BioNeMo מביאה בינה מלאכותית מואצת לחוקרי מדעי החיים ב - Claude Science",
-      "originalTitle": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-      "headline": "שבב חדש מבטיח ביצועים מרשימים",
-      "summary": "ערכת הכלים הסוכן NVIDIA BioNeMo מביאה בינה מלאכותית מואצת לחוקרי מדעי החיים ב - Claude Science. שבב חדש מבטיח ביצועים מרשימים",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "בתוך Genebench - Pro",
       "originalTitle": "Inside Genebench-Pro",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "בתוך Genebench - Pro. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בתוך Genebench - Pro. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "הכירו את GeneBench - Pro",
       "originalTitle": "Introducing GeneBench-Pro",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את GeneBench - Pro. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את GeneBench - Pro. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "רוצים ש-Codex Desktop שלכם יהיה מיושר מימין לשמאל? עד שטיבו יתייחס אלינו, ממליץ לכם לנסות את הריפו הזה https://github.com/aviz85/codex-desktop-rtl-pat...",
+      "title": "כבר לא צריך להשאיר את המקבוק פתוח 😃 תודה לאמירים הפצה שהביאו לי אותו עד הבית תוך שעתיים מההזמנה&#33; בזמן שבכל החנויות שבדקתי זה לא היה במלאי. #לא_ממ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רוצים ש-Codex Desktop שלכם יהיה מיושר מימין לשמאל? עד שטיבו יתייחס אלינו, ממליץ לכם לנסות את הריפו הזה https://github.com/aviz85/codex-desktop-rtl-pat...",
+      "summary": "כבר לא צריך להשאיר את המקבוק פתוח 😃 תודה לאמירים הפצה שהביאו לי אותו עד הבית תוך שעתיים מההזמנה&#33; בזמן שבכל החנויות שבדקתי זה לא היה במלאי. #לא_ממ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "😺 חברת OpenAI משחררת מודל משופר של ChatGPT 5.5 Cyber וטוענת שהוא עוקף את מודל מית&#39;וס של אנת&#39;רופיק החברה מציינת כי היא גם מרחיבה את התכנית של ...",
+      "title": "אני מריץ סוכני משנה בקודקס רגע לפני האיפוס: בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "😺 חברת OpenAI משחררת מודל משופר של ChatGPT 5.5 Cyber וטוענת שהוא עוקף את מודל מית&#39;וס של אנת&#39;רופיק החברה מציינת כי היא גם מרחיבה את התכנית של ...",
+      "summary": "אני מריץ סוכני משנה בקודקס רגע לפני האיפוס: בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 169 ימים",
+      "timeAgo": "לפני 170 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 309 ימים",
+      "timeAgo": "לפני 310 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-02T10:28:27.993Z",
+  "lastUpdated": "2026-07-03T10:26:14.884Z",
   "sources": {
     "official": [
       "OpenAI Blog",
