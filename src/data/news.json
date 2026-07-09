@@ -2,6 +2,98 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA Nemotron משיגה ביצועי Benchmark - Leading עם LangChain רתמת סוכנים עמוקים",
+      "originalTitle": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA Nemotron משיגה ביצועי Benchmark - Leading עם LangChain רתמת סוכנים עמוקים. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "הגישה שלנו לשותפויות ממשלתיות וביטחוניות",
+      "originalTitle": "Our approach to government and national security partnerships",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הגישה שלנו לשותפויות ממשלתיות וביטחוניות. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/government-national-security-partnerships",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "הפרדת אות מרעש בהערכות קידוד",
+      "originalTitle": "Separating signal from noise in coding evaluations",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "הפרדת אות מרעש בהערכות קידוד. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "סיוע למחנכים בגילאי K -12 לבנות מיומנויות AI מעשיות",
+      "originalTitle": "Helping K–12 educators build practical AI skills",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "סיוע למחנכים בגילאי K -12 לבנות מיומנויות AI מעשיות. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "חדשני AI מאמצים את NVIDIA VERA — למה מקס מעבד חד - הברגה בענייני קנה מידה",
       "originalTitle": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
       "headline": "התקדמות משמעותית בתחום",
@@ -18,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "NVIDIA ו - Hugging Face מביאים מודלים ומסגרות חדשים ל - LeRobot עבור קהילת הרובוטיקה הפתוחה",
       "originalTitle": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA ו - Hugging Face מביאים מודלים ומסגרות חדשים ל - LeRobot עבור קהילת הרובוטיקה הפתוחה. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA ו - Hugging Face מביאים מודלים ומסגרות חדשים ל - LeRobot עבור קהילת הרובוטיקה הפתוחה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,108 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "Australian Payments Plus מתקדם מהר יותר עם ChatGPT ו - Codex",
-      "originalTitle": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Australian Payments Plus מתקדם מהר יותר עם ChatGPT ו - Codex. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/australian-payments-plus",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "MUFG שואפת להפוך ל - AI - native עם OpenAI",
-      "originalTitle": "MUFG aims to become AI-native with OpenAI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "MUFG שואפת להפוך ל - AI - native עם OpenAI. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/mufg",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "כיצד מודלים פתוחים מניעים את מחקר הבינה המלאכותית",
-      "originalTitle": "How Open Models Are Driving AI Research",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד מודלים פתוחים מניעים את מחקר הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "כיצד התרחב האימוץ של ChatGPT",
-      "originalTitle": "How ChatGPT adoption has expanded",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד התרחב האימוץ של ChatGPT. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 8 ימים",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "מעניין&#33; Base44 הכריזה על מודל שפה עצמאי. הם משחררים היום את Base 1, שאומן (בין היתר) על עשרות מליוני אינטראקציות של משתמשים עם הפלטפורמה שלהם (מהל...",
+      "title": "תוכנת קלוד למחשב זמינה כעת גם בלינוקס. https://code.claude.com/docs/en/desktop-linux בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מעניין&#33; Base44 הכריזה על מודל שפה עצמאי. הם משחררים היום את Base 1, שאומן (בין היתר) על עשרות מליוני אינטראקציות של משתמשים עם הפלטפורמה שלהם (מהל...",
+      "summary": "תוכנת קלוד למחשב זמינה כעת גם בלינוקס. https://code.claude.com/docs/en/desktop-linux בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "מעניין&#33; Base44 הכריזה על מודל שפה עצמאי. הם משחררים היום את Base 1, שאומן (בין היתר) על עשרות מליוני אינטראקציות של משתמשים עם הפלטפורמה שלהם (מהל...",
+      "title": "אנתרופיק משחררת את קלוד סונט 5 שמתעלה על סונט 4.6, ומתקרב בביצועים לאופוס 4.8 רק במחיר זול יותר. https://www.anthropic.com/news/claude-sonnet-5 בינה מ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מעניין&#33; Base44 הכריזה על מודל שפה עצמאי. הם משחררים היום את Base 1, שאומן (בין היתר) על עשרות מליוני אינטראקציות של משתמשים עם הפלטפורמה שלהם (מהל...",
+      "summary": "אנתרופיק משחררת את קלוד סונט 5 שמתעלה על סונט 4.6, ומתקרב בביצועים לאופוס 4.8 רק במחיר זול יותר. https://www.anthropic.com/news/claude-sonnet-5 בינה מ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 175 ימים",
+      "timeAgo": "לפני 176 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 315 ימים",
+      "timeAgo": "לפני 316 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-08T10:07:06.508Z",
+  "lastUpdated": "2026-07-09T10:45:05.063Z",
   "sources": {
     "official": [
       "OpenAI Blog",
