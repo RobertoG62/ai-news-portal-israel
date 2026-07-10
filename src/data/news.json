@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "כיצד דויטשה טלקום מחווטת מחדש טלקומוניקציה עם AI",
+      "originalTitle": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד דויטשה טלקום מחווטת מחדש טלקומוניקציה עם AI. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/deutsche-telekom",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 3 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "GeForce מגביר עכשיו את החימום עם שרת חדש של GeForce RTX 5080 המופעל על ידי שרת טורונטו",
+      "originalTitle": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "GeForce מגביר עכשיו את החימום עם שרת חדש של GeForce RTX 5080 המופעל על ידי שרת טורונטו. חומרה חדשה תאיץ את עולם ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "GPT -5.6 הוא כעת הדגם המועדף ב - Microsoft 365 Copilot",
+      "originalTitle": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "GPT -5.6 הוא כעת הדגם המועדף ב - Microsoft 365 Copilot. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "GPT -5.6: אינטליגנציה גבולית שמתרחבת עם השאיפה שלך",
+      "originalTitle": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "GPT -5.6: אינטליגנציה גבולית שמתרחבת עם השאיפה שלך. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "NVIDIA Nemotron משיגה ביצועי Benchmark - Leading עם LangChain רתמת סוכנים עמוקים",
       "originalTitle": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA Nemotron משיגה ביצועי Benchmark - Leading עם LangChain רתמת סוכנים עמוקים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA Nemotron משיגה ביצועי Benchmark - Leading עם LangChain רתמת סוכנים עמוקים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,82 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "הגישה שלנו לשותפויות ממשלתיות וביטחוניות",
-      "originalTitle": "Our approach to government and national security partnerships",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הגישה שלנו לשותפויות ממשלתיות וביטחוניות. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/government-national-security-partnerships",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "הפרדת אות מרעש בהערכות קידוד",
-      "originalTitle": "Separating signal from noise in coding evaluations",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "הפרדת אות מרעש בהערכות קידוד. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "סיוע למחנכים בגילאי K -12 לבנות מיומנויות AI מעשיות",
-      "originalTitle": "Helping K–12 educators build practical AI skills",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "סיוע למחנכים בגילאי K -12 לבנות מיומנויות AI מעשיות. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "חדשני AI מאמצים את NVIDIA VERA — למה מקס מעבד חד - הברגה בענייני קנה מידה",
       "originalTitle": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
       "headline": "התקדמות משמעותית בתחום",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA ו - Hugging Face מביאים מודלים ומסגרות חדשים ל - LeRobot עבור קהילת הרובוטיקה הפתוחה",
-      "originalTitle": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA ו - Hugging Face מביאים מודלים ומסגרות חדשים ל - LeRobot עבור קהילת הרובוטיקה הפתוחה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "תוכנת קלוד למחשב זמינה כעת גם בלינוקס. https://code.claude.com/docs/en/desktop-linux בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "המודלים ה׳מסוכנים׳ של אנתרופיק חוזרים&#33; הממשל הסכים לאנתרופיק להחזיר את מיתוס ופייבל למשתמשים - ביום יומיים הקרובים הוא כבר יהיה זמין בחזרה, מה השת...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "תוכנת קלוד למחשב זמינה כעת גם בלינוקס. https://code.claude.com/docs/en/desktop-linux בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "המודלים ה׳מסוכנים׳ של אנתרופיק חוזרים&#33; הממשל הסכים לאנתרופיק להחזיר את מיתוס ופייבל למשתמשים - ביום יומיים הקרובים הוא כבר יהיה זמין בחזרה, מה השת...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אנתרופיק משחררת את קלוד סונט 5 שמתעלה על סונט 4.6, ומתקרב בביצועים לאופוס 4.8 רק במחיר זול יותר. https://www.anthropic.com/news/claude-sonnet-5 בינה מ...",
+      "title": "כל החדשות והעדכונים האחרונים מעולם אומנויות לחימה. לא, רגע... עדכונים בטכנולוגיה — בארץ ובעולם. הצטרפו עכשיו וגלו מה חדש https://t.me/hitech_news_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אנתרופיק משחררת את קלוד סונט 5 שמתעלה על סונט 4.6, ומתקרב בביצועים לאופוס 4.8 רק במחיר זול יותר. https://www.anthropic.com/news/claude-sonnet-5 בינה מ...",
+      "summary": "כל החדשות והעדכונים האחרונים מעולם אומנויות לחימה. לא, רגע... עדכונים בטכנולוגיה — בארץ ובעולם. הצטרפו עכשיו וגלו מה חדש https://t.me/hitech_news_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 176 ימים",
+      "timeAgo": "לפני 177 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 316 ימים",
+      "timeAgo": "לפני 317 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-09T10:45:05.063Z",
+  "lastUpdated": "2026-07-10T10:44:00.886Z",
   "sources": {
     "official": [
       "OpenAI Blog",
