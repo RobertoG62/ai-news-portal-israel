@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA ורה רובין ממקסמת את האינטליגנציה לכל דולר עבור עומסי עבודה לאחר אימון — מדד מפתח עבור AI Agentic",
+      "originalTitle": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA ורה רובין ממקסמת את האינטליגנציה לכל דולר עבור עומסי עבודה לאחר אימון — מדד מפתח עבור AI Agentic. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כרטיס ניקוד לגיל הבינה המלאכותית",
+      "originalTitle": "A scorecard for the AI age",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כרטיס ניקוד לגיל הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה",
       "originalTitle": "Why teens deserve access to safe AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "חדד את החרב, דלג על ההורדות — ‘Onimusha: Way of the Sword’ מגיע ל - GeForce עכשיו",
       "originalTitle": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "חדד את החרב, דלג על ההורדות — ‘Onimusha: Way of the Sword’ מגיע ל - GeForce עכשיו. עדכון משמעותי שכדאי להכיר",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "חדד את החרב, דלג על ההורדות — ‘Onimusha: Way of the Sword’ מגיע ל - GeForce עכשיו. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "ממשלת יפן, מובילים תעשייתיים ו - NVIDIA משיקים את תשתית הבינה המלאכותית הלאומית הראשונה בעולם",
       "originalTitle": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "ממשלת יפן, מובילים תעשייתיים ו - NVIDIA משיקים את תשתית הבינה המלאכותית הלאומית הראשונה בעולם. פריצת דרך בתחום החומרה",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "ממשלת יפן, מובילים תעשייתיים ו - NVIDIA משיקים את תשתית הבינה המלאכותית הלאומית הראשונה בעולם. חומרה חדשה תאיץ את עולם ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,40 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "מנהיגי הרובוטיקה והייצור של יפן בונים על קוסמוס NVIDIA כדי לקדם את גבולות הבינה המלאכותית הפיזית",
-      "originalTitle": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "מנהיגי הרובוטיקה והייצור של יפן בונים על קוסמוס NVIDIA כדי לקדם את גבולות הבינה המלאכותית הפיזית. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "איך Cars24 מדרג שיחות ובונה מהר יותר עם OpenAI",
       "originalTitle": "How Cars24 scales conversations and builds faster with OpenAI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך Cars24 מדרג שיחות ובונה מהר יותר עם OpenAI. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך Cars24 מדרג שיחות ובונה מהר יותר עם OpenAI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,30 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "ארה\"ב מקדמת את בטיחות הבינה המלאכותית באמצעות פעולות מדינתיות ופדרליות",
-      "originalTitle": "The US is advancing AI safety through state and federal action",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ארה\"ב מקדמת את בטיחות הבינה המלאכותית באמצעות פעולות מדינתיות ופדרליות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 184 ימים",
+      "timeAgo": "לפני 185 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 324 ימים",
+      "timeAgo": "לפני 325 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-17T09:46:52.519Z",
+  "lastUpdated": "2026-07-18T09:15:13.777Z",
   "sources": {
     "official": [
       "OpenAI Blog",
