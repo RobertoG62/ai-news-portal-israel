@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה",
       "originalTitle": "Why teens deserve access to safe AI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "איך Cars24 מדרג שיחות ובונה מהר יותר עם OpenAI",
       "originalTitle": "How Cars24 scales conversations and builds faster with OpenAI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך Cars24 מדרג שיחות ובונה מהר יותר עם OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך Cars24 מדרג שיחות ובונה מהר יותר עם OpenAI. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 186 ימים",
+      "timeAgo": "לפני 187 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 326 ימים",
+      "timeAgo": "לפני 327 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-19T09:43:58.270Z",
+  "lastUpdated": "2026-07-20T10:40:34.491Z",
   "sources": {
     "official": [
       "OpenAI Blog",
