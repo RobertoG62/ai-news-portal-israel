@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "ב - SIGGRAPH, NVIDIA מקדמת גרפיקה וסימולציה עם בינה מלאכותית פיזית וסוכנת",
-      "originalTitle": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "title": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI",
+      "originalTitle": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
       "headline": "התקדמות משמעותית בתחום",
-      "summary": "ב - SIGGRAPH, NVIDIA מקדמת גרפיקה וסימולציה עם בינה מלאכותית פיזית וסוכנת. התקדמות משמעותית בתחום",
+      "summary": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,30 +13,76 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני 11 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "ערכת הכלים של הסוכן NVIDIA מתרחבת עם ספריות Omniverse חדשות, ומציבה סוכני AI לעבודה בסימולציה של בניין - עולמות מוכנים",
-      "originalTitle": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
+      "title": "הכירו את תוכנית ChatGPT לעסקים קטנים",
+      "originalTitle": "Introducing the ChatGPT for small business program",
       "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "ערכת הכלים של הסוכן NVIDIA מתרחבת עם ספריות Omniverse חדשות, ומציבה סוכני AI לעבודה בסימולציה של בניין - עולמות מוכנים. השקה חדשה שתשנה את התעשייה",
+      "summary": "הכירו את תוכנית ChatGPT לעסקים קטנים. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
       "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA VERA RUBIN ביצועי נהיגה בוואט, עלות אסימון הנמוכה ביותר עבור שותפים ברחבי העולם",
+      "originalTitle": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA VERA RUBIN ביצועי נהיגה בוואט, עלות אסימון הנמוכה ביותר עבור שותפים ברחבי העולם. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "נבנה עבור ורה רובין, NVIDIA ספקטרום -6 מגיע למפעלי Gigascale AI",
+      "originalTitle": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "נבנה עבור ורה רובין, NVIDIA ספקטרום -6 מגיע למפעלי Gigascale AI. פריצת דרך בתחום החומרה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -47,42 +93,19 @@
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "בריסטול מאיירס סקוויב בונה את מפעל ה - AI המתקדם ביותר בתעשייה ב - NVIDIA ורה רובין",
-      "originalTitle": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "בריסטול מאיירס סקוויב בונה את מפעל ה - AI המתקדם ביותר בתעשייה ב - NVIDIA ורה רובין. פיתוח חדש פותח אפשרויות",
+      "id": 5,
+      "title": "שותף OpenAI ו - Hugging Face לטיפול בתקרית אבטחה במהלך הערכת המודל",
+      "originalTitle": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "שותף OpenAI ו - Hugging Face לטיפול בתקרית אבטחה במהלך הערכת המודל. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "בטיחות ויישור קו בעידן של דגמים בעלי אופק ארוך",
-      "originalTitle": "Safety and alignment in an era of long-horizon models",
-      "headline": "השפעה על שוק ההון",
-      "summary": "בטיחות ויישור קו בעידן של דגמים בעלי אופק ארוך. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
+      "category": "מימון",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -93,34 +116,11 @@
       "isHebrew": false
     },
     {
-      "id": 5,
-      "title": "כרטיס ניקוד לגיל הבינה המלאכותית",
-      "originalTitle": "A scorecard for the AI age",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כרטיס ניקוד לגיל הבינה המלאכותית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
       "id": 6,
-      "title": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה",
-      "originalTitle": "Why teens deserve access to safe AI",
+      "title": "דיוויד ולז ורובין וינס מצטרפים לדירקטוריונים של OpenAI Foundation ו - OpenAI Group PBC",
+      "originalTitle": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "למה לבני נוער מגיעה גישה לבינה מלאכותית בטוחה. פיתוח חדש פותח אפשרויות",
+      "summary": "דיוויד ולז ורובין וינס מצטרפים לדירקטוריונים של OpenAI Foundation ו - OpenAI Group PBC. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -128,21 +128,21 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "sourceUrl": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "כן בטח 😂 צוקרברג לפחות תן לי את האופציה להעיף את הדבר הזה מהווצאפ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "קצת חדשות מאנתרופיק: הם מרחיבים את הגישה לפייבל 5 בתוך המנוי הקיים בעוד 5 ימים עד 12 ביולי (היה אמור להסתיים היום). בנוסף, קלוד קו-וורק מגיע גם לנייד ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כן בטח 😂 צוקרברג לפחות תן לי את האופציה להעיף את הדבר הזה מהווצאפ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "קצת חדשות מאנתרופיק: הם מרחיבים את הגישה לפייבל 5 בתוך המנוי הקיים בעוד 5 ימים עד 12 ביולי (היה אמור להסתיים היום). בנוסף, קלוד קו-וורק מגיע גם לנייד ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "רץ ברשת בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "🎉 🎉 🎉 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רץ ברשת בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "🎉 🎉 🎉 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 188 ימים",
+      "timeAgo": "לפני 189 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 328 ימים",
+      "timeAgo": "לפני 329 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-21T10:14:46.525Z",
+  "lastUpdated": "2026-07-22T10:14:24.118Z",
   "sources": {
     "official": [
       "OpenAI Blog",
