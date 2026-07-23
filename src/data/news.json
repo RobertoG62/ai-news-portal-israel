@@ -2,10 +2,125 @@
   "news": [
     {
       "id": 1,
+      "title": "מחשב העל NVIDIA AI מגיע באופן מקוון בבית הספר הימי לתארים מתקדמים",
+      "originalTitle": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מחשב העל NVIDIA AI מגיע באופן מקוון בבית הספר הימי לתארים מתקדמים. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA מקורות פתוחים מסגרת סימולציה ראשונה לפיזיקה רפואית מואצת GPU",
+      "originalTitle": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "NVIDIA מקורות פתוחים מסגרת סימולציה ראשונה לפיזיקה רפואית מואצת GPU. פריצת דרך בתחום החומרה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם",
+      "originalTitle": "Building AI infrastructure with the Effingham County community",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם",
+      "originalTitle": "How news organizations are using AI to advance their vital missions",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "קידום העידן הבא של המדע הלאומי",
+      "originalTitle": "Advancing the next era of national science",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "קידום העידן הבא של המדע הלאומי. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI",
       "originalTitle": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,121 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 11 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "הכירו את תוכנית ChatGPT לעסקים קטנים",
-      "originalTitle": "Introducing the ChatGPT for small business program",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "הכירו את תוכנית ChatGPT לעסקים קטנים. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "NVIDIA VERA RUBIN ביצועי נהיגה בוואט, עלות אסימון הנמוכה ביותר עבור שותפים ברחבי העולם",
-      "originalTitle": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA VERA RUBIN ביצועי נהיגה בוואט, עלות אסימון הנמוכה ביותר עבור שותפים ברחבי העולם. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "נבנה עבור ורה רובין, NVIDIA ספקטרום -6 מגיע למפעלי Gigascale AI",
-      "originalTitle": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "נבנה עבור ורה רובין, NVIDIA ספקטרום -6 מגיע למפעלי Gigascale AI. פריצת דרך בתחום החומרה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "שותף OpenAI ו - Hugging Face לטיפול בתקרית אבטחה במהלך הערכת המודל",
-      "originalTitle": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "שותף OpenAI ו - Hugging Face לטיפול בתקרית אבטחה במהלך הערכת המודל. השקעה ענקית מעידה על פוטנציאל",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "דיוויד ולז ורובין וינס מצטרפים לדירקטוריונים של OpenAI Foundation ו - OpenAI Group PBC",
-      "originalTitle": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "דיוויד ולז ורובין וינס מצטרפים לדירקטוריונים של OpenAI Foundation ו - OpenAI Group PBC. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,28 +140,6 @@
     },
     {
       "id": 7,
-      "title": "קצת חדשות מאנתרופיק: הם מרחיבים את הגישה לפייבל 5 בתוך המנוי הקיים בעוד 5 ימים עד 12 ביולי (היה אמור להסתיים היום). בנוסף, קלוד קו-וורק מגיע גם לנייד ...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "קצת חדשות מאנתרופיק: הם מרחיבים את הגישה לפייבל 5 בתוך המנוי הקיים בעוד 5 ימים עד 12 ביולי (היה אמור להסתיים היום). בנוסף, קלוד קו-וורק מגיע גם לנייד ...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "🎉 🎉 🎉 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "🎉 🎉 🎉 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "גם גרוק 4.5 יושק מחר. הוא יהיה (לטענת מאסק) ברמה של אופוס רק יותר זול, מהיר, ויעיל בשימוש בטוקנים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "גם גרוק 4.5 יושק מחר. הוא יהיה (לטענת מאסק) ברמה של אופוס רק יותר זול, מהיר, ויעיל בשימוש בטוקנים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 189 ימים",
+      "timeAgo": "לפני 190 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 329 ימים",
+      "timeAgo": "לפני 330 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-22T10:14:24.118Z",
+  "lastUpdated": "2026-07-23T10:11:08.991Z",
   "sources": {
     "official": [
       "OpenAI Blog",
