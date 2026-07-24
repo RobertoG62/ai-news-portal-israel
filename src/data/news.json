@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "מחשב העל NVIDIA AI מגיע באופן מקוון בבית הספר הימי לתארים מתקדמים",
-      "originalTitle": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "title": "בפסגת AI, דרום קוריאה מתארת את עתיד הבינה המלאכותית שלה עם NVIDIA ושותפים",
+      "originalTitle": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מחשב העל NVIDIA AI מגיע באופן מקוון בבית הספר הימי לתארים מתקדמים. פיתוח חדש פותח אפשרויות",
+      "summary": "בפסגת AI, דרום קוריאה מתארת את עתיד הבינה המלאכותית שלה עם NVIDIA ושותפים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,30 +13,53 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
+      "timeAgo": "לפני 5 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "NVIDIA מקורות פתוחים מסגרת סימולציה ראשונה לפיזיקה רפואית מואצת GPU",
-      "originalTitle": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "NVIDIA מקורות פתוחים מסגרת סימולציה ראשונה לפיזיקה רפואית מואצת GPU. פריצת דרך בתחום החומרה",
+      "title": "NVIDIA ו - KAIST משיקות מעבדה משותפת לחקר הבינה המלאכותית כדי להאיץ את החדשנות בתחום הבינה המלאכותית בקוריאה",
+      "originalTitle": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA ו - KAIST משיקות מעבדה משותפת לחקר הבינה המלאכותית כדי להאיץ את החדשנות בתחום הבינה המלאכותית בקוריאה. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "חומרה",
+      "category": "מוצר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 11 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "GeForce מפליג עכשיו עם ‘נתיב הגלות: קללת כל הלהבות’ ומצטרף לענן",
+      "originalTitle": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "GeForce מפליג עכשיו עם ‘נתיב הגלות: קללת כל הלהבות’ ומצטרף לענן. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -47,7 +70,30 @@
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
+      "title": "השקת Health ב - ChatGPT",
+      "originalTitle": "Launching Health in ChatGPT",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "השקת Health ב - ChatGPT. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/health-in-chatgpt",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם",
       "originalTitle": "Building AI infrastructure with the Effingham County community",
       "headline": "משקיעים מאמינים בטכנולוגיה",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם",
       "originalTitle": "How news organizations are using AI to advance their vital missions",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "קידום העידן הבא של המדע הלאומי",
-      "originalTitle": "Advancing the next era of national science",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קידום העידן הבא של המדע הלאומי. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI",
-      "originalTitle": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "נבנה בפורט וורת ': Wistron פותחת מפעל ייצור מתקדם לייצור מערכות NVIDIA AI. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "🎉 🎉 🎉 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "מעניין&#33; OpenAI אומרת שהם בדקו את הבנצמארק הפופולארי SWE-Bench Pro ומצאו שהוא כבר לא כל כך אמין, ולכן הם חוזרים בהם מההמלצה להשתמש בו ככלי למדידת ה...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "🎉 🎉 🎉 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "מעניין&#33; OpenAI אומרת שהם בדקו את הבנצמארק הפופולארי SWE-Bench Pro ומצאו שהוא כבר לא כל כך אמין, ולכן הם חוזרים בהם מההמלצה להשתמש בו ככלי למדידת ה...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "גם גרוק 4.5 יושק מחר. הוא יהיה (לטענת מאסק) ברמה של אופוס רק יותר זול, מהיר, ויעיל בשימוש בטוקנים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "בשעה טובה&#33; משפחת מודלי GPT 5.6 מתחילה להתגלגל למשתמשים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גם גרוק 4.5 יושק מחר. הוא יהיה (לטענת מאסק) ברמה של אופוס רק יותר זול, מהיר, ויעיל בשימוש בטוקנים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "בשעה טובה&#33; משפחת מודלי GPT 5.6 מתחילה להתגלגל למשתמשים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 190 ימים",
+      "timeAgo": "לפני 191 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 330 ימים",
+      "timeAgo": "לפני 331 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-23T10:11:08.991Z",
+  "lastUpdated": "2026-07-24T10:07:29.137Z",
   "sources": {
     "official": [
       "OpenAI Blog",
