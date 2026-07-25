@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "NAVER, NVIDIA ו - Brookfield מרחיבים את בניית תשתיות ה - AI הלאומיות של קוריאה",
+      "originalTitle": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "NAVER, NVIDIA ו - Brookfield מרחיבים את בניית תשתיות ה - AI הלאומיות של קוריאה. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 4 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "קבוצת SK ו - NVIDIA מרחיבות את השותפות האסטרטגית בין מפעלי AI וזיכרון הדור הבא",
+      "originalTitle": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "קבוצת SK ו - NVIDIA מרחיבות את השותפות האסטרטגית בין מפעלי AI וזיכרון הדור הבא. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 4 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "בפסגת AI, דרום קוריאה מתארת את עתיד הבינה המלאכותית שלה עם NVIDIA ושותפים",
       "originalTitle": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "בפסגת AI, דרום קוריאה מתארת את עתיד הבינה המלאכותית שלה עם NVIDIA ושותפים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "בפסגת AI, דרום קוריאה מתארת את עתיד הבינה המלאכותית שלה עם NVIDIA ושותפים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,53 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "NVIDIA ו - KAIST משיקות מעבדה משותפת לחקר הבינה המלאכותית כדי להאיץ את החדשנות בתחום הבינה המלאכותית בקוריאה",
-      "originalTitle": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA ו - KAIST משיקות מעבדה משותפת לחקר הבינה המלאכותית כדי להאיץ את החדשנות בתחום הבינה המלאכותית בקוריאה. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 11 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "GeForce מפליג עכשיו עם ‘נתיב הגלות: קללת כל הלהבות’ ומצטרף לענן",
-      "originalTitle": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "GeForce מפליג עכשיו עם ‘נתיב הגלות: קללת כל הלהבות’ ומצטרף לענן. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "השקת Health ב - ChatGPT",
       "originalTitle": "Launching Health in ChatGPT",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "השקת Health ב - ChatGPT. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "השקת Health ב - ChatGPT. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם",
       "originalTitle": "Building AI infrastructure with the Effingham County community",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם",
       "originalTitle": "How news organizations are using AI to advance their vital missions",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד ארגוני חדשות משתמשים בבינה מלאכותית כדי לקדם את המשימות החיוניות שלהם. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 191 ימים",
+      "timeAgo": "לפני 192 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 331 ימים",
+      "timeAgo": "לפני 332 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-24T10:07:29.137Z",
+  "lastUpdated": "2026-07-25T09:27:24.840Z",
   "sources": {
     "official": [
       "OpenAI Blog",
