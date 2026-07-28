@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "חברת Sutskever's Safe Superintelligence Inc. ו - NVIDIA מודיעות על שותפות אסטרטגית ארוכת טווח",
+      "originalTitle": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "חברת Sutskever's Safe Superintelligence Inc. ו - NVIDIA מודיעות על שותפות אסטרטגית ארוכת טווח. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של",
       "originalTitle": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "כיצד הבינה המלאכותית מרחיבה את מה שאנשים עושים בעבודה",
       "originalTitle": "How AI is expanding what people do at work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד הבינה המלאכותית מרחיבה את מה שאנשים עושים בעבודה. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד הבינה המלאכותית מרחיבה את מה שאנשים עושים בעבודה. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 7 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "NVIDIA רתמות מעבד ורה כדי להאיץ את העיצוב של מעבדים ו - GPU של הדור הבא",
       "originalTitle": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "NVIDIA רתמות מעבד ורה כדי להאיץ את העיצוב של מעבדים ו - GPU של הדור הבא. חומרה חדשה תאיץ את עולם ה-AI",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "NVIDIA רתמות מעבד ורה כדי להאיץ את העיצוב של מעבדים ו - GPU של הדור הבא. שבב חדש מבטיח ביצועים מרשימים",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,30 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 10 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "NVIDIA מרחיבה את ערכת הכלים של הסוכן NVIDIA עם NVIDIA PhysicsNeMo ו - CUDA - X Libraries כדי לשנות את האופן שבו מהנדסי העולם, מעצבים ובונים",
-      "originalTitle": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA מרחיבה את ערכת הכלים של הסוכן NVIDIA עם NVIDIA PhysicsNeMo ו - CUDA - X Libraries כדי לשנות את האופן שבו מהנדסי העולם, מעצבים ובונים. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 10 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם",
       "originalTitle": "Building AI infrastructure with the Effingham County community",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "בשעה טובה&#33; משפחת מודלי GPT 5.6 מתחילה להתגלגל למשתמשים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "גם קלוד פייבל 5 ממשיך להיות זמין בתוך המנוי לעוד שבוע נוסף… הם מפחדים? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בשעה טובה&#33; משפחת מודלי GPT 5.6 מתחילה להתגלגל למשתמשים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "גם קלוד פייבל 5 ממשיך להיות זמין בתוך המנוי לעוד שבוע נוסף… הם מפחדים? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "איפוס מגבלות בשעה האחרונה גם בקלוד וגם בקודקס. תהנו.",
+      "title": "רוצים 100&#036; בקרדיטים לקודקס? כל מה שאתם צריכים לעשות זה לצייץ למה אתם אוהבים או מה עשיתם עם GPT 5.6 ולהגיש בקשה. 10 אלף הראשונים מקבלים 100&#036; ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איפוס מגבלות בשעה האחרונה גם בקלוד וגם בקודקס. תהנו.",
+      "summary": "רוצים 100&#036; בקרדיטים לקודקס? כל מה שאתם צריכים לעשות זה לצייץ למה אתם אוהבים או מה עשיתם עם GPT 5.6 ולהגיש בקשה. 10 אלף הראשונים מקבלים 100&#036; ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 194 ימים",
+      "timeAgo": "לפני 195 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 334 ימים",
+      "timeAgo": "לפני 335 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-27T11:09:46.757Z",
+  "lastUpdated": "2026-07-28T10:23:49.255Z",
   "sources": {
     "official": [
       "OpenAI Blog",
