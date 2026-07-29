@@ -2,6 +2,52 @@
   "news": [
     {
       "id": 1,
+      "title": "מחשוב מדעי בעידן הבינה המלאכותית הסוכנת",
+      "originalTitle": "Scientific computing in the age of agentic AI",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מחשוב מדעי בעידן הבינה המלאכותית הסוכנת. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון",
+      "originalTitle": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "חברת Sutskever's Safe Superintelligence Inc. ו - NVIDIA מודיעות על שותפות אסטרטגית ארוכת טווח",
       "originalTitle": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של",
       "originalTitle": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "כיצד הבינה המלאכותית מרחיבה את מה שאנשים עושים בעבודה",
       "originalTitle": "How AI is expanding what people do at work",
       "headline": "התקדמות משמעותית בתחום",
@@ -64,36 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "NVIDIA רתמות מעבד ורה כדי להאיץ את העיצוב של מעבדים ו - GPU של הדור הבא",
-      "originalTitle": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-      "headline": "שבב חדש מבטיח ביצועים מרשימים",
-      "summary": "NVIDIA רתמות מעבד ורה כדי להאיץ את העיצוב של מעבדים ו - GPU של הדור הבא. שבב חדש מבטיח ביצועים מרשימים",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "השקת Health ב - ChatGPT",
       "originalTitle": "Launching Health in ChatGPT",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -110,30 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם",
-      "originalTitle": "Building AI infrastructure with the Effingham County community",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "בניית תשתית בינה מלאכותית עם קהילת מחוז אפינגהאם. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 195 ימים",
+      "timeAgo": "לפני 196 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 335 ימים",
+      "timeAgo": "לפני 336 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-28T10:23:49.255Z",
+  "lastUpdated": "2026-07-29T10:29:41.138Z",
   "sources": {
     "official": [
       "OpenAI Blog",
