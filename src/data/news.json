@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
-      "title": "מחשוב מדעי בעידן הבינה המלאכותית הסוכנת",
-      "originalTitle": "Scientific computing in the age of agentic AI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחשוב מדעי בעידן הבינה המלאכותית הסוכנת. התקדמות משמעותית בתחום",
+      "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני",
+      "originalTitle": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כיצד הפעלת שתי הגדרות שילשה את הציונים שלנו במבחן ARC - AGI -3",
+      "originalTitle": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד הפעלת שתי הגדרות שילשה את הציונים שלנו במבחן ARC - AGI -3. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +36,68 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+      "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 17 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
+      "title": "האצת הגילוי המדעי עם ChatGPT לחוקרים אקדמיים",
+      "originalTitle": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "האצת הגילוי המדעי עם ChatGPT לחוקרים אקדמיים. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "כיצד GPT -5.6 ממזג בינה גבולית עם יעילות גבולית",
+      "originalTitle": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כיצד GPT -5.6 ממזג בינה גבולית עם יעילות גבולית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון",
       "originalTitle": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "חברת Sutskever's Safe Superintelligence Inc. ו - NVIDIA מודיעות על שותפות אסטרטגית ארוכת טווח",
       "originalTitle": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -64,85 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של",
-      "originalTitle": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מובילי התעשייה מתאחדים בברית הבינה המלאכותית המאובטחת הפתוחה לבטיחות ואבטחה של. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "כיצד הבינה המלאכותית מרחיבה את מה שאנשים עושים בעבודה",
-      "originalTitle": "How AI is expanding what people do at work",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד הבינה המלאכותית מרחיבה את מה שאנשים עושים בעבודה. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "השקת Health ב - ChatGPT",
-      "originalTitle": "Launching Health in ChatGPT",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "השקת Health ב - ChatGPT. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/health-in-chatgpt",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "גם קלוד פייבל 5 ממשיך להיות זמין בתוך המנוי לעוד שבוע נוסף… הם מפחדים? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "זמין עכשיו בחנות של OpenAI https://openai.com/supply/co-lab/work-louder/ מי שתכנן להזמין לי שיעשה את זה מהר לפני שיגמר.. בינה מלאכותית בטלגרם - t.me/A...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גם קלוד פייבל 5 ממשיך להיות זמין בתוך המנוי לעוד שבוע נוסף… הם מפחדים? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "זמין עכשיו בחנות של OpenAI https://openai.com/supply/co-lab/work-louder/ מי שתכנן להזמין לי שיעשה את זה מהר לפני שיגמר.. בינה מלאכותית בטלגרם - t.me/A...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "רוצים 100&#036; בקרדיטים לקודקס? כל מה שאתם צריכים לעשות זה לצייץ למה אתם אוהבים או מה עשיתם עם GPT 5.6 ולהגיש בקשה. 10 אלף הראשונים מקבלים 100&#036; ...",
+      "title": "איפוס מגבלות הבוקר בקלוד וקודקס תהנו",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רוצים 100&#036; בקרדיטים לקודקס? כל מה שאתם צריכים לעשות זה לצייץ למה אתם אוהבים או מה עשיתם עם GPT 5.6 ולהגיש בקשה. 10 אלף הראשונים מקבלים 100&#036; ...",
+      "summary": "איפוס מגבלות הבוקר בקלוד וקודקס תהנו",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 196 ימים",
+      "timeAgo": "לפני 197 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 336 ימים",
+      "timeAgo": "לפני 337 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-29T10:29:41.138Z",
+  "lastUpdated": "2026-07-30T10:12:15.031Z",
   "sources": {
     "official": [
       "OpenAI Blog",
