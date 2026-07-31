@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "קידום בינה מלאכותית אחראית ברחבי אירופה",
+      "originalTitle": "Advancing responsible AI across Europe",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "קידום בינה מלאכותית אחראית ברחבי אירופה. מגמות חדשות בשוק",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "Univé בונה כוח עבודה מוכן לבינה מלאכותית",
+      "originalTitle": "Univé builds an AI-ready workforce",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Univé בונה כוח עבודה מוכן לבינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/unive",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 3 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו",
+      "originalTitle": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "קידום חזית ביצועי המחיר עם GPT -5.6",
+      "originalTitle": "Advancing the price-performance frontier with GPT-5.6",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "קידום חזית ביצועי המחיר עם GPT -5.6. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני",
       "originalTitle": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,86 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "כיצד הפעלת שתי הגדרות שילשה את הציונים שלנו במבחן ARC - AGI -3",
-      "originalTitle": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד הפעלת שתי הגדרות שילשה את הציונים שלנו במבחן ARC - AGI -3. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "האצת הגילוי המדעי עם ChatGPT לחוקרים אקדמיים",
-      "originalTitle": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "האצת הגילוי המדעי עם ChatGPT לחוקרים אקדמיים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "כיצד GPT -5.6 ממזג בינה גבולית עם יעילות גבולית",
-      "originalTitle": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד GPT -5.6 ממזג בינה גבולית עם יעילות גבולית. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון",
       "originalTitle": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "חברת Sutskever's Safe Superintelligence Inc. ו - NVIDIA מודיעות על שותפות אסטרטגית ארוכת טווח",
-      "originalTitle": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "חברת Sutskever's Safe Superintelligence Inc. ו - NVIDIA מודיעות על שותפות אסטרטגית ארוכת טווח. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,28 +140,6 @@
     },
     {
       "id": 7,
-      "title": "זמין עכשיו בחנות של OpenAI https://openai.com/supply/co-lab/work-louder/ מי שתכנן להזמין לי שיעשה את זה מהר לפני שיגמר.. בינה מלאכותית בטלגרם - t.me/A...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זמין עכשיו בחנות של OpenAI https://openai.com/supply/co-lab/work-louder/ מי שתכנן להזמין לי שיעשה את זה מהר לפני שיגמר.. בינה מלאכותית בטלגרם - t.me/A...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "איפוס מגבלות הבוקר בקלוד וקודקס תהנו",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "איפוס מגבלות הבוקר בקלוד וקודקס תהנו",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "שבוע טוב קלוד פייבל ישאר כלול בתוכנית מקס (עד 50% מהמכסה השבועית) באופן קבוע. מנויי פרו - פייבל עובר לשימוש לפי קרדיטים (usage credits) החל מה-20 ביול...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "שבוע טוב קלוד פייבל ישאר כלול בתוכנית מקס (עד 50% מהמכסה השבועית) באופן קבוע. מנויי פרו - פייבל עובר לשימוש לפי קרדיטים (usage credits) החל מה-20 ביול...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 197 ימים",
+      "timeAgo": "לפני 198 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 337 ימים",
+      "timeAgo": "לפני 338 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-30T10:12:15.031Z",
+  "lastUpdated": "2026-07-31T10:28:20.424Z",
   "sources": {
     "official": [
       "OpenAI Blog",
