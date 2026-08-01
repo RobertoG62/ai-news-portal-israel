@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "עשר התקדמויות במתמטיקה ובמדעי המחשב התיאורטיים",
+      "originalTitle": "Ten advances in mathematics and theoretical computer science",
+      "headline": "השפעה על שוק ההון",
+      "summary": "עשר התקדמויות במתמטיקה ובמדעי המחשב התיאורטיים. השפעה על שוק ההון",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 9 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "קידום בינה מלאכותית אחראית ברחבי אירופה",
       "originalTitle": "Advancing responsible AI across Europe",
       "headline": "מגמות חדשות בשוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
-      "title": "Univé בונה כוח עבודה מוכן לבינה מלאכותית",
-      "originalTitle": "Univé builds an AI-ready workforce",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Univé בונה כוח עבודה מוכן לבינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "id": 3,
+      "title": "בניית מודיעין בשפע",
+      "originalTitle": "Building abundant intelligence",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "בניית מודיעין בשפע. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,22 +59,22 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/unive",
+      "sourceUrl": "https://openai.com/index/building-abundant-intelligence",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 שעות",
+      "timeAgo": "לפני 18 שעות",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו",
       "originalTitle": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,29 +87,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "קידום חזית ביצועי המחיר עם GPT -5.6",
-      "originalTitle": "Advancing the price-performance frontier with GPT-5.6",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קידום חזית ביצועי המחיר עם GPT -5.6. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון",
       "originalTitle": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 198 ימים",
+      "timeAgo": "לפני 199 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 338 ימים",
+      "timeAgo": "לפני 339 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-07-31T10:28:20.424Z",
+  "lastUpdated": "2026-08-01T09:49:21.930Z",
   "sources": {
     "official": [
       "OpenAI Blog",
