@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 9 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "בניית מודיעין בשפע",
       "originalTitle": "Building abundant intelligence",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "בניית מודיעין בשפע. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "בניית מודיעין בשפע. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו",
       "originalTitle": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני",
       "originalTitle": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "איפוס מגבלות הבוקר בקלוד וקודקס תהנו",
+      "title": "הרבה זמן לא כתבתי פה. אני קצת עסוק ברוך השם, אבל יש משהו אחד שממש מעצבן אותי בתקופה האחרונה ובא לי לפרוק. הקורסים. תראו, בגדול אין לי שום בעיה עם קורס...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איפוס מגבלות הבוקר בקלוד וקודקס תהנו",
+      "summary": "הרבה זמן לא כתבתי פה. אני קצת עסוק ברוך השם, אבל יש משהו אחד שממש מעצבן אותי בתקופה האחרונה ובא לי לפרוק. הקורסים. תראו, בגדול אין לי שום בעיה עם קורס...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "שבוע טוב קלוד פייבל ישאר כלול בתוכנית מקס (עד 50% מהמכסה השבועית) באופן קבוע. מנויי פרו - פייבל עובר לשימוש לפי קרדיטים (usage credits) החל מה-20 ביול...",
+      "title": "אנתרופיק תשלם 1.5 מיליארד דולר במסגרת פשרה בתביעה ייצוגית של סופרים, אחרי שהורידה בצורה פיראטית מיליוני ספרים והשתמשה בהם לצורך אימון המודלים שלה. התב...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "שבוע טוב קלוד פייבל ישאר כלול בתוכנית מקס (עד 50% מהמכסה השבועית) באופן קבוע. מנויי פרו - פייבל עובר לשימוש לפי קרדיטים (usage credits) החל מה-20 ביול...",
+      "summary": "אנתרופיק תשלם 1.5 מיליארד דולר במסגרת פשרה בתביעה ייצוגית של סופרים, אחרי שהורידה בצורה פיראטית מיליוני ספרים והשתמשה בהם לצורך אימון המודלים שלה. התב...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 199 ימים",
+      "timeAgo": "לפני 200 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 339 ימים",
+      "timeAgo": "לפני 340 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-01T09:49:21.930Z",
+  "lastUpdated": "2026-08-02T09:48:14.485Z",
   "sources": {
     "official": [
       "OpenAI Blog",
