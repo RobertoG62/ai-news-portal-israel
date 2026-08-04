@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "עשר התקדמויות במתמטיקה ובמדעי המחשב התיאורטיים",
-      "originalTitle": "Ten advances in mathematics and theoretical computer science",
+      "title": "Apple טועה",
+      "originalTitle": "Apple is getting this wrong",
       "headline": "מגמות חדשות בשוק",
-      "summary": "עשר התקדמויות במתמטיקה ובמדעי המחשב התיאורטיים. מגמות חדשות בשוק",
+      "summary": "Apple טועה. מגמות חדשות בשוק",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,45 +13,22 @@
       ],
       "category": "שווקים",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics",
+      "sourceUrl": "https://openai.com/index/apple-is-getting-this-wrong",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 12 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "קידום בינה מלאכותית אחראית ברחבי אירופה",
-      "originalTitle": "Advancing responsible AI across Europe",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "קידום בינה מלאכותית אחראית ברחבי אירופה. מגמות חדשות בשוק",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "בניית מודיעין בשפע",
-      "originalTitle": "Building abundant intelligence",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "בניית מודיעין בשפע. מחקר חדש חושף תובנות מרתקות",
+      "title": "איך בנינו מערכת בזמן אמת לבינה מלאכותית קולית מגיבה תוך שישה חודשים",
+      "originalTitle": "How we built a realtime system for responsive voice AI in six months",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך בנינו מערכת בזמן אמת לבינה מלאכותית קולית מגיבה תוך שישה חודשים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,12 +36,35 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-abundant-intelligence",
+      "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "סמכויות התאמה אישית של טלקו עם טכנולוגיית OpenAI",
+      "originalTitle": "Circles powers telco personalization with OpenAI technology",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "סמכויות התאמה אישית של טלקו עם טכנולוגיית OpenAI. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/circles",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני",
       "originalTitle": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון",
       "originalTitle": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 201 ימים",
+      "timeAgo": "לפני 202 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 341 ימים",
+      "timeAgo": "לפני 342 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-03T11:12:24.008Z",
+  "lastUpdated": "2026-08-04T10:26:50.141Z",
   "sources": {
     "official": [
       "OpenAI Blog",
