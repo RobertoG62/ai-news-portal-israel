@@ -2,10 +2,125 @@
   "news": [
     {
       "id": 1,
+      "title": "הערכות סייבר של צד שלישי הקשורות לדגמי OpenAI",
+      "originalTitle": "Third-party cyber evaluations involving OpenAI models",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "הערכות סייבר של צד שלישי הקשורות לדגמי OpenAI. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA מצטרפת לתוכנית מרכזי הבינה המלאכותית הממלכתית והאזורית של NSF כדי להרחיב את המחקר והחינוך של הבינה המלאכותית ברחבי ארה\"ב",
+      "originalTitle": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA מצטרפת לתוכנית מרכזי הבינה המלאכותית הממלכתית והאזורית של NSF כדי להרחיב את המחקר והחינוך של הבינה המלאכותית ברחבי ארה\"ב. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 16 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA Alpamayo 2 Super, הדגם הפתוח של Frontier עבור Robotaxis ורכבים אוטונומיים, זמין כעת לשימוש מסחרי",
+      "originalTitle": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA Alpamayo 2 Super, הדגם הפתוח של Frontier עבור Robotaxis ורכבים אוטונומיים, זמין כעת לשימוש מסחרי. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "ככל שהבינה המלאכותית מגבירה את הביקוש לזיכרון, האחסון עולה",
+      "originalTitle": "As AI Increases Demands on Memory, Storage Steps Up",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "ככל שהבינה המלאכותית מגבירה את הביקוש לזיכרון, האחסון עולה. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "דרכים חדשות ללמוד וללמד עם ChatGPT עבודה וקודקס",
+      "originalTitle": "New ways to learn and teach with ChatGPT Work and Codex",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "דרכים חדשות ללמוד וללמד עם ChatGPT עבודה וקודקס. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "Apple טועה",
       "originalTitle": "Apple is getting this wrong",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "Apple טועה. מגמות חדשות בשוק",
+      "headline": "תזוזות בשוק ה-AI",
+      "summary": "Apple טועה. תזוזות בשוק ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,131 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 12 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "איך בנינו מערכת בזמן אמת לבינה מלאכותית קולית מגיבה תוך שישה חודשים",
-      "originalTitle": "How we built a realtime system for responsive voice AI in six months",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך בנינו מערכת בזמן אמת לבינה מלאכותית קולית מגיבה תוך שישה חודשים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "סמכויות התאמה אישית של טלקו עם טכנולוגיית OpenAI",
-      "originalTitle": "Circles powers telco personalization with OpenAI technology",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "סמכויות התאמה אישית של טלקו עם טכנולוגיית OpenAI. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/circles",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו",
-      "originalTitle": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הטוב ביותר בכיתה: הזרם משחקי מחשב ולמד על אותו מחשב נייד עם GeForce עכשיו. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני",
-      "originalTitle": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השני. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון",
-      "originalTitle": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחשב חזק כל כך קומפקטי, זה מצמד — בנה בינה מלאכותית ביד שלך עם NVIDIA ג'טסון. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "2 מודלים חדשים בג׳מיני של גוגל. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "אם המודל כל כך טוב בסייבר למה הוא צריך לפרוץ לHugging Face בשביל לרמות במבחן במקום פשוט לענות עליו?",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "2 מודלים חדשים בג׳מיני של גוגל. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "אם המודל כל כך טוב בסייבר למה הוא צריך לפרוץ לHugging Face בשביל לרמות במבחן במקום פשוט לענות עליו?",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "איזה כיף&#33; עוד איפוס מגבלות בקודקס לרגל 10 מליון משתמשים(&#33;). מנוי של 100&#036; בקודקס מרגיש כרגע ללא הגבלה בכלל. אני מריץ אותו שעות ברצף על משי...",
+      "title": "זוכרים שלחברת OpenAI הייתה פדיחה, ושיחות פרטיות שעשו להם Share עם לינק ייעודי לשיחה, אונדקסו בגוגל, ואנשים יכלו למצוא ולראות ולגשת לשיחות האלו? אז אות...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איזה כיף&#33; עוד איפוס מגבלות בקודקס לרגל 10 מליון משתמשים(&#33;). מנוי של 100&#036; בקודקס מרגיש כרגע ללא הגבלה בכלל. אני מריץ אותו שעות ברצף על משי...",
+      "summary": "זוכרים שלחברת OpenAI הייתה פדיחה, ושיחות פרטיות שעשו להם Share עם לינק ייעודי לשיחה, אונדקסו בגוגל, ואנשים יכלו למצוא ולראות ולגשת לשיחות האלו? אז אות...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 202 ימים",
+      "timeAgo": "לפני 203 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 342 ימים",
+      "timeAgo": "לפני 343 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-04T10:26:50.141Z",
+  "lastUpdated": "2026-08-05T10:24:56.350Z",
   "sources": {
     "official": [
       "OpenAI Blog",
