@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 16 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "NVIDIA Alpamayo 2 Super, הדגם הפתוח של Frontier עבור Robotaxis ורכבים אוטונומיים, זמין כעת לשימוש מסחרי",
       "originalTitle": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA Alpamayo 2 Super, הדגם הפתוח של Frontier עבור Robotaxis ורכבים אוטונומיים, זמין כעת לשימוש מסחרי. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA Alpamayo 2 Super, הדגם הפתוח של Frontier עבור Robotaxis ורכבים אוטונומיים, זמין כעת לשימוש מסחרי. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "דרכים חדשות ללמוד וללמד עם ChatGPT עבודה וקודקס",
       "originalTitle": "New ways to learn and teach with ChatGPT Work and Codex",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "דרכים חדשות ללמוד וללמד עם ChatGPT עבודה וקודקס. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "דרכים חדשות ללמוד וללמד עם ChatGPT עבודה וקודקס. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "אם המודל כל כך טוב בסייבר למה הוא צריך לפרוץ לHugging Face בשביל לרמות במבחן במקום פשוט לענות עליו?",
+      "title": "יתכן שנקבל היום/מחר מצב קולי מלא בקודקס. חלום&#33; בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אם המודל כל כך טוב בסייבר למה הוא צריך לפרוץ לHugging Face בשביל לרמות במבחן במקום פשוט לענות עליו?",
+      "summary": "יתכן שנקבל היום/מחר מצב קולי מלא בקודקס. חלום&#33; בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "זוכרים שלחברת OpenAI הייתה פדיחה, ושיחות פרטיות שעשו להם Share עם לינק ייעודי לשיחה, אונדקסו בגוגל, ואנשים יכלו למצוא ולראות ולגשת לשיחות האלו? אז אות...",
+      "title": "יססס&#33; ChatGPT Voice מגיע לקודקס לכל המנויים בווינדוס ומק. זה בעצם המודל החדש של השיחה הקולית בצ׳אט (GPT-Live) שעכשיו הוא בתוך קודקס. מתחיל לצאת למ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זוכרים שלחברת OpenAI הייתה פדיחה, ושיחות פרטיות שעשו להם Share עם לינק ייעודי לשיחה, אונדקסו בגוגל, ואנשים יכלו למצוא ולראות ולגשת לשיחות האלו? אז אות...",
+      "summary": "יססס&#33; ChatGPT Voice מגיע לקודקס לכל המנויים בווינדוס ומק. זה בעצם המודל החדש של השיחה הקולית בצ׳אט (GPT-Live) שעכשיו הוא בתוך קודקס. מתחיל לצאת למ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 203 ימים",
+      "timeAgo": "לפני 204 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 343 ימים",
+      "timeAgo": "לפני 344 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-05T10:24:56.350Z",
+  "lastUpdated": "2026-08-06T10:27:21.490Z",
   "sources": {
     "official": [
       "OpenAI Blog",
