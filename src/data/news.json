@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "מענה לגבול הבא של יכולות סייבר קריטיות",
+      "originalTitle": "Responding to the next frontier of critical cyber capabilities",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "מענה לגבול הבא של יכולות סייבר קריטיות. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כיצד HSP GRUPPE בונה יכולות בינה מלאכותית לייעוץ מס",
+      "originalTitle": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד HSP GRUPPE בונה יכולות בינה מלאכותית לייעוץ מס. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/hsp-gruppe",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "GeForce משיק עכשיו את אוגוסט עם 26 משחקים חדשים",
       "originalTitle": "GeForce NOW Shakes Up August With 26 New Games",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "GeForce משיק עכשיו את אוגוסט עם 26 משחקים חדשים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "GeForce משיק עכשיו את אוגוסט עם 26 משחקים חדשים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "לתוך ה - Omniverse : כיצד מודלים של עולם פתוח דוחפים את הגבול של הבינה המלאכותית הפיזית",
       "originalTitle": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -41,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "שיפור GPT -5.6 SOL ב - ChatGPT והרחבת הגישה ל - GPT -5.6 LUNA למשתמשים חינמיים",
       "originalTitle": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -60,52 +106,6 @@
       "category": "מחקר",
       "source": "OpenAI Blog",
       "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "עבודה עם האגודה האמריקנית לפסיכולוגיה בנושא בריאות הנפש של בני נוער ובינה מלאכותית",
-      "originalTitle": "Working with the American Psychological Association on youth mental health and AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "עבודה עם האגודה האמריקנית לפסיכולוגיה בנושא בריאות הנפש של בני נוער ובינה מלאכותית. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "משאלות לעשייה: איך העולם מפעיל את ChatGPT",
-      "originalTitle": "From asking to doing: How the world is putting ChatGPT to work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "משאלות לעשייה: איך העולם מפעיל את ChatGPT. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "במהלך השבת אנתרופיק שחררה את קלוד אופוס 5. מבחינת סייבר הוא מתקרב ביכולות לפייבל 5 ויותר זול. מבחינת קידוד GPT 5.6 סול עדיין מוביל עליו. בשימוש במחשב ...",
+      "title": "&rlm;&quot;הנה גרסה טבעית וזורמת יותר של אותו קטע שנשמעת כמו נאום חקיקה ולא כמו סדרה של נקודות קצרות&quot; פוליטיקאי קנדי באמצע נאום 👆 בינה מלאכותית ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "במהלך השבת אנתרופיק שחררה את קלוד אופוס 5. מבחינת סייבר הוא מתקרב ביכולות לפייבל 5 ויותר זול. מבחינת קידוד GPT 5.6 סול עדיין מוביל עליו. בשימוש במחשב ...",
+      "summary": "&rlm;&quot;הנה גרסה טבעית וזורמת יותר של אותו קטע שנשמעת כמו נאום חקיקה ולא כמו סדרה של נקודות קצרות&quot; פוליטיקאי קנדי באמצע נאום 👆 בינה מלאכותית ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "לפחות יש להם פרומפטים וכללים מדויקים כשהם משתמשים בAI... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "לפחות יש להם פרומפטים וכללים מדויקים כשהם משתמשים בAI... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 205 ימים",
+      "timeAgo": "לפני 206 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 345 ימים",
+      "timeAgo": "לפני 346 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-07T08:45:58.133Z",
+  "lastUpdated": "2026-08-08T08:27:52.534Z",
   "sources": {
     "official": [
       "OpenAI Blog",
