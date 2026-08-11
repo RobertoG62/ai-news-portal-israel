@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA משתפת פעולה עם Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs ו - KKR כדי להקים פלטפורמות מימון תשתיות מחשוב AI כדי לגייס מעל 500 מיליארד $ של הון צד שלישי",
+      "originalTitle": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "NVIDIA משתפת פעולה עם Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs ו - KKR כדי להקים פלטפורמות מימון תשתיות מחשוב AI כדי לגייס מעל 500 מיליארד $ של הון צד שלישי. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מה לימדה אותי בניית פונקציית AI - native finance?",
+      "originalTitle": "What building an AI-native finance function taught me",
+      "headline": "תזוזות בשוק ה-AI",
+      "summary": "מה לימדה אותי בניית פונקציית AI - native finance?. תזוזות בשוק ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/building-an-ai-native-finance-function",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "מכתבה של OpenAI למושל אבוט על תשתית בינה מלאכותית אחראית בטקסס",
+      "originalTitle": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מכתבה של OpenAI למושל אבוט על תשתית בינה מלאכותית אחראית בטקסס. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 18 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "דגם ML משלים את עבודת המימון בצורה יעילה יותר עם GPT -5.6 SOL",
+      "originalTitle": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "דגם ML משלים את עבודת המימון בצורה יעילה יותר עם GPT -5.6 SOL. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/model-ml",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "Firebird משיקה את מפעל הבינה המלאכותית הגדול ביותר באזור חבר העמים בארמניה",
       "originalTitle": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "Firebird משיקה את מפעל הבינה המלאכותית הגדול ביותר באזור חבר העמים בארמניה. עדכון משמעותי שכדאי להכיר",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "Firebird משיקה את מפעל הבינה המלאכותית הגדול ביותר באזור חבר העמים בארמניה. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,63 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "מענה לגבול הבא של יכולות סייבר קריטיות",
-      "originalTitle": "Responding to the next frontier of critical cyber capabilities",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "מענה לגבול הבא של יכולות סייבר קריטיות. השקעה ענקית מעידה על פוטנציאל",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "כיצד HSP GRUPPE בונה יכולות בינה מלאכותית לייעוץ מס",
-      "originalTitle": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כיצד HSP GRUPPE בונה יכולות בינה מלאכותית לייעוץ מס. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/hsp-gruppe",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 6,
       "title": "GeForce משיק עכשיו את אוגוסט עם 26 משחקים חדשים",
       "originalTitle": "GeForce NOW Shakes Up August With 26 New Games",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "GeForce משיק עכשיו את אוגוסט עם 26 משחקים חדשים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "GeForce משיק עכשיו את אוגוסט עם 26 משחקים חדשים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,62 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "לתוך ה - Omniverse : כיצד מודלים של עולם פתוח דוחפים את הגבול של הבינה המלאכותית הפיזית",
-      "originalTitle": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "לתוך ה - Omniverse : כיצד מודלים של עולם פתוח דוחפים את הגבול של הבינה המלאכותית הפיזית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "שיפור GPT -5.6 SOL ב - ChatGPT והרחבת הגישה ל - GPT -5.6 LUNA למשתמשים חינמיים",
-      "originalTitle": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שיפור GPT -5.6 SOL ב - ChatGPT והרחבת הגישה ל - GPT -5.6 LUNA למשתמשים חינמיים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "במהלך השבת בוצע איפוס מגבלות נוסף לקודקס. תהנו. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "משתמשי קודקס - עבר מעל שבוע מאז שהושק מצב קולי בקודקס אתם משתמשים בו? משתמש - 👍 לא משתמש - 👎",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "במהלך השבת בוצע איפוס מגבלות נוסף לקודקס. תהנו. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "משתמשי קודקס - עבר מעל שבוע מאז שהושק מצב קולי בקודקס אתם משתמשים בו? משתמש - 👍 לא משתמש - 👎",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "יססס&#33; ChatGPT Voice מגיע לקודקס לכל המנויים בווינדוס ומק. זה בעצם המודל החדש של השיחה הקולית בצ׳אט (GPT-Live) שעכשיו הוא בתוך קודקס. מתחיל לצאת למ...",
+      "title": "אני לא מופתע מהתוצאות, הפיצר עדיין לא בשל, גם אני לא משתמש בו. אני סומך על הצוות שלהם שישפרו את זה עם הזמן.",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "יססס&#33; ChatGPT Voice מגיע לקודקס לכל המנויים בווינדוס ומק. זה בעצם המודל החדש של השיחה הקולית בצ׳אט (GPT-Live) שעכשיו הוא בתוך קודקס. מתחיל לצאת למ...",
+      "summary": "אני לא מופתע מהתוצאות, הפיצר עדיין לא בשל, גם אני לא משתמש בו. אני סומך על הצוות שלהם שישפרו את זה עם הזמן.",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 208 ימים",
+      "timeAgo": "לפני 209 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
       "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 348 ימים",
+      "timeAgo": "לפני 349 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-10T09:06:49.882Z",
+  "lastUpdated": "2026-08-11T08:43:08.144Z",
   "sources": {
     "official": [
       "OpenAI Blog",
