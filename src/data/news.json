@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA מנכ\"ל Tops Glassdoor של 2026 רשימת המנכ\"לים הטובים ביותר",
+      "originalTitle": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA מנכ\"ל Tops Glassdoor של 2026 רשימת המנכ\"לים הטובים ביותר. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מסיוע לביצוע: כיצד ארגונים מפעילים בינה מלאכותית",
+      "originalTitle": "From assistance to execution: How enterprises put AI to work",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מסיוע לביצוע: כיצד ארגונים מפעילים בינה מלאכותית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה",
       "originalTitle": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,40 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
+      "title": "איך RingCentral בונה עבודת AI - native מהנדסה למבצעים",
+      "originalTitle": "How RingCentral builds AI-native work from engineering to ops",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך RingCentral בונה עבודת AI - native מהנדסה למבצעים. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/ringcentral",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "מדוע שדרוג ביצועי מחשוב AI דורש ארכיטקטורת חשמל חדשה",
       "originalTitle": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מדוע שדרוג ביצועי מחשוב AI דורש ארכיטקטורת חשמל חדשה. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מדוע שדרוג ביצועי מחשוב AI דורש ארכיטקטורת חשמל חדשה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,36 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 18 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "NVIDIA ודגמי מקור פתוח קהילתיים של בינה מלאכותית וסוכנים חכמים",
-      "originalTitle": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA ודגמי מקור פתוח קהילתיים של בינה מלאכותית וסוכנים חכמים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 6,
       "title": "בדיקת מודעות ב - ChatGPT",
       "originalTitle": "Testing ads in ChatGPT",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "דגמי שחר זמינים כעת ב - AWS",
-      "originalTitle": "Daybreak models are now available on AWS",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "דגמי שחר זמינים כעת ב - AWS. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "מכתבה של OpenAI למושל אבוט על תשתית בינה מלאכותית אחראית בטקסס",
-      "originalTitle": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מכתבה של OpenAI למושל אבוט על תשתית בינה מלאכותית אחראית בטקסס. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,28 +140,6 @@
     },
     {
       "id": 7,
-      "title": "מעניין&#33; נראה שOpenAI עובדת על אפשרות של קניית איפוס מגבלות לקודקס. מקור: Tibor blaho ### המחירים 👆 נראים קצת מוזרים, נחכה לעוד פרטים. בינה מלאכות...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "מעניין&#33; נראה שOpenAI עובדת על אפשרות של קניית איפוס מגבלות לקודקס. מקור: Tibor blaho ### המחירים 👆 נראים קצת מוזרים, נחכה לעוד פרטים. בינה מלאכות...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "רקע למי שלא בעניינים: מינימקס 3 הושק ושם פס אחד ענק על כל זכויות היוצרים. הוא מאפשר ליצור סרטוני וידאו מדויקים של סדרות הטלוויזיה הפופולריות ביותר בזי...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "רקע למי שלא בעניינים: מינימקס 3 הושק ושם פס אחד ענק על כל זכויות היוצרים. הוא מאפשר ליצור סרטוני וידאו מדויקים של סדרות הטלוויזיה הפופולריות ביותר בזי...",
@@ -183,7 +161,52 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "תוכן בשיתוף קהילת LΣҒΔ𝕽ΩLL:",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "תוכן בשיתוף קהילת LΣҒΔ𝕽ΩLL:",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
+      "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
+      "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "סיקור מקיף מאתר טכנולוגיה מוביל",
+        "ניתוח השלכות על התעשייה",
+        "המשך מעקב אחר ההתפתחויות"
+      ],
+      "category": "מחקר",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "sourceType": "tech",
+      "sourceTypeHebrew": "חדשות טכנולוגיה",
+      "sourceIcon": "tech",
+      "favicon": "https://techcrunch.com/favicon.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": false
+    },
+    {
+      "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
       "headline": "משקיעים מאמינים בטכנולוגיה",
@@ -200,30 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 210 ימים",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": false
-    },
-    {
-      "id": 10,
-      "title": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים",
-      "originalTitle": "How one AI startup is helping rice farmers battle climate change",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך סטארט - אפ אחד של בינה מלאכותית עוזר לחקלאי האורז להילחם בשינויי האקלים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "סיקור מקיף מאתר טכנולוגיה מוביל",
-        "ניתוח השלכות על התעשייה",
-        "המשך מעקב אחר ההתפתחויות"
-      ],
-      "category": "מחקר",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/",
-      "sourceType": "tech",
-      "sourceTypeHebrew": "חדשות טכנולוגיה",
-      "sourceIcon": "tech",
-      "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 350 ימים",
+      "timeAgo": "לפני 211 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-12T09:01:21.610Z",
+  "lastUpdated": "2026-08-13T09:02:28.468Z",
   "sources": {
     "official": [
       "OpenAI Blog",
