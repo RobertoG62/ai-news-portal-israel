@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "מחלקה נמצאת במפגש: GeForce עכשיו מעלה רמות לינוקס, מחשבי Chromebook ועוד",
+      "originalTitle": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מחלקה נמצאת במפגש: GeForce עכשיו מעלה רמות לינוקס, מחשבי Chromebook ועוד. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מדריך הבנאי ל - GPT -5.6",
+      "originalTitle": "The builder’s guide to GPT‑5.6",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מדריך הבנאי ל - GPT -5.6. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "תצוגה מקדימה של מצב מהיר במיוחד: GPT -5.6 סול במהירות של עד פי 14 מהמהירות",
+      "originalTitle": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "תצוגה מקדימה של מצב מהיר במיוחד: GPT -5.6 סול במהירות של עד פי 14 מהמהירות. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "OpenAI ממנה את דאלי ראג'יק כמנהל הכנסות ראשי",
+      "originalTitle": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI ממנה את דאלי ראג'יק כמנהל הכנסות ראשי. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "NVIDIA מנכ\"ל Tops Glassdoor של 2026 רשימת המנכ\"לים הטובים ביותר",
       "originalTitle": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA מנכ\"ל Tops Glassdoor של 2026 רשימת המנכ\"לים הטובים ביותר. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA מנכ\"ל Tops Glassdoor של 2026 רשימת המנכ\"לים הטובים ביותר. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,40 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "מסיוע לביצוע: כיצד ארגונים מפעילים בינה מלאכותית",
-      "originalTitle": "From assistance to execution: How enterprises put AI to work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מסיוע לביצוע: כיצד ארגונים מפעילים בינה מלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה",
       "originalTitle": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,76 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "איך RingCentral בונה עבודת AI - native מהנדסה למבצעים",
-      "originalTitle": "How RingCentral builds AI-native work from engineering to ops",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך RingCentral בונה עבודת AI - native מהנדסה למבצעים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/ringcentral",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "מדוע שדרוג ביצועי מחשוב AI דורש ארכיטקטורת חשמל חדשה",
-      "originalTitle": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מדוע שדרוג ביצועי מחשוב AI דורש ארכיטקטורת חשמל חדשה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "בדיקת מודעות ב - ChatGPT",
-      "originalTitle": "Testing ads in ChatGPT",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "בדיקת מודעות ב - ChatGPT. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/testing-ads-in-chatgpt",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 211 ימים",
+      "timeAgo": "לפני 212 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-13T09:02:28.468Z",
+  "lastUpdated": "2026-08-14T08:57:55.402Z",
   "sources": {
     "official": [
       "OpenAI Blog",
