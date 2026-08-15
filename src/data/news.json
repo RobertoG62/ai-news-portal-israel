@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי",
+      "originalTitle": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "מחלקה נמצאת במפגש: GeForce עכשיו מעלה רמות לינוקס, מחשבי Chromebook ועוד",
       "originalTitle": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מחלקה נמצאת במפגש: GeForce עכשיו מעלה רמות לינוקס, מחשבי Chromebook ועוד. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מחלקה נמצאת במפגש: GeForce עכשיו מעלה רמות לינוקס, מחשבי Chromebook ועוד. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "מדריך הבנאי ל - GPT -5.6",
       "originalTitle": "The builder’s guide to GPT‑5.6",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "תצוגה מקדימה של מצב מהיר במיוחד: GPT -5.6 סול במהירות של עד פי 14 מהמהירות",
       "originalTitle": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 22 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "OpenAI ממנה את דאלי ראג'יק כמנהל הכנסות ראשי",
       "originalTitle": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "NVIDIA מנכ\"ל Tops Glassdoor של 2026 רשימת המנכ\"לים הטובים ביותר",
       "originalTitle": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
       "headline": "עדכון משמעותי שכדאי להכיר",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה",
-      "originalTitle": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "NVIDIA AI Factory Compute הופכת למחלקת נכסים להשקעה. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
       "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "רקע למי שלא בעניינים: מינימקס 3 הושק ושם פס אחד ענק על כל זכויות היוצרים. הוא מאפשר ליצור סרטוני וידאו מדויקים של סדרות הטלוויזיה הפופולריות ביותר בזי...",
+      "title": "תוכן בשיתוף קהילת LΣҒΔ𝕽ΩLL:",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רקע למי שלא בעניינים: מינימקס 3 הושק ושם פס אחד ענק על כל זכויות היוצרים. הוא מאפשר ליצור סרטוני וידאו מדויקים של סדרות הטלוויזיה הפופולריות ביותר בזי...",
+      "summary": "תוכן בשיתוף קהילת LΣҒΔ𝕽ΩLL:",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "תוכן בשיתוף קהילת LΣҒΔ𝕽ΩLL:",
+      "title": "חושבים שאתם טובים בלמצוא דברים באינטרנט? 🔍 ה- Israel OSiNT League יצאה לדרך - טורניר חידות OSINT ישראלי עם 10 חידות, פרסים, ספונסרים וגמר גדול בסוף. ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "תוכן בשיתוף קהילת LΣҒΔ𝕽ΩLL:",
+      "summary": "חושבים שאתם טובים בלמצוא דברים באינטרנט? 🔍 ה- Israel OSiNT League יצאה לדרך - טורניר חידות OSINT ישראלי עם 10 חידות, פרסים, ספונסרים וגמר גדול בסוף. ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 212 ימים",
+      "timeAgo": "לפני 213 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-14T08:57:55.402Z",
+  "lastUpdated": "2026-08-15T08:15:29.250Z",
   "sources": {
     "official": [
       "OpenAI Blog",
