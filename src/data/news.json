@@ -2,10 +2,79 @@
   "news": [
     {
       "id": 1,
+      "title": "מודעות ChatGPT מתרחבות ברחבי אירופה",
+      "originalTitle": "ChatGPT Ads expands across Europe",
+      "headline": "השפעה על שוק ההון",
+      "summary": "מודעות ChatGPT מתרחבות ברחבי אירופה. השפעה על שוק ההון",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 10 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "חיזוק הפיקוח הדמוקרטי על הביטחון הלאומי",
+      "originalTitle": "Strengthening democratic oversight in national security",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "חיזוק הפיקוח הדמוקרטי על הביטחון הלאומי. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "שיתוף פעולה עם CodeAI להכנת דור הבינה המלאכותית הראשון",
+      "originalTitle": "Partnering with CodeAI to prepare the first AI generation",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "שיתוף פעולה עם CodeAI להכנת דור הבינה המלאכותית הראשון. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/partnering-with-codeai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "אבטחת תשתיות המודיעין",
       "originalTitle": "Securing the Infrastructure of Intelligence",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "אבטחת תשתיות המודיעין. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "אבטחת תשתיות המודיעין. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,15 +87,15 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "NVIDIA מבטיח שקמפוס הטכנולוגיה PORTS - Pike של SB Energy באוהיו יארח באופן בלעדי את מחשב ה - NVIDIA AI",
-      "originalTitle": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+      "originalTitle": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
       "headline": "עדכון משמעותי שכדאי להכיר",
       "summary": "NVIDIA מבטיח שקמפוס הטכנולוגיה PORTS - Pike של SB Energy באוהיו יארח באופן בלעדי את מחשב ה - NVIDIA AI. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
@@ -41,75 +110,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "חלון המגן",
-      "originalTitle": "The Defender’s Window",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "חלון המגן. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/the-defenders-window",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "OpenAI מצטרפת לפרויקט PORTS - Pike",
-      "originalTitle": "OpenAI joins PORTS-Pike project",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "OpenAI מצטרפת לפרויקט PORTS - Pike. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/openai-joins-ports-pike-project",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "רעיונות מדיניות חדשים לעידן האינטליגנציה",
-      "originalTitle": "New policy ideas for the Intelligence Age",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "רעיונות מדיניות חדשים לעידן האינטליגנציה. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי",
       "originalTitle": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "עוד איפוס מגבלות בקודקס. תהנו וכל המגיבים ששואלים למה אני אובססיבי לקודקס.. יש מלא סיבות.. זו אחת מהן. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "שריון ראשון בליכוד: ה״כריש״ אורן דוברונסקי. ״דוברונסקי מצטרף לנבחרת הליכוד ולאחר הבחירות יוביל את נושא הבינה המלאכותית במשק, בחינוך, ברפואה, בכלכלה וב...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "עוד איפוס מגבלות בקודקס. תהנו וכל המגיבים ששואלים למה אני אובססיבי לקודקס.. יש מלא סיבות.. זו אחת מהן. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "שריון ראשון בליכוד: ה״כריש״ אורן דוברונסקי. ״דוברונסקי מצטרף לנבחרת הליכוד ולאחר הבחירות יוביל את נושא הבינה המלאכותית במשק, בחינוך, ברפואה, בכלכלה וב...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "☁️ המשתמש ביקש מקום בשיעור בחדר כושר, סוכן הבינה המלאכותית ביצע מתקפת סייבר ( גלובס ) במקום להסתפק בהזמנת שיעור בחדר הכושר, סוכן ה-AI איתר פרצת אבטחה,...",
+      "title": "טיבו הבטיח וקיים. במהלך הלילה בוצע איפוס מגבלות בקודקס. תהנו",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "☁️ המשתמש ביקש מקום בשיעור בחדר כושר, סוכן הבינה המלאכותית ביצע מתקפת סייבר ( גלובס ) במקום להסתפק בהזמנת שיעור בחדר הכושר, סוכן ה-AI איתר פרצת אבטחה,...",
+      "summary": "טיבו הבטיח וקיים. במהלך הלילה בוצע איפוס מגבלות בקודקס. תהנו",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 216 ימים",
+      "timeAgo": "לפני 217 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-18T08:23:24.385Z",
+  "lastUpdated": "2026-08-19T08:24:03.479Z",
   "sources": {
     "official": [
       "OpenAI Blog",
