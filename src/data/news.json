@@ -2,10 +2,79 @@
   "news": [
     {
       "id": 1,
+      "title": "הבא את האש: שחק משחקים ב - GeForce עכשיו עם תמיכה חדשה בדפדפן Firefox",
+      "originalTitle": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הבא את האש: שחק משחקים ב - GeForce עכשיו עם תמיכה חדשה בדפדפן Firefox. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "הכירו את עתידי הבינה המלאכותית",
+      "originalTitle": "Introducing AI Futures",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את עתידי הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-ai-futures",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "Stampli מקצצת את שעות ההשקה ב -68% באמצעות ChatGPT Work",
+      "originalTitle": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "Stampli מקצצת את שעות ההשקה ב -68% באמצעות ChatGPT Work. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/stampli",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "מציע אפס שמירת נתונים עבור דגמי Frontier",
       "originalTitle": "Offering Zero Data Retention for frontier models",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מציע אפס שמירת נתונים עבור דגמי Frontier. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מציע אפס שמירת נתונים עבור דגמי Frontier. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,59 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "Replit מרחיב את הגישה ליצירת תוכנה עם GPT -5.6 לונה",
-      "originalTitle": "Replit expands access to software creation with GPT-5.6 Luna",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Replit מרחיב את הגישה ליצירת תוכנה עם GPT -5.6 לונה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/replit",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "מודעות ChatGPT מתרחבות ברחבי אירופה",
-      "originalTitle": "ChatGPT Ads expands across Europe",
-      "headline": "השפעה על שוק ההון",
-      "summary": "מודעות ChatGPT מתרחבות ברחבי אירופה. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 5,
       "title": "אבטחת תשתיות המודיעין",
       "originalTitle": "Securing the Infrastructure of Intelligence",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "NVIDIA מבטיח שקמפוס הטכנולוגיה PORTS - Pike של SB Energy באוהיו יארח באופן בלעדי את מחשב ה - NVIDIA AI",
       "originalTitle": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
       "headline": "עדכון משמעותי שכדאי להכיר",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי",
-      "originalTitle": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Universitas Gadjah Mada, Indosat ו - NVIDIA מרכז הבינה המלאכותית הראשון של האוניברסיטה באינדונזיה לפיתוח כשרון בינה מלאכותית מקומי. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "שריון ראשון בליכוד: ה״כריש״ אורן דוברונסקי. ״דוברונסקי מצטרף לנבחרת הליכוד ולאחר הבחירות יוביל את נושא הבינה המלאכותית במשק, בחינוך, ברפואה, בכלכלה וב...",
+      "title": "השתמשתם בקלוד לכתוב טקסט? מעכשיו כולם ידעו את זה https://www.geektime.co.il/anthropic-claude-snitches-get-stitches/",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "שריון ראשון בליכוד: ה״כריש״ אורן דוברונסקי. ״דוברונסקי מצטרף לנבחרת הליכוד ולאחר הבחירות יוביל את נושא הבינה המלאכותית במשק, בחינוך, ברפואה, בכלכלה וב...",
+      "summary": "השתמשתם בקלוד לכתוב טקסט? מעכשיו כולם ידעו את זה https://www.geektime.co.il/anthropic-claude-snitches-get-stitches/",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "טיבו הבטיח וקיים. במהלך הלילה בוצע איפוס מגבלות בקודקס. תהנו",
+      "title": "החל מ־3 בספטמבר Suno תשים מכסה על כמות השירים שאפשר להוריד. עד היום לא הייתה מגבלת הורדות כזאת. מה־3 בספטמבר: &rlm; 🆓 משתמשים בחינם — 7 הורדות בסך הכ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "טיבו הבטיח וקיים. במהלך הלילה בוצע איפוס מגבלות בקודקס. תהנו",
+      "summary": "החל מ־3 בספטמבר Suno תשים מכסה על כמות השירים שאפשר להוריד. עד היום לא הייתה מגבלת הורדות כזאת. מה־3 בספטמבר: &rlm; 🆓 משתמשים בחינם — 7 הורדות בסך הכ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 7 ימים",
+      "timeAgo": "לפני 8 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 218 ימים",
+      "timeAgo": "לפני 219 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-20T08:25:10.089Z",
+  "lastUpdated": "2026-08-21T08:26:40.651Z",
   "sources": {
     "official": [
       "OpenAI Blog",
