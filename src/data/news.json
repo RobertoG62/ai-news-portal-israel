@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "הבא את האש: שחק משחקים ב - GeForce עכשיו עם תמיכה חדשה בדפדפן Firefox",
-      "originalTitle": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הבא את האש: שחק משחקים ב - GeForce עכשיו עם תמיכה חדשה בדפדפן Firefox. התקדמות משמעותית בתחום",
+      "title": "איך XPUs פוגשים מפעל בינה מלאכותית ברמה עולמית",
+      "originalTitle": "How XPUs Meet a World-Class AI Factory",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך XPUs פוגשים מפעל בינה מלאכותית ברמה עולמית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +13,91 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 17 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
+      "title": "עם Groq 3 LPX בייצור מלא, NVIDIA מרחיב את Vera Rubin Inference לסוכנים",
+      "originalTitle": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "עם Groq 3 LPX בייצור מלא, NVIDIA מרחיב את Vera Rubin Inference לסוכנים. שבב חדש מבטיח ביצועים מרשימים",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "עד פי 30 יותר עבודה בוואט: NVIDIA Vera Rubin NVL72 קובע תקן יעילות חדש עבור סוכני AI",
+      "originalTitle": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "עד פי 30 יותר עבודה בוואט: NVIDIA Vera Rubin NVL72 קובע תקן יעילות חדש עבור סוכני AI. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "קידום ביצועי מחיר ליזמיםעם GPT -5.6 בקירו",
+      "originalTitle": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "קידום ביצועי מחיר ליזמיםעם GPT -5.6 בקירו. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-in-kiro",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "הכירו את עתידי הבינה המלאכותית",
       "originalTitle": "Introducing AI Futures",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את עתידי הבינה המלאכותית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הכירו את עתידי הבינה המלאכותית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "Stampli מקצצת את שעות ההשקה ב -68% באמצעות ChatGPT Work",
       "originalTitle": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "Stampli מקצצת את שעות ההשקה ב -68% באמצעות ChatGPT Work. עדכון משמעותי שכדאי להכיר",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "Stampli מקצצת את שעות ההשקה ב -68% באמצעות ChatGPT Work. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,104 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "מציע אפס שמירת נתונים עבור דגמי Frontier",
-      "originalTitle": "Offering Zero Data Retention for frontier models",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מציע אפס שמירת נתונים עבור דגמי Frontier. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "אבטחת תשתיות המודיעין",
-      "originalTitle": "Securing the Infrastructure of Intelligence",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "אבטחת תשתיות המודיעין. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA מבטיח שקמפוס הטכנולוגיה PORTS - Pike של SB Energy באוהיו יארח באופן בלעדי את מחשב ה - NVIDIA AI",
-      "originalTitle": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA מבטיח שקמפוס הטכנולוגיה PORTS - Pike של SB Energy באוהיו יארח באופן בלעדי את מחשב ה - NVIDIA AI. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 6 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "חברת ⁦Higgsfield⁩ פרסמה את ⁦The Cully Hill Boys⁩ — סרט אקשן־פשע קומי באורך ⁦114⁩ דקות, שעלותו הכוללת היא 2 מליון דולר. הסרט כולל ⁦137⁩ סצנות ונבנה באמ...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "חברת ⁦Higgsfield⁩ פרסמה את ⁦The Cully Hill Boys⁩ — סרט אקשן־פשע קומי באורך ⁦114⁩ דקות, שעלותו הכוללת היא 2 מליון דולר. הסרט כולל ⁦137⁩ סצנות ונבנה באמ...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "https://telegram.org/favicon.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "תוכן בשיתוף Latent AI:",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "תוכן בשיתוף Latent AI:",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "🚨 מקומות אחרונים בהחלט וובינר לאנשי R&amp;D - איך להריץ parallel agents מבלי להחריב את הקודבייס יום חמישי, 13 באוגוסט, וובינר פתוח לקהל, מבית Latent ...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "🚨 מקומות אחרונים בהחלט וובינר לאנשי R&amp;D - איך להריץ parallel agents מבלי להחריב את הקודבייס יום חמישי, 13 באוגוסט, וובינר פתוח לקהל, מבית Latent ...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "https://telegram.org/favicon.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 11 ימים",
+      "timeAgo": "לפני 12 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 222 ימים",
+      "timeAgo": "לפני 223 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-24T08:36:10.655Z",
+  "lastUpdated": "2026-08-25T08:30:01.251Z",
   "sources": {
     "official": [
       "OpenAI Blog",
