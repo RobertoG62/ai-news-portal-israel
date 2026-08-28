@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא",
+      "originalTitle": "Supporting Thailand’s next generation of AI startups",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://openai.com/favicon.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית",
+      "originalTitle": "NVIDIA Announces Upcoming Event for Financial Community",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "https://www.nvidia.com/favicon.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "GeForce נותן לגיימרים כעת דרכים נוספות לשחק ב - Gamescom 2026",
       "originalTitle": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "GeForce נותן לגיימרים כעת דרכים נוספות לשחק ב - Gamescom 2026. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "GeForce נותן לגיימרים כעת דרכים נוספות לשחק ב - Gamescom 2026. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 5 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "תשובות טובות יותר, חשיבה רחבה יותר: מה התלמידים מרוויחים מ - ChatGPT והכשרת חשיבה ביקורתית",
       "originalTitle": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "תשובות טובות יותר, חשיבה רחבה יותר: מה התלמידים מרוויחים מ - ChatGPT והכשרת חשיבה ביקורתית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תשובות טובות יותר, חשיבה רחבה יותר: מה התלמידים מרוויחים מ - ChatGPT והכשרת חשיבה ביקורתית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 9 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "הרחבת הנוכחות של OpenAI בברזיל",
       "originalTitle": "Expanding OpenAI’s presence in Brazil",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הרחבת הנוכחות של OpenAI בברזיל. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הרחבת הנוכחות של OpenAI בברזיל. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://openai.com/favicon.ico",
-      "timeAgo": "לפני 15 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "NVIDIA NVLink Fusion מתרחבת עם זיכרון NVHBM מותאם אישית ברוחב פס גבוה",
       "originalTitle": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA NVLink Fusion מתרחבת עם זיכרון NVHBM מותאם אישית ברוחב פס גבוה. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA NVLink Fusion מתרחבת עם זיכרון NVHBM מותאם אישית ברוחב פס גבוה. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "AWS ו - NVIDIA יספקו 2 מיליון GPUs נוספים ותשתיות הדור הבא עבור בינה מלאכותית פיזית וסוכנת",
-      "originalTitle": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "AWS ו - NVIDIA יספקו 2 מיליון GPUs נוספים ותשתיות הדור הבא עבור בינה מלאכותית פיזית וסוכנת. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://www.nvidia.com/favicon.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "הבאת ChatGPT למורים ליותר מחוזות בתי ספר בארה\"ב",
-      "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הבאת ChatGPT למורים ליותר מחוזות בתי ספר בארה\"ב. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "https://openai.com/favicon.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 15 ימים",
+      "timeAgo": "לפני 16 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "https://techcrunch.com/favicon.ico",
-      "timeAgo": "לפני 226 ימים",
+      "timeAgo": "לפני 227 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-27T18:37:33.699Z",
+  "lastUpdated": "2026-08-28T19:46:30.537Z",
   "sources": {
     "official": [
       "OpenAI Blog",
