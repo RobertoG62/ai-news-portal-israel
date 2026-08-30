@@ -1,3 +1,7 @@
+// Source icons are served from this site. They used to be fetched from each
+// publisher on every card render, so reading the front page told OpenAI,
+// NVIDIA and the rest that you were reading it. Three could not be
+// downloaded and are blank; the card falls back to its own mark.
 /**
  * Multi-Source AI News Fetcher
  *
@@ -30,21 +34,21 @@ const SOURCE_CONFIG = {
         name: 'OpenAI Blog',
         url: 'https://openai.com/blog',
         rssUrl: 'https://openai.com/blog/rss.xml',
-        favicon: 'https://openai.com/favicon.ico',
+        favicon: '/favicons/openai-com.ico',
         keywords: ['openai', 'gpt', 'chatgpt', 'dall-e', 'sora']
       },
       {
         name: 'Anthropic News',
         url: 'https://www.anthropic.com/news',
         rssUrl: 'https://www.anthropic.com/rss.xml',
-        favicon: 'https://www.anthropic.com/favicon.ico',
+        favicon: '/favicons/anthropic-com.ico',
         keywords: ['anthropic', 'claude', 'constitutional ai']
       },
       {
         name: 'NVIDIA Newsroom',
         url: 'https://nvidianews.nvidia.com',
         rssUrl: 'https://nvidianews.nvidia.com/rss.xml',
-        favicon: 'https://www.nvidia.com/favicon.ico',
+        favicon: '/favicons/nvidia-com.ico',
         keywords: ['nvidia', 'gpu', 'cuda', 'tensorrt', 'dgx']
       }
     ]
@@ -60,13 +64,13 @@ const SOURCE_CONFIG = {
       {
         name: 'AI Israel Telegram',
         url: 'https://t.me/s/ai_tg_il',
-        favicon: 'https://telegram.org/favicon.ico',
+        favicon: '/favicons/telegram-org.ico',
         isHebrew: true
       },
       {
         name: 'il.chat',
         url: 'https://il.chat',
-        favicon: 'https://il.chat/favicon.ico',
+        favicon: '',
         isHebrew: true
       }
     ]
@@ -83,13 +87,13 @@ const SOURCE_CONFIG = {
         name: 'TechCrunch AI',
         url: 'https://techcrunch.com/tag/artificial-intelligence/',
         rssUrl: 'https://techcrunch.com/tag/artificial-intelligence/feed/',
-        favicon: 'https://techcrunch.com/favicon.ico'
+        favicon: '/favicons/techcrunch-com.ico'
       },
       {
         name: 'AI News',
         url: 'https://www.artificialintelligence-news.com',
         rssUrl: 'https://www.artificialintelligence-news.com/feed/',
-        favicon: 'https://www.artificialintelligence-news.com/favicon.ico'
+        favicon: ''
       }
     ]
   },
@@ -105,13 +109,13 @@ const SOURCE_CONFIG = {
         name: 'Hugging Face Blog',
         url: 'https://huggingface.co/blog',
         rssUrl: 'https://huggingface.co/blog/feed.xml',
-        favicon: 'https://huggingface.co/favicon.ico'
+        favicon: '/favicons/huggingface-co.ico'
       },
       {
         name: 'arXiv AI',
         url: 'https://arxiv.org/list/cs.AI/recent',
         rssUrl: 'https://rss.arxiv.org/rss/cs.AI',
-        favicon: 'https://arxiv.org/favicon.ico'
+        favicon: ''
       }
     ]
   },
@@ -127,7 +131,7 @@ const SOURCE_CONFIG = {
         name: 'Hacker News',
         url: 'https://news.ycombinator.com',
         apiUrl: 'https://hacker-news.firebaseio.com/v0',
-        favicon: 'https://news.ycombinator.com/favicon.ico'
+        favicon: '/favicons/news-ycombinator-com.ico'
       }
     ]
   }
@@ -219,7 +223,7 @@ async function fetchHackerNews() {
           sourceType: 'community',
           sourceTypeHebrew: 'קהילה',
           sourceIcon: 'community',
-          favicon: 'https://news.ycombinator.com/favicon.ico',
+          favicon: '/favicons/news-ycombinator-com.ico',
           isHebrew: false,
           isVerified: false,
           score: story.score
@@ -279,7 +283,7 @@ async function fetchTelegram(channelUrl) {
           sourceType: 'local',
           sourceTypeHebrew: 'עדכון מקומי',
           sourceIcon: 'israel',
-          favicon: 'https://telegram.org/favicon.ico',
+          favicon: '/favicons/telegram-org.ico',
           isHebrew: true,
           isVerified: false
         });

@@ -40,12 +40,14 @@ export default function Header() {
               <kbd className="hidden lg:inline-block px-2 py-0.5 text-xs bg-white/10 rounded font-mono">⌘K</kbd>
             </button>
 
-            <button className="relative p-2 rounded-lg hover:bg-white/5 transition-colors">
+            <button aria-label="התראות" className="relative p-2 rounded-lg hover:bg-white/5 transition-colors">
               <Bell className="w-5 h-5 text-gray-400" />
               <span className="absolute top-1 right-1 w-2 h-2 bg-red-500 rounded-full"></span>
             </button>
 
             <button
+              aria-label="פתח תפריט ניווט"
+              aria-expanded={isMenuOpen}
               className="md:hidden p-2 rounded-lg hover:bg-white/5 transition-colors"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
             >

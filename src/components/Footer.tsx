@@ -22,16 +22,16 @@ export default function Footer() {
               מכסים את ההתפתחויות האחרונות מ-OpenAI, Anthropic, NVIDIA ועוד.
             </p>
             <div className="flex items-center gap-4">
-              <a href="#" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
+              <a href="#" aria-label="X (טוויטר)" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
                 <Twitter className="w-5 h-5" />
               </a>
-              <a href="#" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
+              <a href="#" aria-label="GitHub" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="#" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
+              <a href="#" aria-label="LinkedIn" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="#" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
+              <a href="#" aria-label="ערוץ טלגרם" className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-all">
                 <Mail className="w-5 h-5" />
               </a>
             </div>
@@ -61,12 +61,17 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-sm text-gray-500">
+          <p className="text-sm text-gray-400 max-w-xl leading-6">
             © 2026 AI Pulse ישראל. כל הזכויות שמורות.
+            <br />
+            <b>הכותרות והסיכומים מתורגמים ומתומצתים אוטומטית ואינם נערכים על ידי אדם לפני פרסום.</b> לפני הסתמכות — קראו את המקור.
           </p>
-          <div className="flex items-center gap-6 text-sm text-gray-500">
-            <a href="#" className="hover:text-gray-400 transition-colors">מדיניות פרטיות</a>
-            <a href="#" className="hover:text-gray-400 transition-colors">תנאי שימוש</a>
+          <div className="flex items-center gap-6 text-sm text-gray-400">
+            {/* These pointed at href="#" - links that looked like policy pages
+                and went nowhere, which is worse than having none. */}
+            <a href="/privacy" className="underline hover:text-gray-200 transition-colors">מדיניות פרטיות</a>
+            <a href="/terms" className="underline hover:text-gray-200 transition-colors">תנאי שימוש</a>
+            <a href="/accessibility" className="underline hover:text-gray-200 transition-colors">הצהרת נגישות</a>
           </div>
         </div>
       </div>

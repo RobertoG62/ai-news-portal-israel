@@ -12,12 +12,12 @@ const SOURCE_CONFIG = {
       {
         name: 'OpenAI Blog',
         rssUrl: 'https://openai.com/blog/rss.xml',
-        favicon: 'https://openai.com/favicon.ico',
+        favicon: '',
       },
       {
         name: 'NVIDIA Newsroom',
         rssUrl: 'https://nvidianews.nvidia.com/rss.xml',
-        favicon: 'https://www.nvidia.com/favicon.ico',
+        favicon: '',
       }
     ]
   },
@@ -30,7 +30,7 @@ const SOURCE_CONFIG = {
       {
         name: 'AI Israel Telegram',
         url: 'https://t.me/s/ai_tg_il',
-        favicon: 'https://telegram.org/favicon.ico',
+        favicon: '',
         isHebrew: true
       }
     ]
@@ -44,7 +44,7 @@ const SOURCE_CONFIG = {
       {
         name: 'AI News',
         rssUrl: 'https://www.artificialintelligence-news.com/feed/',
-        favicon: 'https://www.artificialintelligence-news.com/favicon.ico'
+        favicon: ''
       }
     ]
   },
@@ -57,7 +57,7 @@ const SOURCE_CONFIG = {
       {
         name: 'Hacker News',
         apiUrl: 'https://hacker-news.firebaseio.com/v0',
-        favicon: 'https://news.ycombinator.com/favicon.ico'
+        favicon: '/favicons/news-ycombinator-com.ico'
       }
     ]
   }
@@ -221,7 +221,7 @@ async function fetchHackerNews(): Promise<Story[]> {
           sourceType: 'community',
           sourceTypeHebrew: 'קהילה',
           sourceIcon: 'community',
-          favicon: 'https://news.ycombinator.com/favicon.ico',
+          favicon: '/favicons/news-ycombinator-com.ico',
           isHebrew: false,
           isVerified: false,
           score: story.score
@@ -268,7 +268,7 @@ async function fetchTelegram(channelUrl: string): Promise<Story[]> {
           sourceType: 'local',
           sourceTypeHebrew: 'עדכון מקומי',
           sourceIcon: 'israel',
-          favicon: 'https://telegram.org/favicon.ico',
+          favicon: '',
           isHebrew: true,
           isVerified: false
         });
