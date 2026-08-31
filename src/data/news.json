@@ -2,6 +2,52 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן",
+      "originalTitle": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 3 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "אבן דרך בהרחבת הגישה לבינה מלאכותית",
+      "originalTitle": "A milestone in expanding access to AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "אבן דרך בהרחבת הגישה לבינה מלאכותית. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 11 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "החלטתנו על הסמן בעקבות רכישתו על ידי SpaceX",
       "originalTitle": "Our decision on Cursor following its acquisition by SpaceX",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא",
       "originalTitle": "Supporting Thailand’s next generation of AI startups",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית",
       "originalTitle": "NVIDIA Announces Upcoming Event for Financial Community",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "GeForce נותן לגיימרים כעת דרכים נוספות לשחק ב - Gamescom 2026",
       "originalTitle": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "GeForce נותן לגיימרים כעת דרכים נוספות לשחק ב - Gamescom 2026. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "GeForce נותן לגיימרים כעת דרכים נוספות לשחק ב - Gamescom 2026. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,62 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "תשובות טובות יותר, חשיבה רחבה יותר: מה התלמידים מרוויחים מ - ChatGPT והכשרת חשיבה ביקורתית",
-      "originalTitle": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "תשובות טובות יותר, חשיבה רחבה יותר: מה התלמידים מרוויחים מ - ChatGPT והכשרת חשיבה ביקורתית. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA NVLink Fusion מתרחבת עם זיכרון NVHBM מותאם אישית ברוחב פס גבוה",
-      "originalTitle": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA NVLink Fusion מתרחבת עם זיכרון NVHBM מותאם אישית ברוחב פס גבוה. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "כל הפיד רועש וגועש על ציוץ מ־ 2012 עם המשפט: &rlm;&quot;Stop chat gpt&#33;&#33;&quot; אבל לא, זה לא נבואה על ChatGPT 😅 בפועל מדובר בסלנג אינדונזי: &r...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "כל הפיד רועש וגועש על ציוץ מ־ 2012 עם המשפט: &rlm;&quot;Stop chat gpt&#33;&#33;&quot; אבל לא, זה לא נבואה על ChatGPT 😅 בפועל מדובר בסלנג אינדונזי: &r...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "כל הפיד רועש וגועש על ציוץ מ־ 2012 עם המשפט: &rlm;&quot;Stop chat gpt&#33;&#33;&quot; אבל לא, זה לא נבואה על ChatGPT 😅 בפועל מדובר בסלנג אינדונזי: &r...",
+      "title": "משתמשים מדווחים על שגיאות בקלוד בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כל הפיד רועש וגועש על ציוץ מ־ 2012 עם המשפט: &rlm;&quot;Stop chat gpt&#33;&#33;&quot; אבל לא, זה לא נבואה על ChatGPT 😅 בפועל מדובר בסלנג אינדונזי: &r...",
+      "summary": "משתמשים מדווחים על שגיאות בקלוד בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 17 ימים",
+      "timeAgo": "לפני 18 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 229 ימים",
+      "timeAgo": "לפני 230 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-30T13:24:51.928Z",
+  "lastUpdated": "2026-08-31T15:40:06.873Z",
   "sources": {
     "official": [
       "OpenAI Blog",
