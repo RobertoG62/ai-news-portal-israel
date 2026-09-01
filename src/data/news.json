@@ -4,8 +4,8 @@
       "id": 1,
       "title": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן",
       "originalTitle": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +18,63 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
+      "title": "OpenAI תומך בהצעת החוק של קליפורניה לקידום בטיחות הבינה המלאכותית לנוער",
+      "originalTitle": "OpenAI supports California’s bill to advance youth AI safety",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI תומך בהצעת החוק של קליפורניה לקידום בטיחות הבינה המלאכותית לנוער. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "Polimill בונה את תשתית הבינה המלאכותית הציבורית של הדור הבא ביפן",
+      "originalTitle": "Polimill builds Japan's next-generation public AI infrastructure",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "Polimill בונה את תשתית הבינה המלאכותית הציבורית של הדור הבא ביפן. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/polimill",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "אבן דרך בהרחבת הגישה לבינה מלאכותית",
       "originalTitle": "A milestone in expanding access to AI",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "אבן דרך בהרחבת הגישה לבינה מלאכותית. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "אבן דרך בהרחבת הגישה לבינה מלאכותית. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,53 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 11 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "החלטתנו על הסמן בעקבות רכישתו על ידי SpaceX",
-      "originalTitle": "Our decision on Cursor following its acquisition by SpaceX",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "החלטתנו על הסמן בעקבות רכישתו על ידי SpaceX. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא",
-      "originalTitle": "Supporting Thailand’s next generation of AI startups",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "תמיכה בדור הבא של סטארט - אפים בתחום הבינה המלאכותית בתא. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 18 ימים",
+      "timeAgo": "לפני 19 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 230 ימים",
+      "timeAgo": "לפני 231 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-08-31T15:40:06.873Z",
+  "lastUpdated": "2026-09-01T12:52:47.162Z",
   "sources": {
     "official": [
       "OpenAI Blog",
