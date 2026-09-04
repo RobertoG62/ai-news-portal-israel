@@ -2,10 +2,125 @@
   "news": [
     {
       "id": 1,
+      "title": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026",
+      "originalTitle": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "Daybreak for Frontline Defenders: $ 1B להגנה על שירותים חיוניים",
+      "originalTitle": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Daybreak for Frontline Defenders: $ 1B להגנה על שירותים חיוניים. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "‘NBA 2K27’ עם NVIDIA DLSS 5 מוביל 26 משחקים חדשים מגיעים ל - GeForce עכשיו",
+      "originalTitle": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "‘NBA 2K27’ עם NVIDIA DLSS 5 מוביל 26 משחקים חדשים מגיעים ל - GeForce עכשיו. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "LEGORA בדקה 41 מסמכים בדקות עם GPT -6 ASTRA",
+      "originalTitle": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "LEGORA בדקה 41 מסמכים בדקות עם GPT -6 ASTRA. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "תיקון ידני של Playco CUT 50% אב טיפוס של משחקים עם GPT -6 ASTRA",
+      "originalTitle": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "תיקון ידני של Playco CUT 50% אב טיפוס של משחקים עם GPT -6 ASTRA. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "NVIDIA לרכישת Hugging Face",
       "originalTitle": "NVIDIA to Acquire Hugging Face",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA לרכישת Hugging Face. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA לרכישת Hugging Face. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,131 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "סיור טרקטורונים באוויר הגדול הפך 3 ימי עבודה ל -3 שעות עם ChatGPT",
-      "originalTitle": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "headline": "השפעה על שוק ההון",
-      "summary": "סיור טרקטורונים באוויר הגדול הפך 3 ימי עבודה ל -3 שעות עם ChatGPT. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/atv-big-air-tour",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "NVIDIA ו - CrowdStrike מחזקים את גבולות אבטחת הסייבר הסוכנים",
-      "originalTitle": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA ו - CrowdStrike מחזקים את גבולות אבטחת הסייבר הסוכנים. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "כיצד חברות ילידות בינה מלאכותית הופכות תהליכי עבודה ליכולת תפעולית",
-      "originalTitle": "How AI-native companies turn workflows into operating capability",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד חברות ילידות בינה מלאכותית הופכות תהליכי עבודה ליכולת תפעולית. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/ai-native-company-workflows",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "נתיב לאסטרה: יכולות קריטיות ואמצעי הגנה על גבולות",
-      "originalTitle": "Path to Astra: critical capabilities and frontier safeguards",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "נתיב לאסטרה: יכולות קריטיות ואמצעי הגנה על גבולות. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/path-to-astra",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן",
-      "originalTitle": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA ו - MediaTek מעמיקים את השותפות ארוכת הטווח לבניית קצה בינה מלאכותית לפלטפורמות מחשוב ענן. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "20 מליון משתמשים בקודקס&#33; במהלך היום יכנס איפוס בנקאי למנויים (איפוס שתוכלו להחליט מתי להשתמש בו). בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "אחרי שהופיע בראיון עם מתיו ברמן וצחקו עליו שהוא מזדקן - טיבו זורם עם הבדיחה ומפציץ באיפוסים בקודקס. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "20 מליון משתמשים בקודקס&#33; במהלך היום יכנס איפוס בנקאי למנויים (איפוס שתוכלו להחליט מתי להשתמש בו). בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "אחרי שהופיע בראיון עם מתיו ברמן וצחקו עליו שהוא מזדקן - טיבו זורם עם הבדיחה ומפציץ באיפוסים בקודקס. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "״אם יום אחד יקרה לי משהו בנסיבות ‘מסתוריות’ - אתם כבר יודעים מי עומד מאחורי זה. אני אוהבת את החיים שלי.״ אחותו של סם אלטמן בטוויטר 👀 ההקשר: תביעה משפ...",
+      "title": "יצא לכם כבר להשתמש בגרוק בוט? מה היתרונות שלו על קודקס וקלוד קוד?",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "״אם יום אחד יקרה לי משהו בנסיבות ‘מסתוריות’ - אתם כבר יודעים מי עומד מאחורי זה. אני אוהבת את החיים שלי.״ אחותו של סם אלטמן בטוויטר 👀 ההקשר: תביעה משפ...",
+      "summary": "יצא לכם כבר להשתמש בגרוק בוט? מה היתרונות שלו על קודקס וקלוד קוד?",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 21 ימים",
+      "timeAgo": "לפני 22 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 233 ימים",
+      "timeAgo": "לפני 234 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-03T12:20:58.932Z",
+  "lastUpdated": "2026-09-04T12:21:36.210Z",
   "sources": {
     "official": [
       "OpenAI Blog",
