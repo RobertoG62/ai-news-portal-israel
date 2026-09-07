@@ -2,10 +2,79 @@
   "news": [
     {
       "id": 1,
+      "title": "תמיכה בעיתונות עצמאית באוקראינה",
+      "originalTitle": "Supporting independent journalism in Ukraine",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "תמיכה בעיתונות עצמאית באוקראינה. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מוח חייזרי",
+      "originalTitle": "An Alien Mind",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מוח חייזרי. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/an-alien-mind",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "האצת מחקר: הנוף בתוך OpenAI",
+      "originalTitle": "Research acceleration: The view inside OpenAI",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "האצת מחקר: הנוף בתוך OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026",
       "originalTitle": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,36 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "Daybreak for Frontline Defenders: $ 1B להגנה על שירותים חיוניים",
-      "originalTitle": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Daybreak for Frontline Defenders: $ 1B להגנה על שירותים חיוניים. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "‘NBA 2K27’ עם NVIDIA DLSS 5 מוביל 26 משחקים חדשים מגיעים ל - GeForce עכשיו",
       "originalTitle": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -64,53 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "תיקון ידני של Playco CUT 50% אב טיפוס של משחקים עם GPT -6 ASTRA",
-      "originalTitle": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "תיקון ידני של Playco CUT 50% אב טיפוס של משחקים עם GPT -6 ASTRA. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "LEGORA בדקה 41 מסמכים בדקות עם GPT -6 ASTRA",
-      "originalTitle": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "LEGORA בדקה 41 מסמכים בדקות עם GPT -6 ASTRA. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "NVIDIA לרכישת Hugging Face",
       "originalTitle": "NVIDIA to Acquire Hugging Face",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA לרכישת Hugging Face. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA לרכישת Hugging Face. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "יצא לכם כבר להשתמש בגרוק בוט? מה היתרונות שלו על קודקס וקלוד קוד?",
+      "title": "איפוס מגבלות בקודקס מחר עוד אחד… תתפרעו",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "יצא לכם כבר להשתמש בגרוק בוט? מה היתרונות שלו על קודקס וקלוד קוד?",
+      "summary": "איפוס מגבלות בקודקס מחר עוד אחד… תתפרעו",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "יצא לכם כבר להשתמש בגרוק בוט? מה היתרונות שלו על קודקס וקלוד קוד?",
+      "title": "סורי אבל אני לא שותף להייפ על גרוק בוט. ניסיתי אותו כמה ימים והוא די אכזב אותי. ממציא הרבה, לא מבין מה אני רוצה ממנו, ומגיע מאוד מהר למגבלה. אז זה נרא...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "יצא לכם כבר להשתמש בגרוק בוט? מה היתרונות שלו על קודקס וקלוד קוד?",
+      "summary": "סורי אבל אני לא שותף להייפ על גרוק בוט. ניסיתי אותו כמה ימים והוא די אכזב אותי. ממציא הרבה, לא מבין מה אני רוצה ממנו, ומגיע מאוד מהר למגבלה. אז זה נרא...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 24 ימים",
+      "timeAgo": "לפני 25 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 236 ימים",
+      "timeAgo": "לפני 237 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-06T11:49:47.455Z",
+  "lastUpdated": "2026-09-07T13:47:31.083Z",
   "sources": {
     "official": [
       "OpenAI Blog",
