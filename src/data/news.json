@@ -2,33 +2,33 @@
   "news": [
     {
       "id": 1,
-      "title": "תמיכה בעיתונות עצמאית באוקראינה",
-      "originalTitle": "Supporting independent journalism in Ukraine",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "תמיכה בעיתונות עצמאית באוקראינה. מוצר חדש מבטיח לחולל מהפכה",
+      "title": "כיצד GPT -5.6 SOL מסייע בהפעלת ניסויי מחשוב קוונטיים",
+      "originalTitle": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד GPT -5.6 SOL מסייע בהפעלת ניסויי מחשוב קוונטיים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "מוצר",
+      "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 19 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "מוח חייזרי",
-      "originalTitle": "An Alien Mind",
+      "title": "העבודה כעת בהישג יד",
+      "originalTitle": "The Work Now Within Reach",
       "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מוח חייזרי. פיתוח חדש פותח אפשרויות",
+      "summary": "העבודה כעת בהישג יד. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,22 +36,22 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/an-alien-mind",
+      "sourceUrl": "https://openai.com/index/the-work-now-within-reach",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 23 שעות",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 3,
-      "title": "האצת מחקר: הנוף בתוך OpenAI",
-      "originalTitle": "Research acceleration: The view inside OpenAI",
+      "title": "הכירו את ChatGPT Images 2.5",
+      "originalTitle": "Introducing ChatGPT Images 2.5",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "האצת מחקר: הנוף בתוך OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את ChatGPT Images 2.5. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,12 +59,12 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026",
       "originalTitle": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אנתרופיק משיקה את קלוד פייבל 5.1 וקלוד מיתוס 5.1 https://www.anthropic.com/claude-fable-and-mythos-5-1 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "&rlm;OpenAI: גם לנו יש מודל ממש ממש מסוכן ומפחיד תחזיקו אותנו שלא נשחרר אותו אמאלה https://openai.com/index/path-to-astra/ בינה מלאכותית בטלגרם - t.me...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אנתרופיק משיקה את קלוד פייבל 5.1 וקלוד מיתוס 5.1 https://www.anthropic.com/claude-fable-and-mythos-5-1 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "&rlm;OpenAI: גם לנו יש מודל ממש ממש מסוכן ומפחיד תחזיקו אותנו שלא נשחרר אותו אמאלה https://openai.com/index/path-to-astra/ בינה מלאכותית בטלגרם - t.me...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 26 ימים",
+      "timeAgo": "לפני 27 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 238 ימים",
+      "timeAgo": "לפני 239 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-08T12:23:11.868Z",
+  "lastUpdated": "2026-09-09T12:34:18.850Z",
   "sources": {
     "official": [
       "OpenAI Blog",
