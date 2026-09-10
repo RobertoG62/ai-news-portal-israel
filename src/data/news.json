@@ -2,33 +2,56 @@
   "news": [
     {
       "id": 1,
-      "title": "כיצד GPT -5.6 SOL מסייע בהפעלת ניסויי מחשוב קוונטיים",
-      "originalTitle": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד GPT -5.6 SOL מסייע בהפעלת ניסויי מחשוב קוונטיים. פיתוח חדש פותח אפשרויות",
+      "title": "NVIDIA ו - Palantir מביאים אינטליגנציה ריבונית לשרשראות אספקה קריטיות",
+      "originalTitle": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA ו - Palantir מביאים אינטליגנציה ריבונית לשרשראות אספקה קריטיות. השקה חדשה שתשנה את התעשייה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 19 שעות",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 3 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "העבודה כעת בהישג יד",
-      "originalTitle": "The Work Now Within Reach",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "העבודה כעת בהישג יד. פיתוח חדש פותח אפשרויות",
+      "title": "NVIDIA מרחיבה את קיבולת תשתיות הבינה המלאכותית בשותפות עם המערכת האקולוגית של מרכז הנתונים האוסטרלי",
+      "originalTitle": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA מרחיבה את קיבולת תשתיות הבינה המלאכותית בשותפות עם המערכת האקולוגית של מרכז הנתונים האוסטרלי. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "פול כריסטיאנו מצטרף למועצת המנהלים של קרן OpenAI",
+      "originalTitle": "Paul Christiano joins OpenAI Foundation Board",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "פול כריסטיאנו מצטרף למועצת המנהלים של קרן OpenAI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,7 +59,53 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/the-work-now-within-reach",
+      "sourceUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "NVIDIA מביא בינה מלאכותית בזמן אמת לשידור, ספורט וסטרימינג גלובלי ב - IBC",
+      "originalTitle": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA מביא בינה מלאכותית בזמן אמת לשידור, ספורט וסטרימינג גלובלי ב - IBC. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "חלון המדיניות של הבינה המלאכותית פתוח. אנחנו צריכים לפעול.",
+      "originalTitle": "The AI policy window is open. We need to act.",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חלון המדיניות של הבינה המלאכותית פתוח. אנחנו צריכים לפעול.. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/ai-policy-window",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -47,11 +116,11 @@
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "הכירו את ChatGPT Images 2.5",
-      "originalTitle": "Introducing ChatGPT Images 2.5",
+      "id": 6,
+      "title": "GPT -6 אסטרה: הדור הבא באינטליגנציה לעבודה",
+      "originalTitle": "GPT-6 Astra: The next generation in intelligence for work",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הכירו את ChatGPT Images 2.5. מחקר חדש חושף תובנות מרתקות",
+      "summary": "GPT -6 אסטרה: הדור הבא באינטליגנציה לעבודה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,7 +128,7 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -70,79 +139,10 @@
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026",
-      "originalTitle": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Sparks Fly: NVIDIA מאיץ בינה מלאכותית מקומית ב - IFA 2026. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 5 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "‘NBA 2K27’ עם NVIDIA DLSS 5 מוביל 26 משחקים חדשים מגיעים ל - GeForce עכשיו",
-      "originalTitle": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "‘NBA 2K27’ עם NVIDIA DLSS 5 מוביל 26 משחקים חדשים מגיעים ל - GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 5 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA לרכישת Hugging Face",
-      "originalTitle": "NVIDIA to Acquire Hugging Face",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA לרכישת Hugging Face. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 6 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
       "id": 7,
-      "title": "אנתרופיק משיקה את קלוד פייבל 5.1 וקלוד מיתוס 5.1 https://www.anthropic.com/claude-fable-and-mythos-5-1 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "דמו מאוד מרשים איך אסטרא משתמש במחשב, השאלה היא אם זה באמת המהירות שהוא מבצע דברים...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אנתרופיק משיקה את קלוד פייבל 5.1 וקלוד מיתוס 5.1 https://www.anthropic.com/claude-fable-and-mythos-5-1 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "דמו מאוד מרשים איך אסטרא משתמש במחשב, השאלה היא אם זה באמת המהירות שהוא מבצע דברים...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "&rlm;OpenAI: גם לנו יש מודל ממש ממש מסוכן ומפחיד תחזיקו אותנו שלא נשחרר אותו אמאלה https://openai.com/index/path-to-astra/ בינה מלאכותית בטלגרם - t.me...",
+      "title": "רגע מה 😵 בצד ימין שם למעלה.. כן.. עוד למעלה. שם. רואים? אנחנו צריכים מבחנים חדשים...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;OpenAI: גם לנו יש מודל ממש ממש מסוכן ומפחיד תחזיקו אותנו שלא נשחרר אותו אמאלה https://openai.com/index/path-to-astra/ בינה מלאכותית בטלגרם - t.me...",
+      "summary": "רגע מה 😵 בצד ימין שם למעלה.. כן.. עוד למעלה. שם. רואים? אנחנו צריכים מבחנים חדשים...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 27 ימים",
+      "timeAgo": "לפני 28 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 239 ימים",
+      "timeAgo": "לפני 240 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-09T12:34:18.850Z",
+  "lastUpdated": "2026-09-10T12:29:02.692Z",
   "sources": {
     "official": [
       "OpenAI Blog",
