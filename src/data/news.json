@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "Perplexity בוטחת ב - GPT -6 אסטרה עם מערכות מקצה לקצה",
+      "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Perplexity בוטחת ב - GPT -6 אסטרה עם מערכות מקצה לקצה. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "הקוגניציה עוזרת לדבין לבדוק את העבודה שלו עם GPT -6 ASTRA",
+      "originalTitle": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הקוגניציה עוזרת לדבין לבדוק את העבודה שלו עם GPT -6 ASTRA. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "אחסון מקוון בקנה מידה מהיר המשרת יותר ממיליארד משתמשי ChatGPT",
+      "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "אחסון מקוון בקנה מידה מהיר המשרת יותר ממיליארד משתמשי ChatGPT. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "Skild AI מקישה על NVIDIA בינה מלאכותית פיזית כדי ללמד רובוטים משימות חדשות מסרטון בודד",
       "originalTitle": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "בינה מלאכותית פיזית לוקחת את ההגה: כיצד מנהיגי הרובוטקסי בעולם בונים עם טכנולוגיות NVIDIA",
       "originalTitle": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
       "headline": "השקעה ענקית מעידה על פוטנציאל",
@@ -41,63 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 20 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "כיצד חוקר משתמש בקודקס ו - ChatGPT כדי לחפש מולקולות מיקרוביאליות חדשות",
-      "originalTitle": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד חוקר משתמש בקודקס ו - ChatGPT כדי לחפש מולקולות מיקרוביאליות חדשות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "עכשיו כולם יכולים להפעיל את הנתונים",
-      "originalTitle": "Now everyone can put data to work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "עכשיו כולם יכולים להפעיל את הנתונים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/put-data-to-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "d - Matrix מאמצת היתוך NVLink NVIDIA לפריסת XPU בגודל מתלה",
       "originalTitle": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "d - Matrix מאמצת היתוך NVLink NVIDIA לפריסת XPU בגודל מתלה. חומרה חדשה תאיץ את עולם ה-AI",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "d - Matrix מאמצת היתוך NVLink NVIDIA לפריסת XPU בגודל מתלה. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "הכירו את ChatGPT לשירותים פיננסיים",
-      "originalTitle": "Introducing ChatGPT for Financial Services",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הכירו את ChatGPT לשירותים פיננסיים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 29 ימים",
+      "timeAgo": "לפני 30 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 241 ימים",
+      "timeAgo": "לפני 242 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-11T12:26:40.778Z",
+  "lastUpdated": "2026-09-12T11:47:34.830Z",
   "sources": {
     "official": [
       "OpenAI Blog",
