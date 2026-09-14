@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA מרחיבה את פלטפורמת הקוד הפתוח CUDA - Q עבור מחשוב קוונטי עמיד לתקלות",
+      "originalTitle": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA מרחיבה את פלטפורמת הקוד הפתוח CUDA - Q עבור מחשוב קוונטי עמיד לתקלות. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "Perplexity בוטחת ב - GPT -6 אסטרה עם מערכות מקצה לקצה",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "headline": "התקדמות משמעותית בתחום",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "הקוגניציה עוזרת לדבין לבדוק את העבודה שלו עם GPT -6 ASTRA",
       "originalTitle": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "אחסון מקוון בקנה מידה מהיר המשרת יותר ממיליארד משתמשי ChatGPT",
       "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "headline": "משקיעים מאמינים בטכנולוגיה",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Skild AI מקישה על NVIDIA בינה מלאכותית פיזית כדי ללמד רובוטים משימות חדשות מסרטון בודד",
       "originalTitle": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Skild AI מקישה על NVIDIA בינה מלאכותית פיזית כדי ללמד רובוטים משימות חדשות מסרטון בודד. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Skild AI מקישה על NVIDIA בינה מלאכותית פיזית כדי ללמד רובוטים משימות חדשות מסרטון בודד. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "בינה מלאכותית פיזית לוקחת את ההגה: כיצד מנהיגי הרובוטקסי בעולם בונים עם טכנולוגיות NVIDIA",
       "originalTitle": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
       "headline": "השקעה ענקית מעידה על פוטנציאל",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "d - Matrix מאמצת היתוך NVLink NVIDIA לפריסת XPU בגודל מתלה",
-      "originalTitle": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "headline": "פריצת דרך בתחום החומרה",
-      "summary": "d - Matrix מאמצת היתוך NVLink NVIDIA לפריסת XPU בגודל מתלה. פריצת דרך בתחום החומרה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "רגע מה 😵 בצד ימין שם למעלה.. כן.. עוד למעלה. שם. רואים? אנחנו צריכים מבחנים חדשים...",
+      "title": "בא לי לעבוד בOpenAI רק בשביל לקבל גישה בלתי מוגבלת למודלים שיש להם.",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רגע מה 😵 בצד ימין שם למעלה.. כן.. עוד למעלה. שם. רואים? אנחנו צריכים מבחנים חדשים...",
+      "summary": "בא לי לעבוד בOpenAI רק בשביל לקבל גישה בלתי מוגבלת למודלים שיש להם.",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "&rlm;אם גם לכם התנתקו היום כל החיבורים בRemote Control ב-Codex שימו לייק, אחרת - שימו כל אימוג׳י אחר",
+      "title": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "&rlm;אם גם לכם התנתקו היום כל החיבורים בRemote Control ב-Codex שימו לייק, אחרת - שימו כל אימוג׳י אחר",
+      "summary": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 31 ימים",
+      "timeAgo": "לפני 32 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 243 ימים",
+      "timeAgo": "לפני 244 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-13T12:56:08.923Z",
+  "lastUpdated": "2026-09-14T14:33:30.849Z",
   "sources": {
     "official": [
       "OpenAI Blog",
