@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "Heart of the Matter: How a Major Children's Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "originalTitle": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Heart of the Matter: How a Major Children's Hospital Uses Open Source NVIDIA AI for Cardiac Care. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 3 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "מחשב נייד Perplexity זמין כעת ב - Windows, מופעל על ידי NVIDIA RTX",
+      "originalTitle": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "מחשב נייד Perplexity זמין כעת ב - Windows, מופעל על ידי NVIDIA RTX. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "NVIDIA מרחיבה את פלטפורמת הקוד הפתוח CUDA - Q עבור מחשוב קוונטי עמיד לתקלות",
       "originalTitle": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA מרחיבה את פלטפורמת הקוד הפתוח CUDA - Q עבור מחשוב קוונטי עמיד לתקלות. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA מרחיבה את פלטפורמת הקוד הפתוח CUDA - Q עבור מחשוב קוונטי עמיד לתקלות. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +64,36 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני שעה",
-      "isBreaking": true,
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
+      "title": "איך Fyxer בנה עוזר מנהל AI שאנשים סומכים עליו",
+      "originalTitle": "How Fyxer built an AI executive assistant people trust",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך Fyxer בנה עוזר מנהל AI שאנשים סומכים עליו. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/fyxer",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "Perplexity בוטחת ב - GPT -6 אסטרה עם מערכות מקצה לקצה",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "headline": "התקדמות משמעותית בתחום",
@@ -41,36 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 14 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "הקוגניציה עוזרת לדבין לבדוק את העבודה שלו עם GPT -6 ASTRA",
-      "originalTitle": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הקוגניציה עוזרת לדבין לבדוק את העבודה שלו עם GPT -6 ASTRA. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 6,
       "title": "אחסון מקוון בקנה מידה מהיר המשרת יותר ממיליארד משתמשי ChatGPT",
       "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "headline": "משקיעים מאמינים בטכנולוגיה",
@@ -87,62 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "Skild AI מקישה על NVIDIA בינה מלאכותית פיזית כדי ללמד רובוטים משימות חדשות מסרטון בודד",
-      "originalTitle": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "Skild AI מקישה על NVIDIA בינה מלאכותית פיזית כדי ללמד רובוטים משימות חדשות מסרטון בודד. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "בינה מלאכותית פיזית לוקחת את ההגה: כיצד מנהיגי הרובוטקסי בעולם בונים עם טכנולוגיות NVIDIA",
-      "originalTitle": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "בינה מלאכותית פיזית לוקחת את ההגה: כיצד מנהיגי הרובוטקסי בעולם בונים עם טכנולוגיות NVIDIA. השקעה ענקית מעידה על פוטנציאל",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "בא לי לעבוד בOpenAI רק בשביל לקבל גישה בלתי מוגבלת למודלים שיש להם.",
+      "title": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בא לי לעבוד בOpenAI רק בשביל לקבל גישה בלתי מוגבלת למודלים שיש להם.",
+      "summary": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "https://x.com/ai_x_il/status/2097109701594951723?s=46",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "https://x.com/ai_x_il/status/2097109701594951723?s=46",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 32 ימים",
+      "timeAgo": "לפני 33 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 244 ימים",
+      "timeAgo": "לפני 245 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-14T14:33:30.849Z",
+  "lastUpdated": "2026-09-15T12:59:42.321Z",
   "sources": {
     "official": [
       "OpenAI Blog",
