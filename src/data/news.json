@@ -2,10 +2,79 @@
   "news": [
     {
       "id": 1,
+      "title": "יצורים חמודים מגיעים לענן: ‘Aniimo‘ משיקה ב - GeForce עכשיו",
+      "originalTitle": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "יצורים חמודים מגיעים לענן: ‘Aniimo‘ משיקה ב - GeForce עכשיו. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT",
+      "originalTitle": "How Cooley is accelerating IPO work with ChatGPT",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT. מגמות חדשות בשוק",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/cooley-gopublic",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "הכירו את Astra for Law",
+      "originalTitle": "Introducing Astra for Law",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הכירו את Astra for Law. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/astra-for-law",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "סיוע לאנשים מבוגרים להשתמש בבינה מלאכותית בחיי היומיום",
       "originalTitle": "Helping older adults use AI in everyday life",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "סיוע לאנשים מבוגרים להשתמש בבינה מלאכותית בחיי היומיום. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "סיוע לאנשים מבוגרים להשתמש בבינה מלאכותית בחיי היומיום. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "NVIDIA Vera Rubin NVL72 מספק ביצועים מובילים ב - MLPerf Inference v6.1",
       "originalTitle": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -41,13 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים",
       "originalTitle": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
       "headline": "עדכון משמעותי שכדאי להכיר",
@@ -64,75 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "לדמיין מחדש את הפרסום באמצעות בינה מלאכותית",
-      "originalTitle": "Reimagining advertising with AI",
-      "headline": "השפעה על שוק ההון",
-      "summary": "לדמיין מחדש את הפרסום באמצעות בינה מלאכותית. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "כיצד לחבר את השימוש ב - AI לערך העסקי",
-      "originalTitle": "How to connect AI usage to business value",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כיצד לחבר את השימוש ב - AI לערך העסקי. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "אוניברסיטת מנצ'סטר משתמשת ב - NVIDIA Earth -2 לחיזוי זיהום אוויר ברחבי בריטניה",
-      "originalTitle": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "אוניברסיטת מנצ'סטר משתמשת ב - NVIDIA Earth -2 לחיזוי זיהום אוויר ברחבי בריטניה. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איפוס מגבלות בקודקס בסביבות השעה 4 בבוקר. תתפרעו בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "https://x.com/ai_x_il/status/2097109701594951723?s=46",
+      "title": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "https://x.com/ai_x_il/status/2097109701594951723?s=46",
+      "summary": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 35 ימים",
+      "timeAgo": "לפני 36 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 247 ימים",
+      "timeAgo": "לפני 248 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-17T12:53:36.170Z",
+  "lastUpdated": "2026-09-18T12:28:53.094Z",
   "sources": {
     "official": [
       "OpenAI Blog",
