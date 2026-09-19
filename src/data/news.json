@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי",
+      "originalTitle": "Introducing the Australian Youth Safety Blueprint",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "יצורים חמודים מגיעים לענן: ‘Aniimo‘ משיקה ב - GeForce עכשיו",
       "originalTitle": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT",
       "originalTitle": "How Cooley is accelerating IPO work with ChatGPT",
-      "headline": "מגמות חדשות בשוק",
-      "summary": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT. מגמות חדשות בשוק",
+      "headline": "תזוזות בשוק ה-AI",
+      "summary": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT. תזוזות בשוק ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "הכירו את Astra for Law",
       "originalTitle": "Introducing Astra for Law",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "הכירו את Astra for Law. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "הכירו את Astra for Law. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,30 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "סיוע לאנשים מבוגרים להשתמש בבינה מלאכותית בחיי היומיום",
-      "originalTitle": "Helping older adults use AI in everyday life",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "סיוע לאנשים מבוגרים להשתמש בבינה מלאכותית בחיי היומיום. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "NVIDIA Vera Rubin NVL72 מספק ביצועים מובילים ב - MLPerf Inference v6.1",
       "originalTitle": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA Vera Rubin NVL72 מספק ביצועים מובילים ב - MLPerf Inference v6.1. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA Vera Rubin NVL72 מספק ביצועים מובילים ב - MLPerf Inference v6.1. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים",
       "originalTitle": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
+      "title": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
+      "summary": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
+      "title": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
+      "summary": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 36 ימים",
+      "timeAgo": "לפני 37 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 248 ימים",
+      "timeAgo": "לפני 249 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-18T12:28:53.094Z",
+  "lastUpdated": "2026-09-19T12:09:04.941Z",
   "sources": {
     "official": [
       "OpenAI Blog",
