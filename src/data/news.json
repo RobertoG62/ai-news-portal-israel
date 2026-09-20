@@ -4,8 +4,8 @@
       "id": 1,
       "title": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי",
       "originalTitle": "Introducing the Australian Youth Safety Blueprint",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -50,8 +50,8 @@
       "id": 3,
       "title": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT",
       "originalTitle": "How Cooley is accelerating IPO work with ChatGPT",
-      "headline": "תזוזות בשוק ה-AI",
-      "summary": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT. תזוזות בשוק ה-AI",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT. מגמות חדשות בשוק",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "הכירו את Astra for Law",
       "originalTitle": "Introducing Astra for Law",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הכירו את Astra for Law. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "הכירו את Astra for Law. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים",
       "originalTitle": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
+      "title": "גם איוון הובינגר שאחראי על מחקר בטיחות והתאמה (alignment) של המודלים באנתרופיק חושב שכולנו הולכים למות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הפעלה: איך בדיוק הבינה המלאכותית תהרוג את כולנו עד סוף העשור? תהיו יצירתיים",
+      "summary": "גם איוון הובינגר שאחראי על מחקר בטיחות והתאמה (alignment) של המודלים באנתרופיק חושב שכולנו הולכים למות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
+      "title": "הנה הפתרון הסודי למקרה שה-AI באמת ינסה להרוג אותנו 🤫",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אני חושב שאחרי שגרוק בוט תפס למרות שהוא לא הביא שום חידוש טכני, אנשים קלטו שיש פער בין היכולות הטכניות לבין ההנגשה לאדם הממוצע שרק רוצה לעשות לוגין ול...",
+      "summary": "הנה הפתרון הסודי למקרה שה-AI באמת ינסה להרוג אותנו 🤫",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 37 ימים",
+      "timeAgo": "לפני 38 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 249 ימים",
+      "timeAgo": "לפני 250 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-19T12:09:04.941Z",
+  "lastUpdated": "2026-09-20T12:44:51.160Z",
   "sources": {
     "official": [
       "OpenAI Blog",
