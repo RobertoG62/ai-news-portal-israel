@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "5 חברות המשתמשות ב - NVIDIA AI לאנרגיה נקייה",
+      "originalTitle": "5 Companies Using NVIDIA AI for Clean Energy",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "5 חברות המשתמשות ב - NVIDIA AI לאנרגיה נקייה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 4 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כיצד V7 מעניק זיכרון מוסדי לסוכני בינה מלאכותית",
+      "originalTitle": "How V7 gives AI agents institutional memory",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד V7 מעניק זיכרון מוסדי לסוכני בינה מלאכותית. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/v7",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי",
       "originalTitle": "Introducing the Australian Youth Safety Blueprint",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "אנחנו שמחים להציג את שרטוט הבטיחות לנוער האוסטרלי. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "יצורים חמודים מגיעים לענן: ‘Aniimo‘ משיקה ב - GeForce עכשיו",
       "originalTitle": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -41,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "איך קולי מאיץ את תהליך ההנפקה עם ChatGPT",
       "originalTitle": "How Cooley is accelerating IPO work with ChatGPT",
       "headline": "מגמות חדשות בשוק",
@@ -64,36 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "הכירו את Astra for Law",
-      "originalTitle": "Introducing Astra for Law",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הכירו את Astra for Law. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/astra-for-law",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "NVIDIA Vera Rubin NVL72 מספק ביצועים מובילים ב - MLPerf Inference v6.1",
       "originalTitle": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -110,58 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים",
-      "originalTitle": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "ברית ההשקה של Emerald AI, Google ו - NVIDIA לקידום מרכזי נתוני בינה מלאכותית גמישים. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "גם איוון הובינגר שאחראי על מחקר בטיחות והתאמה (alignment) של המודלים באנתרופיק חושב שכולנו הולכים למות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גם איוון הובינגר שאחראי על מחקר בטיחות והתאמה (alignment) של המודלים באנתרופיק חושב שכולנו הולכים למות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "/favicons/telegram-org.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "הנה הפתרון הסודי למקרה שה-AI באמת ינסה להרוג אותנו 🤫",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "הנה הפתרון הסודי למקרה שה-AI באמת ינסה להרוג אותנו 🤫",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "גם איוון הובינגר שאחראי על מחקר בטיחות והתאמה (alignment) של המודלים באנתרופיק חושב שכולנו הולכים למות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "גם איוון הובינגר שאחראי על מחקר בטיחות והתאמה (alignment) של המודלים באנתרופיק חושב שכולנו הולכים למות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "/favicons/telegram-org.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 38 ימים",
+      "timeAgo": "לפני 39 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 250 ימים",
+      "timeAgo": "לפני 251 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-20T12:44:51.160Z",
+  "lastUpdated": "2026-09-21T14:40:50.796Z",
   "sources": {
     "official": [
       "OpenAI Blog",
