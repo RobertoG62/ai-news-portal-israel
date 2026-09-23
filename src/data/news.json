@@ -2,6 +2,98 @@
   "news": [
     {
       "id": 1,
+      "title": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית",
+      "originalTitle": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "ביום הבינה המלאכותית בסינגפור, NVIDIA ושותפים מציגים התקדמות בינה מלאכותית ברחבי דרום מזרח אסיה",
+      "originalTitle": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "ביום הבינה המלאכותית בסינגפור, NVIDIA ושותפים מציגים התקדמות בינה מלאכותית ברחבי דרום מזרח אסיה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 10 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "Grab ו - OpenAI מביאים מיומנויות AI מעשיות לדרום מזרח אסיה",
+      "originalTitle": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "Grab ו - OpenAI מביאים מיומנויות AI מעשיות לדרום מזרח אסיה. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 13 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "מטמון מהיר טוב יותר עבור GPT -6",
+      "originalTitle": "Better prompt caching for GPT-6",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מטמון מהיר טוב יותר עבור GPT -6. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 16 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, פיתוח רובוטיקה בקוד פתוח",
       "originalTitle": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "headline": "התקדמות משמעותית בתחום",
@@ -18,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "NVIDIA משיקה את DSX Ready כדי להעפיל למוצרי כוח וקירור עבור מפעלי בינה מלאכותית",
       "originalTitle": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA משיקה את DSX Ready כדי להעפיל למוצרי כוח וקירור עבור מפעלי בינה מלאכותית. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA משיקה את DSX Ready כדי להעפיל למוצרי כוח וקירור עבור מפעלי בינה מלאכותית. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,98 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 18 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "מהפעלה לביצוע, המערכת האקולוגית של הבינה המלאכותית של מצרים מגיעה לסולם הייצור",
-      "originalTitle": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מהפעלה לביצוע, המערכת האקולוגית של הבינה המלאכותית של מצרים מגיעה לסולם הייצור. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "קבוצה מייעצת למתמטיקה ובינה מלאכותית",
-      "originalTitle": "Advisory Group on Mathematics and Artificial Intelligence",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "קבוצה מייעצת למתמטיקה ובינה מלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "Higgsfield AI שולחת תכונות וידאו חדשות ביום עם GPT -6 ASTRA",
-      "originalTitle": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "headline": "תזוזות בשוק ה-AI",
-      "summary": "Higgsfield AI שולחת תכונות וידאו חדשות ביום עם GPT -6 ASTRA. תזוזות בשוק ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "תקני בניין לשלב הבא של בינה מלאכותית",
-      "originalTitle": "Building standards for the next phase of AI",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "תקני בניין לשלב הבא של בינה מלאכותית. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "הנה הפתרון הסודי למקרה שה-AI באמת ינסה להרוג אותנו 🤫",
+      "title": "גם אילון מאסק מוסיף שמן למדורה ומצייץ מחדש ציוץ מ2023: AGI הוא סיכון הרבה יותר גדול מנשק גרעיני. ☢️ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הנה הפתרון הסודי למקרה שה-AI באמת ינסה להרוג אותנו 🤫",
+      "summary": "גם אילון מאסק מוסיף שמן למדורה ומצייץ מחדש ציוץ מ2023: AGI הוא סיכון הרבה יותר גדול מנשק גרעיני. ☢️ בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "באג מוזר בקודקס. לחלק מהמשתמשים מגבלות השימוש ירדו ל 0% ולחלק קפץ ל100%. לעוד מישהו פה זה קרה?",
+      "title": "גם דריו אמודיי מנכ״ל אנתרופיק: המעבדות הגדולות צריכות להתאחד ולהאט את קצב הפיתוח של המודלים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "באג מוזר בקודקס. לחלק מהמשתמשים מגבלות השימוש ירדו ל 0% ולחלק קפץ ל100%. לעוד מישהו פה זה קרה?",
+      "summary": "גם דריו אמודיי מנכ״ל אנתרופיק: המעבדות הגדולות צריכות להתאחד ולהאט את קצב הפיתוח של המודלים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 40 ימים",
+      "timeAgo": "לפני 41 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 252 ימים",
+      "timeAgo": "לפני 253 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-22T12:55:49.033Z",
+  "lastUpdated": "2026-09-23T13:07:07.005Z",
   "sources": {
     "official": [
       "OpenAI Blog",
