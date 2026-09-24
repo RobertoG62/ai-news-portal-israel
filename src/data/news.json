@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "שנתיים של אקדמיית OpenAI",
+      "originalTitle": "Two years of OpenAI Academy",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "שנתיים של אקדמיית OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "סאקינה פיזה מסייעת לחומרת NVIDIA להצליח בקנה מידה",
+      "originalTitle": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "סאקינה פיזה מסייעת לחומרת NVIDIA להצליח בקנה מידה. חומרה חדשה תאיץ את עולם ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית",
       "originalTitle": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,40 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
+      "title": "דבריו של סם אלטמן במועצת הביטחון של האו\"ם",
+      "originalTitle": "Sam Altman’s remarks at the United Nations Security Council",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "דבריו של סם אלטמן במועצת הביטחון של האו\"ם. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "ביום הבינה המלאכותית בסינגפור, NVIDIA ושותפים מציגים התקדמות בינה מלאכותית ברחבי דרום מזרח אסיה",
       "originalTitle": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ביום הבינה המלאכותית בסינגפור, NVIDIA ושותפים מציגים התקדמות בינה מלאכותית ברחבי דרום מזרח אסיה. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "ביום הבינה המלאכותית בסינגפור, NVIDIA ושותפים מציגים התקדמות בינה מלאכותית ברחבי דרום מזרח אסיה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,63 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 10 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "Grab ו - OpenAI מביאים מיומנויות AI מעשיות לדרום מזרח אסיה",
-      "originalTitle": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "Grab ו - OpenAI מביאים מיומנויות AI מעשיות לדרום מזרח אסיה. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 13 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "מטמון מהיר טוב יותר עבור GPT -6",
-      "originalTitle": "Better prompt caching for GPT-6",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מטמון מהיר טוב יותר עבור GPT -6. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, פיתוח רובוטיקה בקוד פתוח",
       "originalTitle": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, פיתוח רובוטיקה בקוד פתוח. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, פיתוח רובוטיקה בקוד פתוח. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,30 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA משיקה את DSX Ready כדי להעפיל למוצרי כוח וקירור עבור מפעלי בינה מלאכותית",
-      "originalTitle": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA משיקה את DSX Ready כדי להעפיל למוצרי כוח וקירור עבור מפעלי בינה מלאכותית. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 41 ימים",
+      "timeAgo": "לפני 42 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 253 ימים",
+      "timeAgo": "לפני 254 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-23T13:07:07.005Z",
+  "lastUpdated": "2026-09-24T13:01:05.382Z",
   "sources": {
     "official": [
       "OpenAI Blog",
