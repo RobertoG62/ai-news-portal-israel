@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "Proaction מגדיל את המכירות ב -60% וחוסך 75+ שעות עם Codex",
+      "originalTitle": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Proaction מגדיל את המכירות ב -60% וחוסך 75+ שעות עם Codex. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/proaction",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "כיצד מדע פתוח יכול לעזור לחוקרים להתכונן למגפה הבאה",
       "originalTitle": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד מדע פתוח יכול לעזור לחוקרים להתכונן למגפה הבאה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד מדע פתוח יכול לעזור לחוקרים להתכונן למגפה הבאה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "מכיל את הכאוס: ‘CONTROL resonant' משיקה ב - GeForce עכשיו",
       "originalTitle": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
       "headline": "עדכון משמעותי שכדאי להכיר",
@@ -47,11 +70,11 @@
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "שנתיים של אקדמיית OpenAI",
       "originalTitle": "Two years of OpenAI Academy",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שנתיים של אקדמיית OpenAI. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "שנתיים של אקדמיית OpenAI. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "סאקינה פיזה מסייעת לחומרת NVIDIA להצליח בקנה מידה",
       "originalTitle": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "headline": "חומרה חדשה תאיץ את עולם ה-AI",
@@ -87,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית",
       "originalTitle": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -116,33 +139,10 @@
       "isHebrew": false
     },
     {
-      "id": 6,
-      "title": "דבריו של סם אלטמן במועצת הביטחון של האו\"ם",
-      "originalTitle": "Sam Altman’s remarks at the United Nations Security Council",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "דבריו של סם אלטמן במועצת הביטחון של האו\"ם. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
       "id": 7,
-      "title": "גם דריו אמודיי מנכ״ל אנתרופיק: המעבדות הגדולות צריכות להתאחד ולהאט את קצב הפיתוח של המודלים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "במהלך החג בוצע איפוס מגבלות בקודקס שנה טובה&#33;",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גם דריו אמודיי מנכ״ל אנתרופיק: המעבדות הגדולות צריכות להתאחד ולהאט את קצב הפיתוח של המודלים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "במהלך החג בוצע איפוס מגבלות בקודקס שנה טובה&#33;",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "במהלך החג בוצע איפוס מגבלות בקודקס שנה טובה&#33;",
+      "title": "גם דריו אמודיי מנכ״ל אנתרופיק: המעבדות הגדולות צריכות להתאחד ולהאט את קצב הפיתוח של המודלים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "במהלך החג בוצע איפוס מגבלות בקודקס שנה טובה&#33;",
+      "summary": "גם דריו אמודיי מנכ״ל אנתרופיק: המעבדות הגדולות צריכות להתאחד ולהאט את קצב הפיתוח של המודלים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 43 ימים",
+      "timeAgo": "לפני 44 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 255 ימים",
+      "timeAgo": "לפני 256 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-25T13:06:30.897Z",
+  "lastUpdated": "2026-09-26T12:33:36.496Z",
   "sources": {
     "official": [
       "OpenAI Blog",
