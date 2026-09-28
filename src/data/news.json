@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA מודיעה על עלייה של $ 150 מיליארד ברכישה חוזרת של מניות",
+      "originalTitle": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "NVIDIA מודיעה על עלייה של $ 150 מיליארד ברכישה חוזרת של מניות. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA משיקה פלטפורמת בטיחות סוכן פתוחה כדי לאבטח סוכנים מבדיקות ועד פריסה",
+      "originalTitle": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA משיקה פלטפורמת בטיחות סוכן פתוחה כדי לאבטח סוכנים מבדיקות ועד פריסה. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 7 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "Proaction מגדיל את המכירות ב -60% וחוסך 75+ שעות עם Codex",
       "originalTitle": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Proaction מגדיל את המכירות ב -60% וחוסך 75+ שעות עם Codex. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "Proaction מגדיל את המכירות ב -60% וחוסך 75+ שעות עם Codex. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": true,
+      "timeAgo": "לפני 2 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "כיצד מדע פתוח יכול לעזור לחוקרים להתכונן למגפה הבאה",
       "originalTitle": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד מדע פתוח יכול לעזור לחוקרים להתכונן למגפה הבאה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כיצד מדע פתוח יכול לעזור לחוקרים להתכונן למגפה הבאה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,36 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "מכיל את הכאוס: ‘CONTROL resonant' משיקה ב - GeForce עכשיו",
-      "originalTitle": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "מכיל את הכאוס: ‘CONTROL resonant' משיקה ב - GeForce עכשיו. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 5,
       "title": "שנתיים של אקדמיית OpenAI",
       "originalTitle": "Two years of OpenAI Academy",
       "headline": "התקדמות משמעותית בתחום",
@@ -87,30 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "סאקינה פיזה מסייעת לחומרת NVIDIA להצליח בקנה מידה",
-      "originalTitle": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-      "headline": "שבב חדש מבטיח ביצועים מרשימים",
-      "summary": "סאקינה פיזה מסייעת לחומרת NVIDIA להצליח בקנה מידה. שבב חדש מבטיח ביצועים מרשימים",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית",
       "originalTitle": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI מרחיב את הגישה הקיברנטית לאוקראינה להגנה אזרחית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "זה משמעותי: &rlm;OpenAI פתחה בישראל את האפשרות לפרסם מודעות ממומנות בתוך ChatGPT. מתחילים כאן: https://ads.openai.com/ זה חתיכת אירוע - מפרסמים יכולים...",
+      "title": "״את צריכה לסמוך על ה-AI סבתא, הוא יודע מה הוא עושה״ הכי מצחיק שתראו היום 😂 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זה משמעותי: &rlm;OpenAI פתחה בישראל את האפשרות לפרסם מודעות ממומנות בתוך ChatGPT. מתחילים כאן: https://ads.openai.com/ זה חתיכת אירוע - מפרסמים יכולים...",
+      "summary": "״את צריכה לסמוך על ה-AI סבתא, הוא יודע מה הוא עושה״ הכי מצחיק שתראו היום 😂 בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "רק לדייק: הפרסומות בצאט מופרדות בצורה ברורה מהתשובה של המודל. ומנויים (Plus ומעלה) לא רואים פרסומות בכלל.",
+      "title": "😺 ☁️ פרצו ל-OpenAI בעזרת קלוד: חוקרי אבט&quot;מ מ-Hacktron הצליחו להשתלט על חשבונות ChatGPT ו-Codex של עובדי OpenAI ולהגיע עד למאגרי הקוד הפנימיים של...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "רק לדייק: הפרסומות בצאט מופרדות בצורה ברורה מהתשובה של המודל. ומנויים (Plus ומעלה) לא רואים פרסומות בכלל.",
+      "summary": "😺 ☁️ פרצו ל-OpenAI בעזרת קלוד: חוקרי אבט&quot;מ מ-Hacktron הצליחו להשתלט על חשבונות ChatGPT ו-Codex של עובדי OpenAI ולהגיע עד למאגרי הקוד הפנימיים של...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 45 ימים",
+      "timeAgo": "לפני 46 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 257 ימים",
+      "timeAgo": "לפני 258 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-27T13:24:11.580Z",
+  "lastUpdated": "2026-09-28T16:14:46.067Z",
   "sources": {
     "official": [
       "OpenAI Blog",
