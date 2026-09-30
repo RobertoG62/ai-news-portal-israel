@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "איך נשתפר עבור אוסטרליה",
-      "originalTitle": "How we will do better for Australia",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך נשתפר עבור אוסטרליה. מחקר חדש חושף תובנות מרתקות",
+      "title": "הכירו את GPT -6.1 Sol",
+      "originalTitle": "Introducing GPT-6.1 Sol",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "הכירו את GPT -6.1 Sol. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +13,45 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "לקראת מקרי בטיחות להדרכת Frontier AI",
-      "originalTitle": "Towards safety cases for frontier AI training",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "לקראת מקרי בטיחות להדרכת Frontier AI. מחקר חדש חושף תובנות מרתקות",
+      "title": "סיכום DevDay 2026",
+      "originalTitle": "DevDay 2026 Recap",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "סיכום DevDay 2026. עדכון משמעותי שכדאי להכיר",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/devday-2026-recap",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "חדש: נקודות",
+      "originalTitle": "Introducing dots",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "חדש: נקודות. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,22 +59,22 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "sourceUrl": "https://openai.com/index/introducing-dots",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "NVIDIA מודיעה על עלייה של $ 150 מיליארד ברכישה חוזרת של מניות",
       "originalTitle": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "NVIDIA מודיעה על עלייה של $ 150 מיליארד ברכישה חוזרת של מניות. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "NVIDIA מודיעה על עלייה של $ 150 מיליארד ברכישה חוזרת של מניות. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "NVIDIA משיקה פלטפורמת בטיחות סוכן פתוחה כדי לאבטח סוכנים מבדיקות ועד פריסה",
       "originalTitle": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA משיקה פלטפורמת בטיחות סוכן פתוחה כדי לאבטח סוכנים מבדיקות ועד פריסה. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA משיקה פלטפורמת בטיחות סוכן פתוחה כדי לאבטח סוכנים מבדיקות ועד פריסה. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,30 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "מכון Lenfest מצמיח תוכנית פורצת דרך עם תמיכה מורחבת ב - OpenAI",
-      "originalTitle": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "מכון Lenfest מצמיח תוכנית פורצת דרך עם תמיכה מורחבת ב - OpenAI. השקעה ענקית מעידה על פוטנציאל",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 5 ימים",
+      "timeAgo": "לפני 6 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "גיפיטי 6 סול ו 6 לונה מתחילים לצאת למשתמשים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "במהלך החג קודקס הפסיק לעבוד לזמן קצר - מה שהוביל לאיפוס מגבלות למנויים ולעוד רמזים על הסוכן האישי החדש שבדרך - o בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גיפיטי 6 סול ו 6 לונה מתחילים לצאת למשתמשים. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "במהלך החג קודקס הפסיק לעבוד לזמן קצר - מה שהוביל לאיפוס מגבלות למנויים ולעוד רמזים על הסוכן האישי החדש שבדרך - o בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "איפוס מגבלות בנקאי בקודקס לכל המנויים תהנו.",
+      "title": "קלוד קוד מעכשיו לא יעצור באמצע משימה כשהגעתם למגבלה אלא ימשיך עוד קצת וינסה למצוא מקום טוב לעצור בו. אמנם הוא לא ממשיך עד סוף המשימה, אבל זה עדיף מאשר...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "איפוס מגבלות בנקאי בקודקס לכל המנויים תהנו.",
+      "summary": "קלוד קוד מעכשיו לא יעצור באמצע משימה כשהגעתם למגבלה אלא ימשיך עוד קצת וינסה למצוא מקום טוב לעצור בו. אמנם הוא לא ממשיך עד סוף המשימה, אבל זה עדיף מאשר...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 47 ימים",
+      "timeAgo": "לפני 48 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 259 ימים",
+      "timeAgo": "לפני 260 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-09-29T14:27:44.395Z",
+  "lastUpdated": "2026-09-30T14:24:31.039Z",
   "sources": {
     "official": [
       "OpenAI Blog",
