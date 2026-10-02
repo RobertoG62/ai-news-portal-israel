@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית",
+      "originalTitle": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "כיצד NVIDIA GPUs עוזרים להאיץ את ה - OpenAI GPT -6 Astra Ultrafast של NVIDIA",
+      "originalTitle": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "headline": "שבב חדש מבטיח ביצועים מרשימים",
+      "summary": "כיצד NVIDIA GPUs עוזרים להאיץ את ה - OpenAI GPT -6 Astra Ultrafast של NVIDIA. שבב חדש מבטיח ביצועים מרשימים",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 14 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "המשלים הנצחי",
+      "originalTitle": "The eternal complement",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "המשלים הנצחי. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/the-eternal-complement",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 21 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "איך Albertsons Companies מדמיינת מחדש את הקמעונאות מבפנים החוצה",
+      "originalTitle": "How Albertsons Companies is reimagining retail from the inside out",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "איך Albertsons Companies מדמיינת מחדש את הקמעונאות מבפנים החוצה. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "סתיו לתוך 25 משחקים חדשים ב - GeForce עכשיו באוקטובר הקרוב",
       "originalTitle": "Fall Into 25 New Games on GeForce NOW This October",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "סתיו לתוך 25 משחקים חדשים ב - GeForce עכשיו באוקטובר הקרוב. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "סתיו לתוך 25 משחקים חדשים ב - GeForce עכשיו באוקטובר הקרוב. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,98 +110,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני שעה",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "פרודוקטיבי, עמיד, Fungible: כיצד מפעלי NVIDIA AI ממקסמים את ההחזר על ההשקעה",
-      "originalTitle": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "פרודוקטיבי, עמיד, Fungible: כיצד מפעלי NVIDIA AI ממקסמים את ההחזר על ההשקעה. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני שעה",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "NVIDIA פותח בקשות למלגות לתארים מתקדמים 2027 -2028 עם פרסים עד 60,000 $",
-      "originalTitle": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA פותח בקשות למלגות לתארים מתקדמים 2027 -2028 עם פרסים עד 60,000 $. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 21 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "שיבוש קמפיין מתואם לפירוק מודלים",
-      "originalTitle": "Disrupting a coordinated model-distillation campaign",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שיבוש קמפיין מתואם לפירוק מודלים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "סיוע לעסקים קטנים להפעיל את הבינה המלאכותית",
-      "originalTitle": "Helping small businesses put AI to work",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "סיוע לעסקים קטנים להפעיל את הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -117,10 +117,10 @@
     },
     {
       "id": 6,
-      "title": "הכירו את GPT -6.1 Sol",
-      "originalTitle": "Introducing GPT-6.1 Sol",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הכירו את GPT -6.1 Sol. מחקר חדש חושף תובנות מרתקות",
+      "title": "המאורה משחררת 10 -15 שעות בשבוע כדי לגדול עם ChatGPT Work",
+      "originalTitle": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "המאורה משחררת 10 -15 שעות בשבוע כדי לגדול עם ChatGPT Work. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -128,21 +128,21 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "sourceUrl": "https://openai.com/index/the-den-family-social",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "גוגל הוסיפו לאנטיגרביטי Plan Mode וטיבו מ-OpenAI מנצל את ההזדמנות לעקוץ אותם. גוגל לאחרונה לא כל כך איתנו… מקווה שיתאוששו מהר. בינה מלאכותית בטלגרם - ...",
+      "title": "תשקלו מחדש את המנוי שלכם: OpenAI מעדכנת את מנוי ה-Pro הגבוה ביותר שלה (200&#036;) וחותכת בערך בחצי (&#33;) את שווי השימוש שהוא נותן לפי מחירי ה-API. ל...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גוגל הוסיפו לאנטיגרביטי Plan Mode וטיבו מ-OpenAI מנצל את ההזדמנות לעקוץ אותם. גוגל לאחרונה לא כל כך איתנו… מקווה שיתאוששו מהר. בינה מלאכותית בטלגרם - ...",
+      "summary": "תשקלו מחדש את המנוי שלכם: OpenAI מעדכנת את מנוי ה-Pro הגבוה ביותר שלה (200&#036;) וחותכת בערך בחצי (&#33;) את שווי השימוש שהוא נותן לפי מחירי ה-API. ל...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "כן, בואו ניתן לסוכן AI לנהל לנו את החיים מה כבר יכול להשתבש? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "ברוכים הבאים לכל המצטרפים החדשים 🍸 רוצים גם לדבר ולא רק לקרוא? יש לנו קבוצה: https://t.me/+Q89psGMHpZEyN2Q8 מועדים לשמחה",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "כן, בואו ניתן לסוכן AI לנהל לנו את החיים מה כבר יכול להשתבש? בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "ברוכים הבאים לכל המצטרפים החדשים 🍸 רוצים גם לדבר ולא רק לקרוא? יש לנו קבוצה: https://t.me/+Q89psGMHpZEyN2Q8 מועדים לשמחה",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 49 ימים",
+      "timeAgo": "לפני 50 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 261 ימים",
+      "timeAgo": "לפני 262 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-01T14:55:25.639Z",
+  "lastUpdated": "2026-10-02T14:18:08.842Z",
   "sources": {
     "official": [
       "OpenAI Blog",
