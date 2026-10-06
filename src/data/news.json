@@ -2,6 +2,29 @@
   "news": [
     {
       "id": 1,
+      "title": "מדוע מפעילי הטלקום בונים את אסטרטגיית הבינה המלאכותית שלהם על מודלים פתוחים",
+      "originalTitle": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מדוע מפעילי הטלקום בונים את אסטרטגיית הבינה המלאכותית שלהם על מודלים פתוחים. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני שעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "הגישה שלנו לכללי מקור הטקסטים של האיחוד האירופי",
       "originalTitle": "Our approach to EU text provenance rules",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני שעה",
-      "isBreaking": true,
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "מסריקה לתוכנית טיפול, הבינה המלאכותית עוזרת לסגור את הפערים הקטלניים ביותר של סרטן השד",
       "originalTitle": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מסריקה לתוכנית טיפול, הבינה המלאכותית עוזרת לסגור את הפערים הקטלניים ביותר של סרטן השד. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "מסריקה לתוכנית טיפול, הבינה המלאכותית עוזרת לסגור את הפערים הקטלניים ביותר של סרטן השד. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "בניית פרסום עבור האופן שבו אנשים משתמשים ב - AI",
       "originalTitle": "Building advertising for the way people use AI",
       "headline": "התקדמות משמעותית בתחום",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 6 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "מדריך לדוגמה למשפחת GPT -6",
       "originalTitle": "A model guide for the GPT-6 family",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "מדריך לדוגמה למשפחת GPT -6. מחקר חדש חושף תובנות מרתקות",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מדריך לדוגמה למשפחת GPT -6. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -93,11 +116,11 @@
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית",
       "originalTitle": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "כיצד NVIDIA GPUs עוזרים להאיץ את ה - OpenAI GPT -6 Astra Ultrafast של NVIDIA",
-      "originalTitle": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "כיצד NVIDIA GPUs עוזרים להאיץ את ה - OpenAI GPT -6 Astra Ultrafast של NVIDIA. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "היום 20:00 שעון ישראל ״on the dot״ שידור חי מ-DevDay של OpenAI. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "אז הצטרפו לערוץ בשעות האחרונות מעל 13,500 בוטים. יכולתי להסיר אותם עם סקריפט פשוט, אבל העדפתי לתת לקודקס שיעשה את זה בצורה יצירתית, צפו. 🤣 הקרב עדיין...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "היום 20:00 שעון ישראל ״on the dot״ שידור חי מ-DevDay של OpenAI. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "אז הצטרפו לערוץ בשעות האחרונות מעל 13,500 בוטים. יכולתי להסיר אותם עם סקריפט פשוט, אבל העדפתי לתת לקודקס שיעשה את זה בצורה יצירתית, צפו. 🤣 הקרב עדיין...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "הלייב מתחיל עוד כמה דקות https://www.youtube.com/watch?v=Fls_onRviPM",
+      "title": "חזלש. כל הבוטים בחוץ. עכשיו אפשר להתפנות להכרזות של OpenAI.",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "הלייב מתחיל עוד כמה דקות https://www.youtube.com/watch?v=Fls_onRviPM",
+      "summary": "חזלש. כל הבוטים בחוץ. עכשיו אפשר להתפנות להכרזות של OpenAI.",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 53 ימים",
+      "timeAgo": "לפני 54 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 265 ימים",
+      "timeAgo": "לפני 266 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-05T16:35:52.275Z",
+  "lastUpdated": "2026-10-06T14:35:27.950Z",
   "sources": {
     "official": [
       "OpenAI Blog",
