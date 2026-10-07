@@ -4,8 +4,8 @@
       "id": 1,
       "title": "מדוע מפעילי הטלקום בונים את אסטרטגיית הבינה המלאכותית שלהם על מודלים פתוחים",
       "originalTitle": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מדוע מפעילי הטלקום בונים את אסטרטגיית הבינה המלאכותית שלהם על מודלים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מדוע מפעילי הטלקום בונים את אסטרטגיית הבינה המלאכותית שלהם על מודלים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +18,63 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני שעה",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "הגישה שלנו לכללי מקור הטקסטים של האיחוד האירופי",
-      "originalTitle": "Our approach to EU text provenance rules",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הגישה שלנו לכללי מקור הטקסטים של האיחוד האירופי. פיתוח חדש פותח אפשרויות",
+      "title": "כיצד Jump Trading מדרג מחקר קוונטי עם ChatGPT",
+      "originalTitle": "How Jump Trading is scaling quant research with ChatGPT",
+      "headline": "השפעה על שוק ההון",
+      "summary": "כיצד Jump Trading מדרג מחקר קוונטי עם ChatGPT. השפעה על שוק ההון",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/jump-trading",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "שיתוף התקדמות הבינה המלאכותית במתמטיקה",
+      "originalTitle": "Sharing AI progress in mathematics",
+      "headline": "מגמות חדשות בשוק",
+      "summary": "שיתוף התקדמות הבינה המלאכותית במתמטיקה. מגמות חדשות בשוק",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "שווקים",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "קידום השימוש במחשב עם Ironclad",
+      "originalTitle": "Advancing computer use with Ironclad",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "קידום השימוש במחשב עם Ironclad. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,22 +82,22 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/eu-text-provenance",
+      "sourceUrl": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "מסריקה לתוכנית טיפול, הבינה המלאכותית עוזרת לסגור את הפערים הקטלניים ביותר של סרטן השד",
       "originalTitle": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "מסריקה לתוכנית טיפול, הבינה המלאכותית עוזרת לסגור את הפערים הקטלניים ביותר של סרטן השד. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "מסריקה לתוכנית טיפול, הבינה המלאכותית עוזרת לסגור את הפערים הקטלניים ביותר של סרטן השד. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,53 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "בניית פרסום עבור האופן שבו אנשים משתמשים ב - AI",
-      "originalTitle": "Building advertising for the way people use AI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "בניית פרסום עבור האופן שבו אנשים משתמשים ב - AI. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "מדריך לדוגמה למשפחת GPT -6",
-      "originalTitle": "A model guide for the GPT-6 family",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "מדריך לדוגמה למשפחת GPT -6. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית",
       "originalTitle": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA DGX SPARK 64GB נותן למפתחים דרכים נוספות לבנות ולהגדיל בינה מלאכותית מקומית. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "אז הצטרפו לערוץ בשעות האחרונות מעל 13,500 בוטים. יכולתי להסיר אותם עם סקריפט פשוט, אבל העדפתי לתת לקודקס שיעשה את זה בצורה יצירתית, צפו. 🤣 הקרב עדיין...",
+      "title": "אז מה היה לנו היום בשידור של OpenAI ביום המפתחים קודם כול, הם משיקים את Dots - עוזר אישי חכם, שנועד לתת מענה ל-Grok Bot, למיוז של מטא ול-Instinct שתפס...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אז הצטרפו לערוץ בשעות האחרונות מעל 13,500 בוטים. יכולתי להסיר אותם עם סקריפט פשוט, אבל העדפתי לתת לקודקס שיעשה את זה בצורה יצירתית, צפו. 🤣 הקרב עדיין...",
+      "summary": "אז מה היה לנו היום בשידור של OpenAI ביום המפתחים קודם כול, הם משיקים את Dots - עוזר אישי חכם, שנועד לתת מענה ל-Grok Bot, למיוז של מטא ול-Instinct שתפס...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "חזלש. כל הבוטים בחוץ. עכשיו אפשר להתפנות להכרזות של OpenAI.",
+      "title": "העוזרים האישיים של OpenAI - ה-Dots, מתחילים להגיע למשתמשים גם בישראל. כנסו דרך המחשב כדי להגדיר בפעם הראשונה ואז תוכלו להמשיך מהפון.",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "חזלש. כל הבוטים בחוץ. עכשיו אפשר להתפנות להכרזות של OpenAI.",
+      "summary": "העוזרים האישיים של OpenAI - ה-Dots, מתחילים להגיע למשתמשים גם בישראל. כנסו דרך המחשב כדי להגדיר בפעם הראשונה ואז תוכלו להמשיך מהפון.",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 54 ימים",
+      "timeAgo": "לפני 55 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 266 ימים",
+      "timeAgo": "לפני 267 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-06T14:35:27.950Z",
+  "lastUpdated": "2026-10-07T14:54:35.767Z",
   "sources": {
     "official": [
       "OpenAI Blog",
