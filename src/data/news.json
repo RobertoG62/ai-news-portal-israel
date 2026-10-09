@@ -2,6 +2,75 @@
   "news": [
     {
       "id": 1,
+      "title": "Sophos מקצצת את זמן חקירת האיומים ב -96% עם שחר OpenAI",
+      "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Sophos מקצצת את זמן חקירת האיומים ב -96% עם שחר OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/sophos",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 7 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier",
+      "originalTitle": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex",
+      "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/oracle",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "NVIDIA מתחייבת להקדים את המדע האמריקאי במיליארד $ בחמש השנים הקרובות",
       "originalTitle": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
       "headline": "משקיעים מאמינים בטכנולוגיה",
@@ -18,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "Rally Up: ‘Gears of War: E - Day’ יושק ב - GeForce עכשיו",
       "originalTitle": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "Rally Up: ‘Gears of War: E - Day’ יושק ב - GeForce עכשיו. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "Rally Up: ‘Gears of War: E - Day’ יושק ב - GeForce עכשיו. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,75 +110,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "NVIDIA , Microsoft פתח התחלה חדשה עבור מחשבי Windows עם סוכני ניצוץ ו - AI של RTX",
-      "originalTitle": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
-      "headline": "שבב חדש מבטיח ביצועים מרשימים",
-      "summary": "NVIDIA , Microsoft פתח התחלה חדשה עבור מחשבי Windows עם סוכני ניצוץ ו - AI של RTX. שבב חדש מבטיח ביצועים מרשימים",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 20 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "לעזור לבני נוער ללמוד, לתכנן ולעצב את העתיד של הבינה המלאכותית",
-      "originalTitle": "Helping teens learn, plan, and shape the future of AI",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "לעזור לבני נוער ללמוד, לתכנן ולעצב את העתיד של הבינה המלאכותית. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/teens-learn-and-plan",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "Radisson Hotel Group מביאה את גילוי המלון אל ChatGPT",
-      "originalTitle": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Radisson Hotel Group מביאה את גילוי המלון אל ChatGPT. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/radisson",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -117,10 +117,10 @@
     },
     {
       "id": 6,
-      "title": "GPT -6 ו - UI חכם לכולם",
-      "originalTitle": "GPT-6 and Intelligent UI for everyone",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "GPT -6 ו - UI חכם לכולם. פיתוח חדש פותח אפשרויות",
+      "title": "Pollo AI הופכת רעיונות יצירתיים לקמפיינים עם OpenAI",
+      "originalTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Pollo AI הופכת רעיונות יצירתיים לקמפיינים עם OpenAI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -128,7 +128,7 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone",
+      "sourceUrl": "https://openai.com/index/pollo-ai",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "העוזרים האישיים של OpenAI - ה-Dots, מתחילים להגיע למשתמשים גם בישראל. כנסו דרך המחשב כדי להגדיר בפעם הראשונה ואז תוכלו להמשיך מהפון.",
+      "title": "סוף סוף שומעים מהם גוגל משיקה את ג׳מיני 4 Argon - המודל הכי חזק שלהם עד כה. זמין בהתחלה לצוותי סייבר ואבטחת מידע ובהמשך יגיע לכולם. בינה מלאכותית בטלג...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "העוזרים האישיים של OpenAI - ה-Dots, מתחילים להגיע למשתמשים גם בישראל. כנסו דרך המחשב כדי להגדיר בפעם הראשונה ואז תוכלו להמשיך מהפון.",
+      "summary": "סוף סוף שומעים מהם גוגל משיקה את ג׳מיני 4 Argon - המודל הכי חזק שלהם עד כה. זמין בהתחלה לצוותי סייבר ואבטחת מידע ובהמשך יגיע לכולם. בינה מלאכותית בטלג...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "אחרי כל ההייפ ש-OpenAI עשו לקראת ה-DevDay, ציפיתי לצאת ממנו קצת יותר נלהב. אז ניסיתי את Dots, העוזרים האישיים החדשים שלהם, ובינתיים אני בעיקר מנסה להב...",
+      "title": "ביקשו ממני לשתף, לא ממומן מועדים לשמחה. יש בישרש משתלה של נדב, בחור פוסט טראומטי, זה גן העדן שלו ומקור הנחמה שלו. המשתלה שלו מתמחה בצמחים טורפים, קקטו...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "אחרי כל ההייפ ש-OpenAI עשו לקראת ה-DevDay, ציפיתי לצאת ממנו קצת יותר נלהב. אז ניסיתי את Dots, העוזרים האישיים החדשים שלהם, ובינתיים אני בעיקר מנסה להב...",
+      "summary": "ביקשו ממני לשתף, לא ממומן מועדים לשמחה. יש בישרש משתלה של נדב, בחור פוסט טראומטי, זה גן העדן שלו ומקור הנחמה שלו. המשתלה שלו מתמחה בצמחים טורפים, קקטו...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 56 ימים",
+      "timeAgo": "לפני 57 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 268 ימים",
+      "timeAgo": "לפני 269 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-08T15:03:36.475Z",
+  "lastUpdated": "2026-10-09T14:47:03.744Z",
   "sources": {
     "official": [
       "OpenAI Blog",
