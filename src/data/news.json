@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "פסגה גלובלית של OCP: בין אימוץ המערכות האקולוגיות, NVIDIA פותחת את Vera Rubin Architecture כדי לעזור להרחיב את מפעלי הבינה המלאכותית ברחבי העולם",
+      "originalTitle": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "פסגה גלובלית של OCP: בין אימוץ המערכות האקולוגיות, NVIDIA פותחת את Vera Rubin Architecture כדי לעזור להרחיב את מפעלי הבינה המלאכותית ברחבי העולם. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 2 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA וסיסקו מציגים גורם טופס אופטיקה הניתנת לחיבור חדש כדי להגדיל את מפעלי הבינה המלאכותית",
+      "originalTitle": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "NVIDIA וסיסקו מציגים גורם טופס אופטיקה הניתנת לחיבור חדש כדי להגדיל את מפעלי הבינה המלאכותית. חומרה חדשה תאיץ את עולם ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 2 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "Sophos מקצצת את זמן חקירת האיומים ב -96% עם שחר OpenAI",
       "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Sophos מקצצת את זמן חקירת האיומים ב -96% עם שחר OpenAI. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "Sophos מקצצת את זמן חקירת האיומים ב -96% עם שחר OpenAI. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
+      "timeAgo": "לפני 3 ימים",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "דגם הקיצוצים של אסאנה עולה 76x בבדיקות דפדפן עם GPT -6.1 Sol",
       "originalTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "דגם הקיצוצים של אסאנה עולה 76x בבדיקות דפדפן עם GPT -6.1 Sol. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "דגם הקיצוצים של אסאנה עולה 76x בבדיקות דפדפן עם GPT -6.1 Sol. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier",
       "originalTitle": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex",
       "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,53 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "NVIDIA מתחייבת להקדים את המדע האמריקאי במיליארד $ בחמש השנים הקרובות",
-      "originalTitle": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "NVIDIA מתחייבת להקדים את המדע האמריקאי במיליארד $ בחמש השנים הקרובות. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "Rally Up: ‘Gears of War: E - Day’ יושק ב - GeForce עכשיו",
-      "originalTitle": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "Rally Up: ‘Gears of War: E - Day’ יושק ב - GeForce עכשיו. השקה חדשה שתשנה את התעשייה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 59 ימים",
+      "timeAgo": "לפני 60 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 271 ימים",
+      "timeAgo": "לפני 272 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-11T14:29:26.748Z",
+  "lastUpdated": "2026-10-12T17:07:38.235Z",
   "sources": {
     "official": [
       "OpenAI Blog",
