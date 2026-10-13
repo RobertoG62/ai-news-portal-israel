@@ -2,33 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "פסגה גלובלית של OCP: בין אימוץ המערכות האקולוגיות, NVIDIA פותחת את Vera Rubin Architecture כדי לעזור להרחיב את מפעלי הבינה המלאכותית ברחבי העולם",
-      "originalTitle": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "פסגה גלובלית של OCP: בין אימוץ המערכות האקולוגיות, NVIDIA פותחת את Vera Rubin Architecture כדי לעזור להרחיב את מפעלי הבינה המלאכותית ברחבי העולם. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "NVIDIA וסיסקו מציגים גורם טופס אופטיקה הניתנת לחיבור חדש כדי להגדיל את מפעלי הבינה המלאכותית",
-      "originalTitle": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "NVIDIA וסיסקו מציגים גורם טופס אופטיקה הניתנת לחיבור חדש כדי להגדיל את מפעלי הבינה המלאכותית. חומרה חדשה תאיץ את עולם ה-AI",
+      "title": "All Systems Go: מערכת אקולוגית גלובלית לאפליקציית PC מוכנה לניצוץ NVIDIA RTX",
+      "originalTitle": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "headline": "פריצת דרך בתחום החומרה",
+      "summary": "All Systems Go: מערכת אקולוגית גלובלית לאפליקציית PC מוכנה לניצוץ NVIDIA RTX. פריצת דרך בתחום החומרה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,18 +13,64 @@
       ],
       "category": "חומרה",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
+      "timeAgo": "לפני 3 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA קרקעות באירופה עבור GTC ברלין",
+      "originalTitle": "NVIDIA Lands in Europe for GTC Berlin",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA קרקעות באירופה עבור GTC ברלין. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 10 שעות",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 3,
+      "title": "מכדור הארץ למסלול, המערכת האקולוגית של צרפת מספקת מחשוב אייג'נטי בקנה מידה עם NVIDIA",
+      "originalTitle": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "מכדור הארץ למסלול, המערכת האקולוגית של צרפת מספקת מחשוב אייג'נטי בקנה מידה עם NVIDIA. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 10 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "Sophos מקצצת את זמן חקירת האיומים ב -96% עם שחר OpenAI",
       "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -64,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "דגם הקיצוצים של אסאנה עולה 76x בבדיקות דפדפן עם GPT -6.1 Sol",
       "originalTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "headline": "מחקר חדש חושף תובנות מרתקות",
@@ -87,30 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier",
-      "originalTitle": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "לתוך ה - Omniverse : איך מפתחים הופכים רעיונות לסימולציות עם סוכני AI Frontier. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex",
       "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך אורקל הופכת ימי עבודה לדקות עם ChatGPT ו - Codex. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 60 ימים",
+      "timeAgo": "לפני 61 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 272 ימים",
+      "timeAgo": "לפני 273 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-12T17:07:38.235Z",
+  "lastUpdated": "2026-10-13T15:24:11.899Z",
   "sources": {
     "official": [
       "OpenAI Blog",
