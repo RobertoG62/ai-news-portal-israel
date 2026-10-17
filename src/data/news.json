@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה",
+      "originalTitle": "How Itaú is building generative AI for its entire customer base",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/itau-generative-ai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 16 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows",
       "originalTitle": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": true,
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "מרצדס - בנץ ו - NVIDIA מרחיבות את השותפות האסטרטגית כדי לקדם נהיגה בטוחה ואוטומטית מאוד בעשור הבא",
       "originalTitle": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "הבאת GPT - ROSEIND למעבדות מחקר אקדמיות",
-      "originalTitle": "Bringing GPT-Rosalind to academic research labs",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "הבאת GPT - ROSEIND למעבדות מחקר אקדמיות. מחקר חדש חושף תובנות מרתקות",
+      "id": 4,
+      "title": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT",
+      "originalTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -59,18 +82,41 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 17 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
+      "title": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס",
+      "originalTitle": "Benefit Street Partners answers questions faster with Codex",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/benefit-street-partners",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "וולוו מכוניות ו - NVIDIA מרחיבות את השותפות כדי לקדם נהיגה אוטומטית בטוחה",
       "originalTitle": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 19 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "ללמד את התלמידים לחשוב וללמוד באמצעות שאלות",
-      "originalTitle": "Teaching students to think and learn through questions",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "ללמד את התלמידים לחשוב וללמוד באמצעות שאלות. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "סאליבן וקרומוול מביאים את המומחיות המשפטית לבחינת ההסכם",
-      "originalTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "סאליבן וקרומוול מביאים את המומחיות המשפטית לבחינת ההסכם. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/sullivan-cromwell",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 64 ימים",
+      "timeAgo": "לפני 65 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 276 ימים",
+      "timeAgo": "לפני 277 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-16T12:50:31.741Z",
+  "lastUpdated": "2026-10-17T11:50:35.290Z",
   "sources": {
     "official": [
       "OpenAI Blog",
