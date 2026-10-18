@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים",
+      "originalTitle": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 15 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה",
       "originalTitle": "How Itaú is building generative AI for its entire customer base",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,17 +41,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows",
       "originalTitle": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "מרצדס - בנץ ו - NVIDIA מרחיבות את השותפות האסטרטגית כדי לקדם נהיגה בטוחה ואוטומטית מאוד בעשור הבא",
       "originalTitle": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "מרצדס - בנץ ו - NVIDIA מרחיבות את השותפות האסטרטגית כדי לקדם נהיגה בטוחה ואוטומטית מאוד בעשור הבא. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "מרצדס - בנץ ו - NVIDIA מרחיבות את השותפות האסטרטגית כדי לקדם נהיגה בטוחה ואוטומטית מאוד בעשור הבא. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,30 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT",
-      "originalTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס",
       "originalTitle": "Benefit Street Partners answers questions faster with Codex",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,30 +110,30 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 6,
-      "title": "וולוו מכוניות ו - NVIDIA מרחיבות את השותפות כדי לקדם נהיגה אוטומטית בטוחה",
-      "originalTitle": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "וולוו מכוניות ו - NVIDIA מרחיבות את השותפות כדי לקדם נהיגה אוטומטית בטוחה. השקה חדשה שתשנה את התעשייה",
+      "title": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT",
+      "originalTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
         "פרטים מלאים בקישור המקורי"
       ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 65 ימים",
+      "timeAgo": "לפני 66 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 277 ימים",
+      "timeAgo": "לפני 278 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-17T11:50:35.290Z",
+  "lastUpdated": "2026-10-18T12:16:11.012Z",
   "sources": {
     "official": [
       "OpenAI Blog",
