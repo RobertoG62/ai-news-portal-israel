@@ -2,10 +2,33 @@
   "news": [
     {
       "id": 1,
+      "title": "NVIDIA מקדם אבטחה סוכןית עבור מדיה, משידור שירות ציבורי אירופאי לייצור תוכן גלובלי",
+      "originalTitle": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "NVIDIA מקדם אבטחה סוכןית עבור מדיה, משידור שירות ציבורי אירופאי לייצור תוכן גלובלי. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
       "title": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים",
       "originalTitle": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +41,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 15 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה",
       "originalTitle": "How Itaú is building generative AI for its entire customer base",
       "headline": "התקדמות משמעותית בתחום",
@@ -41,17 +64,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows",
       "originalTitle": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,30 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "מרצדס - בנץ ו - NVIDIA מרחיבות את השותפות האסטרטגית כדי לקדם נהיגה בטוחה ואוטומטית מאוד בעשור הבא",
-      "originalTitle": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "מרצדס - בנץ ו - NVIDIA מרחיבות את השותפות האסטרטגית כדי לקדם נהיגה בטוחה ואוטומטית מאוד בעשור הבא. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס",
       "originalTitle": "Benefit Street Partners answers questions faster with Codex",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. משקיעים מאמינים בטכנולוגיה",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -133,35 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "היום גם אתם יכולים להפוך למפתחי תוכנה פי 10&#33; &gt; _ 10x Developer הקורס המקיף בישראל לפיתוח אפליקציות ומוצרי תוכנה שתוכנן והותאם לעידן ה-AI. היום ...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "היום גם אתם יכולים להפוך למפתחי תוכנה פי 10&#33; &gt; _ 10x Developer הקורס המקיף בישראל לפיתוח אפליקציות ומוצרי תוכנה שתוכנן והותאם לעידן ה-AI. היום ...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "/favicons/telegram-org.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "סם אלטמן בריאיון לפוליטיקו: ״צריך לקבל שיקרו גם דברים רעים כדי ליהנות מהיתרונות של הבינה המלאכותית״. הראיון המלא ביוטיוב: https://www.youtube.com/watc...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "סם אלטמן בריאיון לפוליטיקו: ״צריך לקבל שיקרו גם דברים רעים כדי ליהנות מהיתרונות של הבינה המלאכותית״. הראיון המלא ביוטיוב: https://www.youtube.com/watc...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "זה צריך להיות הסטנדרט. כל יום שלא שלחתם בו שיפור ברור - תשלחו איפוס. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "זה צריך להיות הסטנדרט. כל יום שלא שלחתם בו שיפור ברור - תשלחו איפוס. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "/favicons/telegram-org.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 66 ימים",
+      "timeAgo": "לפני 67 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 278 ימים",
+      "timeAgo": "לפני 279 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-18T12:16:11.012Z",
+  "lastUpdated": "2026-10-19T15:07:31.052Z",
   "sources": {
     "official": [
       "OpenAI Blog",
