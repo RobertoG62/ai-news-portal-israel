@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "NVIDIA מקדם אבטחה סוכןית עבור מדיה, משידור שירות ציבורי אירופאי לייצור תוכן גלובלי",
-      "originalTitle": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "NVIDIA מקדם אבטחה סוכןית עבור מדיה, משידור שירות ציבורי אירופאי לייצור תוכן גלובלי. פיתוח חדש פותח אפשרויות",
+      "title": "סטארט - אפים מבוססי ספרד מקדמים חדשנות אזורית עם מרכז מחשוב העל של ברצלונה",
+      "originalTitle": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "סטארט - אפים מבוססי ספרד מקדמים חדשנות אזורית עם מרכז מחשוב העל של ברצלונה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +13,45 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני פחות משעה",
+      "timeAgo": "לפני 8 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים",
-      "originalTitle": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "title": "גרמניה רוצה להוביל את העולם בתחום הבינה המלאכותית התעשייתית: איך NVIDIA יעזור",
+      "originalTitle": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "גרמניה רוצה להוביל את העולם בתחום הבינה המלאכותית התעשייתית: איך NVIDIA יעזור. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 17 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA מריץ הדמיית שיא של מחשוב קוונטי עמיד לתקלות במרכז מחשוב העל Jülich",
+      "originalTitle": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
       "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "RTX SPARK מצית חגיגה גלובלית עם הגעת מחשבי Windows חדשים. עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA מריץ הדמיית שיא של מחשוב קוונטי עמיד לתקלות במרכז מחשוב העל Jülich. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,22 +59,45 @@
       ],
       "category": "מוצר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "קידום קידוד בשפות תכנות בעלות משאבים נמוכים",
+      "originalTitle": "Advancing coding in low‑resource programming languages",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "קידום קידוד בשפות תכנות בעלות משאבים נמוכים. משקיעים מאמינים בטכנולוגיה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/low-resource-programming-languages",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה",
       "originalTitle": "How Itaú is building generative AI for its entire customer base",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך Itaú בונה בינה מלאכותית גנרטיבית עבור כל בסיס הלקוחות שלה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,40 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows",
-      "originalTitle": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA RTX מחשבי ניצוצות זמינים היום — התחלה חדשה למחשבי Windows. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
       "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס",
       "originalTitle": "Benefit Street Partners answers questions faster with Codex",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "שותפי רחוב לתועלת עונים על שאלות מהר יותר עם קודקס. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT",
-      "originalTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "גלישת מחסנית עבור הרשמות משולשות של סוכנים עם תוסף ChatGPT. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 3 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "סם אלטמן בריאיון לפוליטיקו: ״צריך לקבל שיקרו גם דברים רעים כדי ליהנות מהיתרונות של הבינה המלאכותית״. הראיון המלא ביוטיוב: https://www.youtube.com/watc...",
+      "title": "בעדכון האחרון של קודקס לאייפון נוספה אפשרות להוספת וידג׳טים למסך הנעילה או איפה שתרצו, בין היתר וידג׳ט של מגבלות השימוש. מגניב ממש. בינה מלאכותית בטלג...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "סם אלטמן בריאיון לפוליטיקו: ״צריך לקבל שיקרו גם דברים רעים כדי ליהנות מהיתרונות של הבינה המלאכותית״. הראיון המלא ביוטיוב: https://www.youtube.com/watc...",
+      "summary": "בעדכון האחרון של קודקס לאייפון נוספה אפשרות להוספת וידג׳טים למסך הנעילה או איפה שתרצו, בין היתר וידג׳ט של מגבלות השימוש. מגניב ממש. בינה מלאכותית בטלג...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "זה צריך להיות הסטנדרט. כל יום שלא שלחתם בו שיפור ברור - תשלחו איפוס. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "גוגל משחררת את ננו בננה 2.1 (יצירת ועריכת תמונות) מתחיל להתגלגל לכל הפלטפורמות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "זה צריך להיות הסטנדרט. כל יום שלא שלחתם בו שיפור ברור - תשלחו איפוס. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "גוגל משחררת את ננו בננה 2.1 (יצירת ועריכת תמונות) מתחיל להתגלגל לכל הפלטפורמות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 67 ימים",
+      "timeAgo": "לפני 68 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 279 ימים",
+      "timeAgo": "לפני 280 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-19T15:07:31.052Z",
+  "lastUpdated": "2026-10-20T13:08:12.532Z",
   "sources": {
     "official": [
       "OpenAI Blog",
