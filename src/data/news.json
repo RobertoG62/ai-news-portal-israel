@@ -2,6 +2,121 @@
   "news": [
     {
       "id": 1,
+      "title": "פריסת ענן נכנסת: ‘Call of Duty: Modern Warfare 4' מגיע ב - GeForce עכשיו",
+      "originalTitle": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "פריסת ענן נכנסת: ‘Call of Duty: Modern Warfare 4' מגיע ב - GeForce עכשיו. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "ארגונים מובילים בתחום השירותים הפיננסיים באירופה מאמצים מודלים פתוחים לבניית אינטליגנציה קניינית",
+      "originalTitle": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "ארגונים מובילים בתחום השירותים הפיננסיים באירופה מאמצים מודלים פתוחים לבניית אינטליגנציה קניינית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA Cosmos פותחת כלים חדשים להכשרה, הערכה ופריסה של דגמי עולם",
+      "originalTitle": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "NVIDIA Cosmos פותחת כלים חדשים להכשרה, הערכה ופריסה של דגמי עולם. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "גישה רחבה באמצעות סטנדרטים עקביים",
+      "originalTitle": "Broad access through consistent standards",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "גישה רחבה באמצעות סטנדרטים עקביים. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/broad-access-through-consistent-standards",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 16 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "כיצד AT&T שוקלת מחדש את העבודה המשפטית עם OpenAI",
+      "originalTitle": "How AT&T is rethinking in-house legal work with OpenAI",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כיצד AT&T שוקלת מחדש את העבודה המשפטית עם OpenAI. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/att-legal",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 20 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "דגמי OpenAI מגיעים לענן Google",
       "originalTitle": "OpenAI models are coming to Google Cloud",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -18,121 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני שעה",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "להביא את הניצוץ לאירופה: כוחות מודיעין מקומיים גל הסוכנים הבא",
-      "originalTitle": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "להביא את הניצוץ לאירופה: כוחות מודיעין מקומיים גל הסוכנים הבא. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "Google Cloud ו - NVIDIA מודיעות על זמינות כללית של תשתית NVIDIA Vera Rubin",
-      "originalTitle": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "Google Cloud ו - NVIDIA מודיעות על זמינות כללית של תשתית NVIDIA Vera Rubin. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "שותפי NVIDIA ושרשרת האספקה מרחיבים את היכולת להאיץ את בניית תשתית הבינה המלאכותית",
-      "originalTitle": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "שותפי NVIDIA ושרשרת האספקה מרחיבים את היכולת להאיץ את בניית תשתית הבינה המלאכותית. עדכון משמעותי שכדאי להכיר",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "הזכיין מפייס את הכסף ב -94% פחות זמן עם ChatGPT Work",
-      "originalTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "הזכיין מפייס את הכסף ב -94% פחות זמן עם ChatGPT Work. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/ted-taylor-restaurant",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "טרמינל X תואם לפסק דין של משקיעים בכירים 88.6% עם GPT -6.1",
-      "originalTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "טרמינל X תואם לפסק דין של משקיעים בכירים 88.6% עם GPT -6.1. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/terminal-x",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "בעדכון האחרון של קודקס לאייפון נוספה אפשרות להוספת וידג׳טים למסך הנעילה או איפה שתרצו, בין היתר וידג׳ט של מגבלות השימוש. מגניב ממש. בינה מלאכותית בטלג...",
+      "title": "דיווחים על תקלות בג׳מיני ### התקלה היחידה בג׳מיני היא שאתם עדיין משתמשים בו משום מה... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "בעדכון האחרון של קודקס לאייפון נוספה אפשרות להוספת וידג׳טים למסך הנעילה או איפה שתרצו, בין היתר וידג׳ט של מגבלות השימוש. מגניב ממש. בינה מלאכותית בטלג...",
+      "summary": "דיווחים על תקלות בג׳מיני ### התקלה היחידה בג׳מיני היא שאתם עדיין משתמשים בו משום מה... בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "גוגל משחררת את ננו בננה 2.1 (יצירת ועריכת תמונות) מתחיל להתגלגל לכל הפלטפורמות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "החל מ־12 בנובמבר, התנהגות פוגענית קיצונית ומתמשכת כלפי Claude תהווה הפרה רשמית של מדיניות השימוש של Anthropic, שעשויה להוביל גם לחסימת חשבון. ### למה ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "גוגל משחררת את ננו בננה 2.1 (יצירת ועריכת תמונות) מתחיל להתגלגל לכל הפלטפורמות. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "החל מ־12 בנובמבר, התנהגות פוגענית קיצונית ומתמשכת כלפי Claude תהווה הפרה רשמית של מדיניות השימוש של Anthropic, שעשויה להוביל גם לחסימת חשבון. ### למה ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 69 ימים",
+      "timeAgo": "לפני 70 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 281 ימים",
+      "timeAgo": "לפני 282 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-21T13:18:57.805Z",
+  "lastUpdated": "2026-10-22T13:18:08.613Z",
   "sources": {
     "official": [
       "OpenAI Blog",
