@@ -2,6 +2,121 @@
   "news": [
     {
       "id": 1,
+      "title": "לגורה בונה את מערכת ההפעלה הסוכןית לעבודה משפטית",
+      "originalTitle": "Legora is building the agentic operating system for legal work",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "לגורה בונה את מערכת ההפעלה הסוכןית לעבודה משפטית. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA ו - Oracle מרחיבים את NVIDIA Vera Rubin ל - Multi - Gigawatt Scale ומביאים את מעבד NVIDIA Vera ל - Oracle Cloud Infrastructure",
+      "originalTitle": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "NVIDIA ו - Oracle מרחיבים את NVIDIA Vera Rubin ל - Multi - Gigawatt Scale ומביאים את מעבד NVIDIA Vera ל - Oracle Cloud Infrastructure. השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 22 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "כיצד הבינה המלאכותית משנה את קצב הגילוי של מיליוני אנשים החיים עם דמנציה",
+      "originalTitle": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "כיצד הבינה המלאכותית משנה את קצב הגילוי של מיליוני אנשים החיים עם דמנציה. השקעה ענקית מעידה על פוטנציאל",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "Retell משתמש בדגמי OpenAI כדי לסייע בהפעלת 100 מיליון שיחות חודשיות",
+      "originalTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Retell משתמש בדגמי OpenAI כדי לסייע בהפעלת 100 מיליון שיחות חודשיות. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/retell-ai",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "OpenAI מרחיבה את השותפות עם אורקל כדי להביא את האפליקציות שלה ל - ChatGPT",
+      "originalTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "OpenAI מרחיבה את השותפות עם אורקל כדי להביא את האפליקציות שלה ל - ChatGPT. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "NVIDIA ו - Meta להרחיב את שיתוף הפעולה על MUSE ו - MUSE משפחה של דגמים בתוך צמיחה חזקה",
       "originalTitle": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
       "headline": "מוצר חדש מבטיח לחולל מהפכה",
@@ -18,150 +133,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 7 שעות",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "Greptile לוקח איתור באגים מעבר לבדיקת קוד עם GPT -6 אסטרה",
-      "originalTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "Greptile לוקח איתור באגים מעבר לבדיקת קוד עם GPT -6 אסטרה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/greptile-code-review-codex-astra",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 15 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "עבודה עם קהילות אקדמיות לבניית הבנה מדעית",
-      "originalTitle": "Working with academic communities to build scientific understanding",
-      "headline": "השפעה על שוק ההון",
-      "summary": "עבודה עם קהילות אקדמיות לבניית הבנה מדעית. השפעה על שוק ההון",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "שווקים",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "GPT -6.1 SOL עוזר ל - CodeRabbit לחזק את האבטחה בבסיסי קוד מורכבים",
-      "originalTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "GPT -6.1 SOL עוזר ל - CodeRabbit לחזק את האבטחה בבסיסי קוד מורכבים. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 23 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "קזחסטן מרחיבה את המחשוב עבור עתיד הבינה המלאכותית שלה",
-      "originalTitle": "Kazakhstan Expands Compute for Its AI Future",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "קזחסטן מרחיבה את המחשוב עבור עתיד הבינה המלאכותית שלה. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "NVIDIA חושף את מינרווה כדי להביא תצפית מקצה לקצה עבור מפעלי בינה מלאכותית",
-      "originalTitle": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA חושף את מינרווה כדי להביא תצפית מקצה לקצה עבור מפעלי בינה מלאכותית. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "״קיבלנו 250 אלף דולר על חולשה שמצאנו עם Claude Code״ 💰 הראל רום משתף איך הוא ועוד חבר פיתחו מערכת לאיתור חולשות באמצעות AI והריצו אותה על פרויקטים בק...",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "״קיבלנו 250 אלף דולר על חולשה שמצאנו עם Claude Code״ 💰 הראל רום משתף איך הוא ועוד חבר פיתחו מערכת לאיתור חולשות באמצעות AI והריצו אותה על פרויקטים בק...",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "/favicons/telegram-org.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "היום קיבלתי שיחת טלפון מסוכנת AI של פרטנר שרצתה להציע לי לחסוך בחשבון חשמל. אין פאנצ׳ השיחה זרמה חלק, היא נשמעת אנושית לחלוטין, מהירות תגובה מרשימה, ע...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "היום קיבלתי שיחת טלפון מסוכנת AI של פרטנר שרצתה להציע לי לחסוך בחשבון חשמל. אין פאנצ׳ השיחה זרמה חלק, היא נשמעת אנושית לחלוטין, מהירות תגובה מרשימה, ע...",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "״קיבלנו 250 אלף דולר על חולשה שמצאנו עם Claude Code״ 💰 הראל רום משתף איך הוא ועוד חבר פיתחו מערכת לאיתור חולשות באמצעות AI והריצו אותה על פרויקטים בק...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "״קיבלנו 250 אלף דולר על חולשה שמצאנו עם Claude Code״ 💰 הראל רום משתף איך הוא ועוד חבר פיתחו מערכת לאיתור חולשות באמצעות AI והריצו אותה על פרויקטים בק...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "/favicons/telegram-org.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 75 ימים",
+      "timeAgo": "לפני 76 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 287 ימים",
+      "timeAgo": "לפני 288 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-27T13:44:57.552Z",
+  "lastUpdated": "2026-10-28T14:41:04.727Z",
   "sources": {
     "official": [
       "OpenAI Blog",
