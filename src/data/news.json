@@ -18,7 +18,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 23 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
@@ -41,7 +41,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -64,7 +64,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -73,8 +73,8 @@
       "id": 4,
       "title": "שימוש הוגן מועיל לכולם",
       "originalTitle": "Fair use benefits everyone",
-      "headline": "השפעה על שוק ההון",
-      "summary": "שימוש הוגן מועיל לכולם. השפעה על שוק ההון",
+      "headline": "תזוזות בשוק ה-AI",
+      "summary": "שימוש הוגן מועיל לכולם. תזוזות בשוק ה-AI",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,7 +87,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -96,8 +96,8 @@
       "id": 5,
       "title": "חתוך ל - GFN ביום חמישי: ‘Phantom Blade Zero’ יושק ב - GeForce עכשיו",
       "originalTitle": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "חתוך ל - GFN ביום חמישי: ‘Phantom Blade Zero’ יושק ב - GeForce עכשיו. השקה חדשה שתשנה את התעשייה",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "חתוך ל - GFN ביום חמישי: ‘Phantom Blade Zero’ יושק ב - GeForce עכשיו. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,7 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השלישי",
       "originalTitle": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השלישי. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "NVIDIA קובע שיחת ועידה לתוצאות כספיות לרבעון השלישי. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,16 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "המודל החדש של גוגל - Gemini 4 Argon - יוצא כעת למנויי Pro ו-Ultra. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "title": "👀 בOpenAI אומרים שהם מצאו מכשיר האזנה שהושתל בתוך אחד מהמשרדים שלהם, הם נעזרו במודלים שלהם כדי להבין את המכשיר ומאיפה הוא הגיע, הם גילו מי העובד ששתל...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "המודל החדש של גוגל - Gemini 4 Argon - יוצא כעת למנויי Pro ו-Ultra. בינה מלאכותית בטלגרם - t.me/AI_tg_il",
+      "summary": "👀 בOpenAI אומרים שהם מצאו מכשיר האזנה שהושתל בתוך אחד מהמשרדים שלהם, הם נעזרו במודלים שלהם כדי להבין את המכשיר ומאיפה הוא הגיע, הם גילו מי העובד ששתל...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 79 ימים",
+      "timeAgo": "לפני 80 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 291 ימים",
+      "timeAgo": "לפני 292 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-10-31T14:01:20.306Z",
+  "lastUpdated": "2026-11-01T14:37:04.898Z",
   "sources": {
     "official": [
       "OpenAI Blog",
