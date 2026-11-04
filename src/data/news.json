@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "היימסטאדן משנה את ניהול הנדל\"ן למגורים באמצעות בינה מלאכותית",
-      "originalTitle": "Heimstaden is changing residential real estate management with AI",
+      "title": "OpenAI רוכשת את Pierre Computer Company, Inc.",
+      "originalTitle": "OpenAI to acquire Pierre Computer Company, Inc.",
       "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "היימסטאדן משנה את ניהול הנדל\"ן למגורים באמצעות בינה מלאכותית. פיתוח חדש פותח אפשרויות",
+      "summary": "OpenAI רוכשת את Pierre Computer Company, Inc.. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +13,91 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/heimstaden",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 7 שעות",
+      "timeAgo": "לפני שעה",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
+      "title": "Daybreak Red זמין כעת ב - AWS GovCloud (ארה\"ב - מזרח)",
+      "originalTitle": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "headline": "השקה חדשה שתשנה את התעשייה",
+      "summary": "Daybreak Red זמין כעת ב - AWS GovCloud (ארה\"ב - מזרח). השקה חדשה שתשנה את התעשייה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 8 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "AI משנה את האופן שבו בדים של מוליכים למחצה עובדים — ומהנדסים נעים מהר יותר בגלל זה",
+      "originalTitle": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
+      "summary": "AI משנה את האופן שבו בדים של מוליכים למחצה עובדים — ומהנדסים נעים מהר יותר בגלל זה. חומרה חדשה תאיץ את עולם ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "חומרה",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 23 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "האצת ההנדסה לעולם הפיזי",
+      "originalTitle": "Accelerating engineering for the physical world",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "האצת ההנדסה לעולם הפיזי. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
       "title": "ערים ברחבי העולם בנו והרחיבו שירותי בינה מלאכותית עם NVIDIA בינה מלאכותית פיזית וסוכנת",
       "originalTitle": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ערים ברחבי העולם בנו והרחיבו שירותי בינה מלאכותית עם NVIDIA בינה מלאכותית פיזית וסוכנת. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ערים ברחבי העולם בנו והרחיבו שירותי בינה מלאכותית עם NVIDIA בינה מלאכותית פיזית וסוכנת. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,63 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 8 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 3,
-      "title": "שינוי קנה מידה של Git ב - OpenAI",
-      "originalTitle": "Scaling Git at OpenAI",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "שינוי קנה מידה של Git ב - OpenAI. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/scaling-git-at-openai",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "אנחנו שמחים להציג את התוכנית 'מגיני רשת'",
-      "originalTitle": "Introducing the Grid Protectors Program",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "אנחנו שמחים להציג את התוכנית 'מגיני רשת'. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/grid-protectors-program",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "דברים שעושים צפצוף בלילה: הבינה המלאכותית הסוכנת מצטרפת לחיפוש אחר אותות מהחלל החיצון",
       "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "דברים שעושים צפצוף בלילה: הבינה המלאכותית הסוכנת מצטרפת לחיפוש אחר אותות מהחלל החיצון. התקדמות משמעותית בתחום",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "דברים שעושים צפצוף בלילה: הבינה המלאכותית הסוכנת מצטרפת לחיפוש אחר אותות מהחלל החיצון. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -110,29 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "חתוך ל - GFN ביום חמישי: ‘Phantom Blade Zero’ יושק ב - GeForce עכשיו",
-      "originalTitle": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "חתוך ל - GFN ביום חמישי: ‘Phantom Blade Zero’ יושק ב - GeForce עכשיו. מוצר חדש מבטיח לחולל מהפכה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מוצר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
       "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "👀 בOpenAI אומרים שהם מצאו מכשיר האזנה שהושתל בתוך אחד מהמשרדים שלהם, הם נעזרו במודלים שלהם כדי להבין את המכשיר ומאיפה הוא הגיע, הם גילו מי העובד ששתל...",
+      "title": "הדרכה שכל שכיר שעוזב עבודה צריך לעבור לפחות פעם אחת בחיים&#33; --- למי ההדרכה מתאימה? לכל מי שבדיוק עוזב עבודה או עזב עבודה בתשעת החודשים האחרונים&#33...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "👀 בOpenAI אומרים שהם מצאו מכשיר האזנה שהושתל בתוך אחד מהמשרדים שלהם, הם נעזרו במודלים שלהם כדי להבין את המכשיר ומאיפה הוא הגיע, הם גילו מי העובד ששתל...",
+      "summary": "הדרכה שכל שכיר שעוזב עבודה צריך לעבור לפחות פעם אחת בחיים&#33; --- למי ההדרכה מתאימה? לכל מי שבדיוק עוזב עבודה או עזב עבודה בתשעת החודשים האחרונים&#33...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "👀 בOpenAI אומרים שהם מצאו מכשיר האזנה שהושתל בתוך אחד מהמשרדים שלהם, הם נעזרו במודלים שלהם כדי להבין את המכשיר ומאיפה הוא הגיע, הם גילו מי העובד ששתל...",
+      "title": "לפי The information מחכה לנו חודש עמוס בהשקות הם מדברים על מודל חדש של Anthropic שיהיה טוב בחשיבה מחוץ לקופסה ו..שימו לב לזה, בהבנת הכוונות והמטרות של...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "👀 בOpenAI אומרים שהם מצאו מכשיר האזנה שהושתל בתוך אחד מהמשרדים שלהם, הם נעזרו במודלים שלהם כדי להבין את המכשיר ומאיפה הוא הגיע, הם גילו מי העובד ששתל...",
+      "summary": "לפי The information מחכה לנו חודש עמוס בהשקות הם מדברים על מודל חדש של Anthropic שיהיה טוב בחשיבה מחוץ לקופסה ו..שימו לב לזה, בהבנת הכוונות והמטרות של...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 82 ימים",
+      "timeAgo": "לפני 83 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "משקיעים מאמינים בטכנולוגיה",
+      "summary": "Converge Bio מגייסת 25 מיליון $, מגובה על ידי בסמר ומנהלים מ - Meta , OpenAI , WIZZ. משקיעים מאמינים בטכנולוגיה",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 294 ימים",
+      "timeAgo": "לפני 295 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-11-03T15:36:25.429Z",
+  "lastUpdated": "2026-11-04T15:51:16.211Z",
   "sources": {
     "official": [
       "OpenAI Blog",
