@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "כיצד NVIDIA כלי קוד פתוח עוזרים לחוקרים לבנות רשתות 6G מהדור הבא",
-      "originalTitle": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כיצד NVIDIA כלי קוד פתוח עוזרים לחוקרים לבנות רשתות 6G מהדור הבא. התקדמות משמעותית בתחום",
+      "title": "תרגול גורם לדיוק: ב - CoRL, NVIDIA ושותפים חושפים כיצד רובוטים עושים חזרות על עבודה עדינה בסימולציה",
+      "originalTitle": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "תרגול גורם לדיוק: ב - CoRL, NVIDIA ושותפים חושפים כיצד רובוטים עושים חזרות על עבודה עדינה בסימולציה. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +13,68 @@
       ],
       "category": "מחקר",
       "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 3 שעות",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
+      "title": "NVIDIA מודיעה על השקעות מתוכננות חדשות בחברות סטארט - אפ קוריאניות בפורום שותפות הסטארט - אפ MSIT - NVIDIA AI",
+      "originalTitle": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "NVIDIA מודיעה על השקעות מתוכננות חדשות בחברות סטארט - אפ קוריאניות בפורום שותפות הסטארט - אפ MSIT - NVIDIA AI. גיוס הון משמעותי בתעשיית ה-AI",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מימון",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 9 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "קוריאה מקדמת בינה מלאכותית פיזית בתעשיות שונות עם NVIDIA",
+      "originalTitle": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "קוריאה מקדמת בינה מלאכותית פיזית בתעשיות שונות עם NVIDIA. מחקר חדש חושף תובנות מרתקות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 12 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
       "title": "שיתוף פעולה עם Hacktron למציאת נקודות תורפה במערכות של OpenAI",
       "originalTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "שיתוף פעולה עם Hacktron למציאת נקודות תורפה במערכות של OpenAI. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "שיתוף פעולה עם Hacktron למציאת נקודות תורפה במערכות של OpenAI. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -41,13 +87,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "מדידת האופן שבו סוכני AI מתמודדים עם מדע מעבדה רטובה יומיומי",
       "originalTitle": "Measuring how AI agents handle everyday wet-lab science",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -64,36 +110,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
-      "title": "ורה מספקת את הטוב שבשני העולמות: התפוקה הגבוהה ביותר והסוכנים המהירים ביותר",
-      "originalTitle": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "headline": "חומרה חדשה תאיץ את עולם ה-AI",
-      "summary": "ורה מספקת את הטוב שבשני העולמות: התפוקה הגבוהה ביותר והסוכנים המהירים ביותר. חומרה חדשה תאיץ את עולם ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "חומרה",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
+      "id": 6,
       "title": "האוניברסיטאות באוסטרליה יוצרות בוגרי בינה מלאכותית ילידי",
       "originalTitle": "Australian universities are creating AI-native graduates",
       "headline": "פיתוח חדש פותח אפשרויות",
@@ -110,39 +133,16 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "אשף המשקולות הפתוחות: כריס אלכסיוק מקל על הבינה המלאכותית עם דגמים פתוחים",
-      "originalTitle": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "אשף המשקולות הפתוחות: כריס אלכסיוק מקל על הבינה המלאכותית עם דגמים פתוחים. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 4 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 7,
-      "title": "לפי The information מחכה לנו חודש עמוס בהשקות הם מדברים על מודל חדש של Anthropic שיהיה טוב בחשיבה מחוץ לקופסה ו..שימו לב לזה, בהבנת הכוונות והמטרות של...",
+      "title": "אנתרופיק נכנסת לשוק העוזרים האישיים ומכריזה על קלוד ״דואט״, שמבוסס על אופוס 5.5. זמין כרגע רק דרך רשימת המתנה למנויי Pro ו-Max בארה&quot;ב. רשימת המתנ...",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "לפי The information מחכה לנו חודש עמוס בהשקות הם מדברים על מודל חדש של Anthropic שיהיה טוב בחשיבה מחוץ לקופסה ו..שימו לב לזה, בהבנת הכוונות והמטרות של...",
+      "summary": "אנתרופיק נכנסת לשוק העוזרים האישיים ומכריזה על קלוד ״דואט״, שמבוסס על אופוס 5.5. זמין כרגע רק דרך רשימת המתנה למנויי Pro ו-Max בארה&quot;ב. רשימת המתנ...",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "פרויקט הקוד הפתוח OpenCode מדווח על פריצה וחשש לחשיפת מפתחות API של משתמשים. הפרויקט (סוכן AI לכתיבת קוד) מדווח שאירוע סייבר פגע בחלק מהלקוחות, ובהודע...",
+      "title": "מה כבר יכול להשתבש? צילומים אמיתיים של הרובוט H2-X של חברת Unitree בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "פרויקט הקוד הפתוח OpenCode מדווח על פריצה וחשש לחשיפת מפתחות API של משתמשים. הפרויקט (סוכן AI לכתיבת קוד) מדווח שאירוע סייבר פגע בחלק מהלקוחות, ובהודע...",
+      "summary": "מה כבר יכול להשתבש? צילומים אמיתיים של הרובוט H2-X של חברת Unitree בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. התקדמות משמעותית בתחום",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "כשדאגות הבטיחות של הבינה המלאכותית עולות, שלושה חלוצים טוענים שהם נשארים פתוחים. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 87 ימים",
+      "timeAgo": "לפני 89 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 299 ימים",
+      "timeAgo": "לפני 300 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-11-08T14:38:17.944Z",
+  "lastUpdated": "2026-11-09T17:57:52.544Z",
   "sources": {
     "official": [
       "OpenAI Blog",
