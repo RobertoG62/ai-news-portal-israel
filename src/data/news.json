@@ -2,10 +2,56 @@
   "news": [
     {
       "id": 1,
+      "title": "איך בינה מלאכותית עוזרת לצוותי הטיפול לספק למטופלים את הטיפול הנכון, מהר יותר",
+      "originalTitle": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך בינה מלאכותית עוזרת לצוותי הטיפול לספק למטופלים את הטיפול הנכון, מהר יותר. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 2 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "איך Amplitude משגרת שיפורי מוצרים תוך 1–2 ימים עם OpenAI",
+      "originalTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "איך Amplitude משגרת שיפורי מוצרים תוך 1–2 ימים עם OpenAI. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/business/customer-stories/amplitude",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 19 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
       "title": "שחר חדש בענן: ‘Warhammer 40,000: Dawn of War IV’ מגיע ל- GeForce עכשיו",
       "originalTitle": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "שחר חדש בענן: ‘Warhammer 40,000: Dawn of War IV’ מגיע ל- GeForce עכשיו. פיתוח חדש פותח אפשרויות",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "שחר חדש בענן: ‘Warhammer 40,000: Dawn of War IV’ מגיע ל- GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,13 +64,13 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
-      "isBreaking": true,
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "NVIDIA מודיעה על החלפת מנכ\"ל",
       "originalTitle": "NVIDIA Announces CEO Transition",
       "headline": "השקה חדשה שתשנה את התעשייה",
@@ -41,13 +87,36 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
+      "id": 5,
+      "title": "ההכנסות של Gondola מוכפלות בזמן שהצוות שלה בונה יותר עם Codex",
+      "originalTitle": "Gondola doubles revenue as its team builds more with Codex",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "ההכנסות של Gondola מוכפלות בזמן שהצוות שלה בונה יותר עם Codex. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/business/customer-stories/gondola",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 6,
       "title": "Holiday Extras בוחנת מחדש מה היא יכולה לבנות עם Codex",
       "originalTitle": "Holiday Extras is rethinking what it can build with Codex",
       "headline": "התקדמות משמעותית בתחום",
@@ -64,75 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 6 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
-      "title": "תמיכה במחקר בנושא בינה מלאכותית ובטיחות ילדים",
-      "originalTitle": "Supporting research on AI and children’s safety",
-      "headline": "משקיעים מאמינים בטכנולוגיה",
-      "summary": "תמיכה במחקר בנושא בינה מלאכותית ובטיחות ילדים. משקיעים מאמינים בטכנולוגיה",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/children-first-declaration",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "Gilbert + Tobin חושבת מחדש על עולם עריכת הדין בעזרת בינה מלאכותית",
-      "originalTitle": "Gilbert + Tobin rethinks the business of law with AI",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "Gilbert + Tobin חושבת מחדש על עולם עריכת הדין בעזרת בינה מלאכותית. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 16 שעות",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "איך בינה מלאכותית עוזרת לממחזרים להפוך פסולת מעורבת לחומר רב-פעמי",
-      "originalTitle": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "איך בינה מלאכותית עוזרת לממחזרים להפוך פסולת מעורבת לחומר רב-פעמי. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
       "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
@@ -140,28 +140,6 @@
     },
     {
       "id": 7,
-      "title": "חזלש. מכפילים את המכסות בכל המנויים או יותר נכון מבטלים את הקיצוץ… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
-      "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "חזלש. מכפילים את המכסות בכל המנויים או יותר נכון מבטלים את הקיצוץ… בינה מלאכותית בטלגרם - t.me/AI_tg_il",
-      "summaryBullets": [
-        "עדכון חדש מקהילת ה-AI הישראלית",
-        "מידע רלוונטי לשוק המקומי",
-        "לפרטים נוספים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "AI Israel Telegram",
-      "sourceUrl": "https://t.me/s/ai_tg_il",
-      "sourceType": "local",
-      "sourceTypeHebrew": "עדכון מקומי",
-      "sourceIcon": "israel",
-      "favicon": "/favicons/telegram-org.ico",
-      "timeAgo": "לפני פחות משעה",
-      "isBreaking": false,
-      "isVerified": false,
-      "isHebrew": true
-    },
-    {
-      "id": 8,
       "title": "אנתרופיק מבטלת את מגבלת 5 השעות למנויי מקס (x20) ומשנה את שם המנוי לאולטרה בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
       "summary": "אנתרופיק מבטלת את מגבלת 5 השעות למנויי מקס (x20) ומשנה את שם המנוי לאולטרה בינה מלאכותית בטלגרם - t.me/AI_tg_il",
@@ -183,11 +161,33 @@
       "isHebrew": true
     },
     {
+      "id": 8,
+      "title": "📌 תזכורת לכללי הקבוצה הקבוצה נועדה לשיתוף ידע ולדיונים על בינה מלאכותית - כל קידום עצמי או פרסום, אסור&#33; בין היתר: - &rlm;פרסום פרויקטים, מוצרים א...",
+      "headline": "עדכון מקומי מקהילת AI בישראל",
+      "summary": "📌 תזכורת לכללי הקבוצה הקבוצה נועדה לשיתוף ידע ולדיונים על בינה מלאכותית - כל קידום עצמי או פרסום, אסור&#33; בין היתר: - &rlm;פרסום פרויקטים, מוצרים א...",
+      "summaryBullets": [
+        "עדכון חדש מקהילת ה-AI הישראלית",
+        "מידע רלוונטי לשוק המקומי",
+        "לפרטים נוספים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "AI Israel Telegram",
+      "sourceUrl": "https://t.me/s/ai_tg_il",
+      "sourceType": "local",
+      "sourceTypeHebrew": "עדכון מקומי",
+      "sourceIcon": "israel",
+      "favicon": "/favicons/telegram-org.ico",
+      "timeAgo": "לפני פחות משעה",
+      "isBreaking": false,
+      "isVerified": false,
+      "isHebrew": true
+    },
+    {
       "id": 9,
-      "title": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים",
+      "title": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים לטובת שמירה על פתיחות",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
       "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "summary": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים לטובת שמירה על פתיחות. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,7 +200,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 91 ימים",
+      "timeAgo": "לפני 92 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -209,8 +209,8 @@
       "id": 10,
       "title": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "השקעה ענקית מעידה על פוטנציאל",
-      "summary": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz. השקעה ענקית מעידה על פוטנציאל",
+      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 303 ימים",
+      "timeAgo": "לפני 304 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-11-12T16:26:23.670Z",
+  "lastUpdated": "2026-11-13T15:46:41.217Z",
   "sources": {
     "official": [
       "OpenAI Blog",
