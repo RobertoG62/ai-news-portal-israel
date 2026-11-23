@@ -2,10 +2,102 @@
   "news": [
     {
       "id": 1,
-      "title": "המאבק בדיסטילציה עוינת",
+      "title": "חגיגות שמחות: לשחק, לבנות וליצור עם הטכנולוגיות של NVIDIA בעונת החגים הזו",
+      "originalTitle": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "חגיגות שמחות: לשחק, לבנות וליצור עם הטכנולוגיות של NVIDIA בעונת החגים הזו. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 2 שעות",
+      "isBreaking": true,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 2,
+      "title": "הדירקטוריון של NVIDIA מחזיר את ג'נסן הואנג לתפקיד הנשיא, המנכ\"ל וחבר הדירקטוריון",
+      "originalTitle": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "הדירקטוריון של NVIDIA מחזיר את ג'נסן הואנג לתפקיד הנשיא, המנכ\"ל וחבר הדירקטוריון. מוצר חדש מבטיח לחולל מהפכה",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מוצר",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/nvidia-com.ico",
+      "timeAgo": "לפני 5 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 3,
+      "title": "אינטליגנציה מחוברת עבור מחלקות משפטיות פנימיות",
+      "originalTitle": "Connected intelligence for in-house legal",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "אינטליגנציה מחוברת עבור מחלקות משפטיות פנימיות. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני 11 שעות",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "Perplexity ומודיעין",
+      "originalTitle": "Perplexity and Intelligence",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "Perplexity ומודיעין. התקדמות משמעותית בתחום",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 5,
+      "title": "מאבק בדיסטילציה עוינת",
       "originalTitle": "Combatting adversarial distillation",
       "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "המאבק בדיסטילציה עוינת. פיתוח חדש פותח אפשרויות",
+      "summary": "מאבק בדיסטילציה עוינת. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -18,63 +110,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": true,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 2,
-      "title": "Hebbia רואה שיפורים במחקר פיננסי עם GPT -6 Astra",
-      "originalTitle": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Hebbia רואה שיפורים במחקר פיננסי עם GPT -6 Astra. גיוס הון משמעותי בתעשיית ה-AI",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מימון",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
+      "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 3,
-      "title": "האם בינה מלאכותית יכולה לעזור למדענים לזהות מועמדים מבטיחים לתרופות?",
-      "originalTitle": "Can AI help scientists identify promising drug candidates?",
-      "headline": "התקדמות משמעותית בתחום",
-      "summary": "האם בינה מלאכותית יכולה לעזור למדענים לזהות מועמדים מבטיחים לתרופות?. התקדמות משמעותית בתחום",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-medchembench",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 4,
+      "id": 6,
       "title": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית",
       "originalTitle": "NVIDIA Announces Upcoming Event for Financial Community",
-      "headline": "מוצר חדש מבטיח לחולל מהפכה",
-      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. מוצר חדש מבטיח לחולל מהפכה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,52 +133,6 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "NVIDIA ו- Microsoft מרחיבות את המחשוב המואץ מ- Azure למחשבי Windows",
-      "originalTitle": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "NVIDIA ו- Microsoft מרחיבות את המחשוב המואץ מ- Azure למחשבי Windows. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 2 ימים",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 6,
-      "title": "סטרימינג ומבצעים של העונה: מבצעי בלאק פריידיי מגיעים ל- GeForce עכשיו",
-      "originalTitle": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "סטרימינג ומבצעים של העונה: מבצעי בלאק פריידיי מגיעים ל- GeForce עכשיו. מחקר חדש חושף תובנות מרתקות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/nvidia-com.ico",
       "timeAgo": "לפני 3 ימים",
       "isBreaking": false,
       "isVerified": true,
@@ -140,9 +140,9 @@
     },
     {
       "id": 7,
-      "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג&#39;נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה https://www.geektime.co.il/nvidia-board-prepares-to-o...",
+      "title": "יש לנו מנצח בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג&#39;נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה https://www.geektime.co.il/nvidia-board-prepares-to-o...",
+      "summary": "יש לנו מנצח בינה מלאכותית בטלגרם - t.me/AI_tg_il",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג&#39;נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה https://www.geektime.co.il/nvidia-board-prepares-to-o...",
+      "title": "יש פה מישהו עם Galaxy Z TriFold לצורך צילום סרטון קצר? 😂",
       "headline": "עדכון מקומי מקהילת AI בישראל",
-      "summary": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג&#39;נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה https://www.geektime.co.il/nvidia-board-prepares-to-o...",
+      "summary": "יש פה מישהו עם Galaxy Z TriFold לצורך צילום סרטון קצר? 😂",
       "summaryBullets": [
         "עדכון חדש מקהילת ה-AI הישראלית",
         "מידע רלוונטי לשוק המקומי",
@@ -184,10 +184,10 @@
     },
     {
       "id": 9,
-      "title": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים",
+      "title": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים לטובת שמירה על פתיחות",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים. פיתוח חדש פותח אפשרויות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים לטובת שמירה על פתיחות. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,17 +200,17 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 101 ימים",
+      "timeAgo": "לפני 103 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz",
+      "title": "Converge Bio מגייסת 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , ‏ OpenAI , ‏Wiz",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz. גיוס הון משמעותי בתעשיית ה-AI",
+      "headline": "השקעה ענקית מעידה על פוטנציאל",
+      "summary": "Converge Bio מגייסת 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , ‏ OpenAI , ‏Wiz. השקעה ענקית מעידה על פוטנציאל",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 313 ימים",
+      "timeAgo": "לפני 314 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-11-22T15:46:29.122Z",
+  "lastUpdated": "2026-11-23T19:38:45.182Z",
   "sources": {
     "official": [
       "OpenAI Blog",
