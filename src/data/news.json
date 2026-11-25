@@ -2,10 +2,10 @@
   "news": [
     {
       "id": 1,
-      "title": "איך iFood מרחיבה את מספר סוכני הקידוד ב-15,000 מאגרים",
-      "originalTitle": "How iFood scales coding agents across 15,000 repositories",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "איך iFood מרחיבה את מספר סוכני הקידוד ב-15,000 מאגרים. מחקר חדש חושף תובנות מרתקות",
+      "title": "דגמי GPT -6 מדגימים יכולות עיצוב חלבונים מהותיות",
+      "originalTitle": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "דגמי GPT -6 מדגימים יכולות עיצוב חלבונים מהותיות. פיתוח חדש פותח אפשרויות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -13,22 +13,22 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/ifood",
+      "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 19 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": true,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 2,
-      "title": "OpenAI ו-Cisco מציגים את Shirudo",
-      "originalTitle": "OpenAI and Cisco introduce Shirudo",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "OpenAI ו-Cisco מציגים את Shirudo. פיתוח חדש פותח אפשרויות",
+      "title": "חיפוש כוכבי לכת רחוקים עם אסטרה",
+      "originalTitle": "Searching for distant planets with Astra",
+      "headline": "מחקר חדש חושף תובנות מרתקות",
+      "summary": "חיפוש כוכבי לכת רחוקים עם אסטרה. מחקר חדש חושף תובנות מרתקות",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -36,22 +36,45 @@
       ],
       "category": "מחקר",
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/introducing-shirudo",
+      "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
       "sourceType": "official",
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני 21 שעות",
+      "timeAgo": "לפני יום",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
       "id": 3,
-      "title": "חגיגה שמחה: לשחק, לבנות וליצור עם הטכנולוגיות של NVIDIA בעונת החגים הזו",
+      "title": "איך Intentful משתמשת בנקודות כדי לפנות יותר זמן לצמיחה",
+      "originalTitle": "How Intentful uses dots to make more time for growth",
+      "headline": "פיתוח חדש פותח אפשרויות",
+      "summary": "איך Intentful משתמשת בנקודות כדי לפנות יותר זמן לצמיחה. פיתוח חדש פותח אפשרויות",
+      "summaryBullets": [
+        "הודעה רשמית מחברת הטכנולוגיה המובילה",
+        "צפי להשפעה משמעותית על השוק",
+        "פרטים מלאים בקישור המקורי"
+      ],
+      "category": "מחקר",
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/business/customer-stories/intentful-dots",
+      "sourceType": "official",
+      "sourceTypeHebrew": "מקור רשמי",
+      "sourceIcon": "verified",
+      "favicon": "/favicons/openai-com.ico",
+      "timeAgo": "לפני יום",
+      "isBreaking": false,
+      "isVerified": true,
+      "isHebrew": false
+    },
+    {
+      "id": 4,
+      "title": "חגיגות שמחות: לשחק, לבנות וליצור עם הטכנולוגיות של NVIDIA בעונת החגים הזו",
       "originalTitle": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "headline": "התקדמות משמעותית בתחום",
-      "summary": "חגיגה שמחה: לשחק, לבנות וליצור עם הטכנולוגיות של NVIDIA בעונת החגים הזו. התקדמות משמעותית בתחום",
+      "summary": "חגיגות שמחות: לשחק, לבנות וליצור עם הטכנולוגיות של NVIDIA בעונת החגים הזו. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -64,17 +87,17 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "הדירקטוריון של NVIDIA מחזיר את ג'נסן הואנג לתפקיד הנשיא, המנכ\"ל וחבר הדירקטוריון",
       "originalTitle": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-      "headline": "השקה חדשה שתשנה את התעשייה",
-      "summary": "הדירקטוריון של NVIDIA מחזיר את ג'נסן הואנג לתפקיד הנשיא, המנכ\"ל וחבר הדירקטוריון. השקה חדשה שתשנה את התעשייה",
+      "headline": "עדכון משמעותי שכדאי להכיר",
+      "summary": "הדירקטוריון של NVIDIA מחזיר את ג'נסן הואנג לתפקיד הנשיא, המנכ\"ל וחבר הדירקטוריון. עדכון משמעותי שכדאי להכיר",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -87,30 +110,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני יום",
-      "isBreaking": false,
-      "isVerified": true,
-      "isHebrew": false
-    },
-    {
-      "id": 5,
-      "title": "אינטליגנציה מחוברת עבור מחלקות משפטיות פנימיות",
-      "originalTitle": "Connected intelligence for in-house legal",
-      "headline": "פיתוח חדש פותח אפשרויות",
-      "summary": "אינטליגנציה מחוברת עבור מחלקות משפטיות פנימיות. פיתוח חדש פותח אפשרויות",
-      "summaryBullets": [
-        "הודעה רשמית מחברת הטכנולוגיה המובילה",
-        "צפי להשפעה משמעותית על השוק",
-        "פרטים מלאים בקישור המקורי"
-      ],
-      "category": "מחקר",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "sourceType": "official",
-      "sourceTypeHebrew": "מקור רשמי",
-      "sourceIcon": "verified",
-      "favicon": "/favicons/openai-com.ico",
-      "timeAgo": "לפני יום",
+      "timeAgo": "לפני 2 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -119,8 +119,8 @@
       "id": 6,
       "title": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית",
       "originalTitle": "NVIDIA Announces Upcoming Event for Financial Community",
-      "headline": "עדכון משמעותי שכדאי להכיר",
-      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. עדכון משמעותי שכדאי להכיר",
+      "headline": "מוצר חדש מבטיח לחולל מהפכה",
+      "summary": "NVIDIA מכריזה על אירוע קרוב לקהילה הפיננסית. מוצר חדש מבטיח לחולל מהפכה",
       "summaryBullets": [
         "הודעה רשמית מחברת הטכנולוגיה המובילה",
         "צפי להשפעה משמעותית על השוק",
@@ -133,7 +133,7 @@
       "sourceTypeHebrew": "מקור רשמי",
       "sourceIcon": "verified",
       "favicon": "/favicons/nvidia-com.ico",
-      "timeAgo": "לפני 4 ימים",
+      "timeAgo": "לפני 5 ימים",
       "isBreaking": false,
       "isVerified": true,
       "isHebrew": false
@@ -186,8 +186,8 @@
       "id": 9,
       "title": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים",
       "originalTitle": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "headline": "מחקר חדש חושף תובנות מרתקות",
-      "summary": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים. מחקר חדש חושף תובנות מרתקות",
+      "headline": "התקדמות משמעותית בתחום",
+      "summary": "ככל שגוברים החששות בנוגע לבטיחות הבינה המלאכותית, שלושה חלוצים טוענים שיש להישאר פתוחים. התקדמות משמעותית בתחום",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -200,17 +200,17 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 104 ימים",
+      "timeAgo": "לפני 105 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
     },
     {
       "id": 10,
-      "title": "Converge Bio מגייסת 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , ‏ OpenAI , ‏Wiz",
+      "title": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz",
       "originalTitle": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
       "headline": "גיוס הון משמעותי בתעשיית ה-AI",
-      "summary": "Converge Bio מגייסת 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , ‏ OpenAI , ‏Wiz. גיוס הון משמעותי בתעשיית ה-AI",
+      "summary": "Converge Bio גייסה 25 מיליון דולר, בתמיכת Bessemer ומנהלים מ- Meta , OpenAI , Wiz. גיוס הון משמעותי בתעשיית ה-AI",
       "summaryBullets": [
         "סיקור מקיף מאתר טכנולוגיה מוביל",
         "ניתוח השלכות על התעשייה",
@@ -223,7 +223,7 @@
       "sourceTypeHebrew": "חדשות טכנולוגיה",
       "sourceIcon": "tech",
       "favicon": "/favicons/techcrunch-com.ico",
-      "timeAgo": "לפני 315 ימים",
+      "timeAgo": "לפני 316 ימים",
       "isBreaking": false,
       "isVerified": false,
       "isHebrew": false
@@ -266,7 +266,7 @@
       "category": "וידאו"
     }
   ],
-  "lastUpdated": "2026-11-24T19:12:05.773Z",
+  "lastUpdated": "2026-11-25T18:16:19.486Z",
   "sources": {
     "official": [
       "OpenAI Blog",
